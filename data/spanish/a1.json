@@ -1,0 +1,6004 @@
+{
+  "words": [
+    {
+      "word": "de",
+      "englishTranslation": "of; 's; used after the thing owned and before the owner",
+      "pronunciation": "de",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "preposition"
+      ],
+      "example": "Estoy aprendiendo la palabra «de».",
+      "exampleTranslation": "I am learning the word “de”."
+    },
+    {
+      "word": "ella",
+      "englishTranslation": "she, her (used subjectively and after prepositions)",
+      "pronunciation": "ella",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "pronoun"
+      ],
+      "example": "Estoy aprendiendo la palabra «ella».",
+      "exampleTranslation": "I am learning the word “ella”."
+    },
+    {
+      "word": "que",
+      "englishTranslation": "who; that",
+      "pronunciation": "que",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "pronoun"
+      ],
+      "example": "Estoy aprendiendo la palabra «que».",
+      "exampleTranslation": "I am learning the word “que”."
+    },
+    {
+      "word": "el",
+      "englishTranslation": "masculine singular definite article; the",
+      "pronunciation": "el",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "article"
+      ],
+      "example": "Estoy aprendiendo la palabra «el».",
+      "exampleTranslation": "I am learning the word “el”."
+    },
+    {
+      "word": "ser",
+      "englishTranslation": "to be (essentially or identified as)",
+      "pronunciation": "ser",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «ser».",
+      "exampleTranslation": "I am learning the word “ser”."
+    },
+    {
+      "word": "y",
+      "englishTranslation": "and",
+      "pronunciation": "y",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "conjunction"
+      ],
+      "example": "Estoy aprendiendo la palabra «y».",
+      "exampleTranslation": "I am learning the word “y”."
+    },
+    {
+      "word": "en",
+      "englishTranslation": "in, at, on",
+      "pronunciation": "en",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "preposition"
+      ],
+      "example": "Estoy aprendiendo la palabra «en».",
+      "exampleTranslation": "I am learning the word “en”."
+    },
+    {
+      "word": "él",
+      "englishTranslation": "he, him, masculine personal third person subject and disjunctive pronoun (used as a subject and after prepositions)",
+      "pronunciation": "él",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "pronoun"
+      ],
+      "example": "Estoy aprendiendo la palabra «él».",
+      "exampleTranslation": "I am learning the word “él”."
+    },
+    {
+      "word": "estar",
+      "englishTranslation": "to be (have a temporary or permanent location in space)",
+      "pronunciation": "estar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «estar».",
+      "exampleTranslation": "I am learning the word “estar”."
+    },
+    {
+      "word": "uno",
+      "englishTranslation": "one",
+      "pronunciation": "uno",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "numeral"
+      ],
+      "example": "Estoy aprendiendo la palabra «uno».",
+      "exampleTranslation": "I am learning the word “uno”."
+    },
+    {
+      "word": "haber",
+      "englishTranslation": "have; forms the perfect aspect [+masculine singular past participle]",
+      "pronunciation": "haber",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «haber».",
+      "exampleTranslation": "I am learning the word “haber”."
+    },
+    {
+      "word": "yo",
+      "englishTranslation": "first-person singular pronoun in the nominative case; I",
+      "pronunciation": "yo",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "pronoun"
+      ],
+      "example": "Estoy aprendiendo la palabra «yo».",
+      "exampleTranslation": "I am learning the word “yo”."
+    },
+    {
+      "word": "por",
+      "englishTranslation": "by",
+      "pronunciation": "por",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "preposition"
+      ],
+      "example": "Estoy aprendiendo la palabra «por».",
+      "exampleTranslation": "I am learning the word “por”."
+    },
+    {
+      "word": "tener",
+      "englishTranslation": "to have; to possess",
+      "pronunciation": "tener",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «tener».",
+      "exampleTranslation": "I am learning the word “tener”."
+    },
+    {
+      "word": "se",
+      "englishTranslation": "A reflexive or reciprocal pronoun: oneself, himself, herself, itself, yourself; themselves; yourselves; each other; one another",
+      "pronunciation": "se",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "pronoun"
+      ],
+      "example": "Estoy aprendiendo la palabra «se».",
+      "exampleTranslation": "I am learning the word “se”."
+    },
+    {
+      "word": "tú",
+      "englishTranslation": "you (second-person singular pronoun)",
+      "pronunciation": "tú",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "pronoun"
+      ],
+      "example": "Estoy aprendiendo la palabra «tú».",
+      "exampleTranslation": "I am learning the word “tú”."
+    },
+    {
+      "word": "ir",
+      "englishTranslation": "to go (away from speaker and listener)",
+      "pronunciation": "ir",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «ir».",
+      "exampleTranslation": "I am learning the word “ir”."
+    },
+    {
+      "word": "hacer",
+      "englishTranslation": "to do, perform, execute, carry out",
+      "pronunciation": "hacer",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «hacer».",
+      "exampleTranslation": "I am learning the word “hacer”."
+    },
+    {
+      "word": "con",
+      "englishTranslation": "with",
+      "pronunciation": "con",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "preposition"
+      ],
+      "example": "Estoy aprendiendo la palabra «con».",
+      "exampleTranslation": "I am learning the word “con”."
+    },
+    {
+      "word": "qué",
+      "englishTranslation": "what",
+      "pronunciation": "qué",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "pronoun"
+      ],
+      "example": "Estoy aprendiendo la palabra «qué».",
+      "exampleTranslation": "I am learning the word “qué”."
+    },
+    {
+      "word": "suyo",
+      "englishTranslation": "his, hers, its, to her",
+      "pronunciation": "suyo",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "determiner"
+      ],
+      "example": "Estoy aprendiendo la palabra «suyo».",
+      "exampleTranslation": "I am learning the word “suyo”."
+    },
+    {
+      "word": "poder",
+      "englishTranslation": "to be able to, can",
+      "pronunciation": "poder",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «poder».",
+      "exampleTranslation": "I am learning the word “poder”."
+    },
+    {
+      "word": "para",
+      "englishTranslation": "for, to (expressing a recipient)",
+      "pronunciation": "para",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "preposition"
+      ],
+      "example": "Estoy aprendiendo la palabra «para».",
+      "exampleTranslation": "I am learning the word “para”."
+    },
+    {
+      "word": "del",
+      "englishTranslation": "of the, from the (+ a masculine noun in singular)",
+      "pronunciation": "del",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "contraction"
+      ],
+      "example": "Estoy aprendiendo la palabra «del».",
+      "exampleTranslation": "I am learning the word “del”."
+    },
+    {
+      "word": "decir",
+      "englishTranslation": "to say, to tell",
+      "pronunciation": "decir",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «decir».",
+      "exampleTranslation": "I am learning the word “decir”."
+    },
+    {
+      "word": "este",
+      "englishTranslation": "this",
+      "pronunciation": "este",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "determiner"
+      ],
+      "example": "Estoy aprendiendo la palabra «este».",
+      "exampleTranslation": "I am learning the word “este”."
+    },
+    {
+      "word": "todo",
+      "englishTranslation": "all; every",
+      "pronunciation": "todo",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "determiner"
+      ],
+      "example": "Estoy aprendiendo la palabra «todo».",
+      "exampleTranslation": "I am learning the word “todo”."
+    },
+    {
+      "word": "mío",
+      "englishTranslation": "mine, my; of mine",
+      "pronunciation": "mío",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "determiner"
+      ],
+      "example": "Estoy aprendiendo la palabra «mío».",
+      "exampleTranslation": "I am learning the word “mío”."
+    },
+    {
+      "word": "pero",
+      "englishTranslation": "but",
+      "pronunciation": "pero",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "conjunction"
+      ],
+      "example": "Estoy aprendiendo la palabra «pero».",
+      "exampleTranslation": "I am learning the word “pero”."
+    },
+    {
+      "word": "si",
+      "englishTranslation": "if, whether",
+      "pronunciation": "si",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "conjunction"
+      ],
+      "example": "Estoy aprendiendo la palabra «si».",
+      "exampleTranslation": "I am learning the word “si”."
+    },
+    {
+      "word": "querer",
+      "englishTranslation": "to desire, to want, to want to",
+      "pronunciation": "querer",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «querer».",
+      "exampleTranslation": "I am learning the word “querer”."
+    },
+    {
+      "word": "al",
+      "englishTranslation": "contraction of \"el\"",
+      "pronunciation": "al",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "contraction"
+      ],
+      "example": "Estoy aprendiendo la palabra «al».",
+      "exampleTranslation": "I am learning the word “al”."
+    },
+    {
+      "word": "sí",
+      "englishTranslation": "prepositional form of se",
+      "pronunciation": "sí",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "pronoun"
+      ],
+      "example": "Estoy aprendiendo la palabra «sí».",
+      "exampleTranslation": "I am learning the word “sí”."
+    },
+    {
+      "word": "como",
+      "englishTranslation": "as (introducing a basis of comparison or equality)",
+      "pronunciation": "como",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "conjunction"
+      ],
+      "example": "Estoy aprendiendo la palabra «como».",
+      "exampleTranslation": "I am learning the word “como”."
+    },
+    {
+      "word": "ése",
+      "englishTranslation": "that one",
+      "pronunciation": "ése",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "pronoun"
+      ],
+      "example": "Estoy aprendiendo la palabra «ése».",
+      "exampleTranslation": "I am learning the word “ése”."
+    },
+    {
+      "word": "bien",
+      "englishTranslation": "well (adverbial form of bueno)",
+      "pronunciation": "bien",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adverb"
+      ],
+      "example": "Estoy aprendiendo la palabra «bien».",
+      "exampleTranslation": "I am learning the word “bien”."
+    },
+    {
+      "word": "más",
+      "englishTranslation": "more; -er (used to make comparisons)",
+      "pronunciation": "más",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adverb"
+      ],
+      "example": "Estoy aprendiendo la palabra «más».",
+      "exampleTranslation": "I am learning the word “más”."
+    },
+    {
+      "word": "ver",
+      "englishTranslation": "to see, to spot",
+      "pronunciation": "ver",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «ver».",
+      "exampleTranslation": "I am learning the word “ver”."
+    },
+    {
+      "word": "tuyo",
+      "englishTranslation": "yours, your",
+      "pronunciation": "tuyo",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "determiner"
+      ],
+      "example": "Estoy aprendiendo la palabra «tuyo».",
+      "exampleTranslation": "I am learning the word “tuyo”."
+    },
+    {
+      "word": "saber",
+      "englishTranslation": "to know, to understand (a fact)",
+      "pronunciation": "saber",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «saber».",
+      "exampleTranslation": "I am learning the word “saber”."
+    },
+    {
+      "word": "ese",
+      "englishTranslation": "that",
+      "pronunciation": "ese",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "determiner"
+      ],
+      "example": "Estoy aprendiendo la palabra «ese».",
+      "exampleTranslation": "I am learning the word “ese”."
+    },
+    {
+      "word": "aquí",
+      "englishTranslation": "here (in the speaker's location)",
+      "pronunciation": "aquí",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adverb"
+      ],
+      "example": "Estoy aprendiendo la palabra «aquí».",
+      "exampleTranslation": "I am learning the word “aquí”."
+    },
+    {
+      "word": "éste",
+      "englishTranslation": "this one",
+      "pronunciation": "éste",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "pronoun"
+      ],
+      "example": "Estoy aprendiendo la palabra «éste».",
+      "exampleTranslation": "I am learning the word “éste”."
+    },
+    {
+      "word": "nosotros",
+      "englishTranslation": "we (masculine plural)",
+      "pronunciation": "nosotros",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "pronoun"
+      ],
+      "example": "Estoy aprendiendo la palabra «nosotros».",
+      "exampleTranslation": "I am learning the word “nosotros”."
+    },
+    {
+      "word": "creer",
+      "englishTranslation": "to believe",
+      "pronunciation": "creer",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «creer».",
+      "exampleTranslation": "I am learning the word “creer”."
+    },
+    {
+      "word": "ya",
+      "englishTranslation": "(in the present or imperative) now, right now, (in the negative) anymore, no longer",
+      "pronunciation": "ya",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adverb"
+      ],
+      "example": "Estoy aprendiendo la palabra «ya».",
+      "exampleTranslation": "I am learning the word “ya”."
+    },
+    {
+      "word": "o",
+      "englishTranslation": "or",
+      "pronunciation": "o",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "conjunction"
+      ],
+      "example": "Estoy aprendiendo la palabra «o».",
+      "exampleTranslation": "I am learning the word “o”."
+    },
+    {
+      "word": "dar",
+      "englishTranslation": "to give, to give out",
+      "pronunciation": "dar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «dar».",
+      "exampleTranslation": "I am learning the word “dar”."
+    },
+    {
+      "word": "deber",
+      "englishTranslation": "to owe",
+      "pronunciation": "deber",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «deber».",
+      "exampleTranslation": "I am learning the word “deber”."
+    },
+    {
+      "word": "mucho",
+      "englishTranslation": "much, a lot, far, way, many times",
+      "pronunciation": "mucho",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adverb"
+      ],
+      "example": "Estoy aprendiendo la palabra «mucho».",
+      "exampleTranslation": "I am learning the word “mucho”."
+    },
+    {
+      "word": "otro",
+      "englishTranslation": "other, another",
+      "pronunciation": "otro",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "determiner"
+      ],
+      "example": "Estoy aprendiendo la palabra «otro».",
+      "exampleTranslation": "I am learning the word “otro”."
+    },
+    {
+      "word": "así",
+      "englishTranslation": "like this; like that; as such; thus; so; thereby; this way, that way",
+      "pronunciation": "así",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adverb"
+      ],
+      "example": "Estoy aprendiendo la palabra «así».",
+      "exampleTranslation": "I am learning the word “así”."
+    },
+    {
+      "word": "ahora",
+      "englishTranslation": "now (at the present time)",
+      "pronunciation": "ahora",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adverb"
+      ],
+      "example": "Estoy aprendiendo la palabra «ahora».",
+      "exampleTranslation": "I am learning the word “ahora”."
+    },
+    {
+      "word": "vez",
+      "englishTranslation": "time, instance",
+      "pronunciation": "vez",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «vez».",
+      "exampleTranslation": "I am learning the word “vez”."
+    },
+    {
+      "word": "cuando",
+      "englishTranslation": "when",
+      "pronunciation": "cuando",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "conjunction"
+      ],
+      "example": "Estoy aprendiendo la palabra «cuando».",
+      "exampleTranslation": "I am learning the word “cuando”."
+    },
+    {
+      "word": "algo",
+      "englishTranslation": "something, anything",
+      "pronunciation": "algo",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "pronoun"
+      ],
+      "example": "Estoy aprendiendo la palabra «algo».",
+      "exampleTranslation": "I am learning the word “algo”."
+    },
+    {
+      "word": "dejar",
+      "englishTranslation": "to leave (to place)",
+      "pronunciation": "dejar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «dejar».",
+      "exampleTranslation": "I am learning the word “dejar”."
+    },
+    {
+      "word": "hablar",
+      "englishTranslation": "to talk; to speak; to communicate using words",
+      "pronunciation": "hablar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «hablar».",
+      "exampleTranslation": "I am learning the word “hablar”."
+    },
+    {
+      "word": "bueno",
+      "englishTranslation": "okay; fine",
+      "pronunciation": "bueno",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "interjection"
+      ],
+      "example": "Estoy aprendiendo la palabra «bueno».",
+      "exampleTranslation": "I am learning the word “bueno”."
+    },
+    {
+      "word": "pasar",
+      "englishTranslation": "to pass, to hand, to slip",
+      "pronunciation": "pasar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «pasar».",
+      "exampleTranslation": "I am learning the word “pasar”."
+    },
+    {
+      "word": "nada",
+      "englishTranslation": "nothing, zero, zilch, not...anything",
+      "pronunciation": "nada",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "pronoun"
+      ],
+      "example": "Estoy aprendiendo la palabra «nada».",
+      "exampleTranslation": "I am learning the word “nada”."
+    },
+    {
+      "word": "cómo",
+      "englishTranslation": "how?",
+      "pronunciation": "cómo",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adverb"
+      ],
+      "example": "Estoy aprendiendo la palabra «cómo».",
+      "exampleTranslation": "I am learning the word “cómo”."
+    },
+    {
+      "word": "solo",
+      "englishTranslation": "only; solely; just",
+      "pronunciation": "solo",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adverb"
+      ],
+      "example": "Estoy aprendiendo la palabra «solo».",
+      "exampleTranslation": "I am learning the word “solo”."
+    },
+    {
+      "word": "sentir",
+      "englishTranslation": "to feel",
+      "pronunciation": "sentir",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «sentir».",
+      "exampleTranslation": "I am learning the word “sentir”."
+    },
+    {
+      "word": "pensar",
+      "englishTranslation": "to think, ponder",
+      "pronunciation": "pensar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «pensar».",
+      "exampleTranslation": "I am learning the word “pensar”."
+    },
+    {
+      "word": "porque",
+      "englishTranslation": "because",
+      "pronunciation": "porque",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "conjunction"
+      ],
+      "example": "Estoy aprendiendo la palabra «porque».",
+      "exampleTranslation": "I am learning the word “porque”."
+    },
+    {
+      "word": "esperar",
+      "englishTranslation": "to hope [+direct object (for something) or infinitive (to do something) or que (+ subjunctive clause) (that something happens)]",
+      "pronunciation": "esperar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «esperar».",
+      "exampleTranslation": "I am learning the word “esperar”."
+    },
+    {
+      "word": "usted",
+      "englishTranslation": "second person formal; you (singular)",
+      "pronunciation": "usted",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "pronoun"
+      ],
+      "example": "Estoy aprendiendo la palabra «usted».",
+      "exampleTranslation": "I am learning the word “usted”."
+    },
+    {
+      "word": "día",
+      "englishTranslation": "day (any period of 24 hours)",
+      "pronunciation": "día",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «día».",
+      "exampleTranslation": "I am learning the word “día”."
+    },
+    {
+      "word": "año",
+      "englishTranslation": "year",
+      "pronunciation": "año",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «año».",
+      "exampleTranslation": "I am learning the word “año”."
+    },
+    {
+      "word": "padre",
+      "englishTranslation": "father, parent",
+      "pronunciation": "padre",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «padre».",
+      "exampleTranslation": "I am learning the word “padre”."
+    },
+    {
+      "word": "venir",
+      "englishTranslation": "Senses relating to literal movement. [+de (from) or desde (from), along with a (to) or para (to, toward) or hacia (toward)]",
+      "pronunciation": "venir",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «venir».",
+      "exampleTranslation": "I am learning the word “venir”."
+    },
+    {
+      "word": "nuestro",
+      "englishTranslation": "our, ours, to us",
+      "pronunciation": "nuestro",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "determiner"
+      ],
+      "example": "Estoy aprendiendo la palabra «nuestro».",
+      "exampleTranslation": "I am learning the word “nuestro”."
+    },
+    {
+      "word": "gracias",
+      "englishTranslation": "thanks",
+      "pronunciation": "gracias",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «gracias».",
+      "exampleTranslation": "I am learning the word “gracias”."
+    },
+    {
+      "word": "cosa",
+      "englishTranslation": "thing (object, concept)",
+      "pronunciation": "cosa",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «cosa».",
+      "exampleTranslation": "I am learning the word “cosa”."
+    },
+    {
+      "word": "dos",
+      "englishTranslation": "two",
+      "pronunciation": "dos",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "numeral"
+      ],
+      "example": "Estoy aprendiendo la palabra «dos».",
+      "exampleTranslation": "I am learning the word “dos”."
+    },
+    {
+      "word": "sin",
+      "englishTranslation": "without",
+      "pronunciation": "sin",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "preposition"
+      ],
+      "example": "Estoy aprendiendo la palabra «sin».",
+      "exampleTranslation": "I am learning the word “sin”."
+    },
+    {
+      "word": "sobre",
+      "englishTranslation": "over, above, on, upon, atop",
+      "pronunciation": "sobre",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "preposition"
+      ],
+      "example": "Estoy aprendiendo la palabra «sobre».",
+      "exampleTranslation": "I am learning the word “sobre”."
+    },
+    {
+      "word": "alguno",
+      "englishTranslation": "some, any",
+      "pronunciation": "alguno",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "determiner"
+      ],
+      "example": "Estoy aprendiendo la palabra «alguno».",
+      "exampleTranslation": "I am learning the word “alguno”."
+    },
+    {
+      "word": "señor",
+      "englishTranslation": "mister, sir, lord (title conferred on a married or older male)",
+      "pronunciation": "señor",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «señor».",
+      "exampleTranslation": "I am learning the word “señor”."
+    },
+    {
+      "word": "mirar",
+      "englishTranslation": "to look at (to try to see, to pay attention to with one’s eyes)",
+      "pronunciation": "mirar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «mirar».",
+      "exampleTranslation": "I am learning the word “mirar”."
+    },
+    {
+      "word": "hombre",
+      "englishTranslation": "man, (adult male human)",
+      "pronunciation": "hombre",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «hombre».",
+      "exampleTranslation": "I am learning the word “hombre”."
+    },
+    {
+      "word": "tiempo",
+      "englishTranslation": "time",
+      "pronunciation": "tiempo",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «tiempo».",
+      "exampleTranslation": "I am learning the word “tiempo”."
+    },
+    {
+      "word": "también",
+      "englishTranslation": "also, too, as well",
+      "pronunciation": "también",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adverb"
+      ],
+      "example": "Estoy aprendiendo la palabra «también».",
+      "exampleTranslation": "I am learning the word “también”."
+    },
+    {
+      "word": "mismo",
+      "englishTranslation": "same; identical; one and the same; indicates that the two compared noun clauses both represent the one thing",
+      "pronunciation": "mismo",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adjective"
+      ],
+      "example": "Estoy aprendiendo la palabra «mismo».",
+      "exampleTranslation": "I am learning the word “mismo”."
+    },
+    {
+      "word": "necesitar",
+      "englishTranslation": "to need",
+      "pronunciation": "necesitar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «necesitar».",
+      "exampleTranslation": "I am learning the word “necesitar”."
+    },
+    {
+      "word": "casa",
+      "englishTranslation": "house",
+      "pronunciation": "casa",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «casa».",
+      "exampleTranslation": "I am learning the word “casa”."
+    },
+    {
+      "word": "llevar",
+      "englishTranslation": "to take somewhere",
+      "pronunciation": "llevar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «llevar».",
+      "exampleTranslation": "I am learning the word “llevar”."
+    },
+    {
+      "word": "tan",
+      "englishTranslation": "so, as",
+      "pronunciation": "tan",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adverb"
+      ],
+      "example": "Estoy aprendiendo la palabra «tan».",
+      "exampleTranslation": "I am learning the word “tan”."
+    },
+    {
+      "word": "entonces",
+      "englishTranslation": "then, next, thereupon, at that time, at that point",
+      "pronunciation": "entonces",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adverb"
+      ],
+      "example": "Estoy aprendiendo la palabra «entonces».",
+      "exampleTranslation": "I am learning the word “entonces”."
+    },
+    {
+      "word": "encontrar",
+      "englishTranslation": "to meet",
+      "pronunciation": "encontrar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «encontrar».",
+      "exampleTranslation": "I am learning the word “encontrar”."
+    },
+    {
+      "word": "volver",
+      "englishTranslation": "to return, to revert, to get back",
+      "pronunciation": "volver",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «volver».",
+      "exampleTranslation": "I am learning the word “volver”."
+    },
+    {
+      "word": "llamar",
+      "englishTranslation": "to summon, to call",
+      "pronunciation": "llamar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «llamar».",
+      "exampleTranslation": "I am learning the word “llamar”."
+    },
+    {
+      "word": "parecer",
+      "englishTranslation": "to seem, to see fit",
+      "pronunciation": "parecer",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «parecer».",
+      "exampleTranslation": "I am learning the word “parecer”."
+    },
+    {
+      "word": "nuevo",
+      "englishTranslation": "new",
+      "pronunciation": "nuevo",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adjective"
+      ],
+      "example": "Estoy aprendiendo la palabra «nuevo».",
+      "exampleTranslation": "I am learning the word “nuevo”."
+    },
+    {
+      "word": "mejor",
+      "englishTranslation": "better",
+      "pronunciation": "mejor",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adjective"
+      ],
+      "example": "Estoy aprendiendo la palabra «mejor».",
+      "exampleTranslation": "I am learning the word “mejor”."
+    },
+    {
+      "word": "primero",
+      "englishTranslation": "first, first up",
+      "pronunciation": "primero",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adjective"
+      ],
+      "example": "Estoy aprendiendo la palabra «primero».",
+      "exampleTranslation": "I am learning the word “primero”."
+    },
+    {
+      "word": "verdad",
+      "englishTranslation": "truth",
+      "pronunciation": "verdad",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «verdad».",
+      "exampleTranslation": "I am learning the word “verdad”."
+    },
+    {
+      "word": "hasta",
+      "englishTranslation": "until",
+      "pronunciation": "hasta",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "preposition"
+      ],
+      "example": "Estoy aprendiendo la palabra «hasta».",
+      "exampleTranslation": "I am learning the word “hasta”."
+    },
+    {
+      "word": "quién",
+      "englishTranslation": "who?, whom?; (with “de”) whose?",
+      "pronunciation": "quién",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "pronoun"
+      ],
+      "example": "Estoy aprendiendo la palabra «quién».",
+      "exampleTranslation": "I am learning the word “quién”."
+    },
+    {
+      "word": "vida",
+      "englishTranslation": "life",
+      "pronunciation": "vida",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «vida».",
+      "exampleTranslation": "I am learning the word “vida”."
+    },
+    {
+      "word": "nunca",
+      "englishTranslation": "never",
+      "pronunciation": "nunca",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adverb"
+      ],
+      "example": "Estoy aprendiendo la palabra «nunca».",
+      "exampleTranslation": "I am learning the word “nunca”."
+    },
+    {
+      "word": "tomar",
+      "englishTranslation": "to take (put under one's physical or mental control, often in one's hands)",
+      "pronunciation": "tomar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «tomar».",
+      "exampleTranslation": "I am learning the word “tomar”."
+    },
+    {
+      "word": "quedar",
+      "englishTranslation": "to be (as a result of something), to end up",
+      "pronunciation": "quedar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «quedar».",
+      "exampleTranslation": "I am learning the word “quedar”."
+    },
+    {
+      "word": "grande",
+      "englishTranslation": "big, large",
+      "pronunciation": "grande",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adjective"
+      ],
+      "example": "Estoy aprendiendo la palabra «grande».",
+      "exampleTranslation": "I am learning the word “grande”."
+    },
+    {
+      "word": "llegar",
+      "englishTranslation": "to arrive, get (to)",
+      "pronunciation": "llegar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «llegar».",
+      "exampleTranslation": "I am learning the word “llegar”."
+    },
+    {
+      "word": "hola",
+      "englishTranslation": "hello, hi, hey",
+      "pronunciation": "hola",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "interjection"
+      ],
+      "example": "Estoy aprendiendo la palabra «hola».",
+      "exampleTranslation": "I am learning the word “hola”."
+    },
+    {
+      "word": "chico",
+      "englishTranslation": "boy; kid",
+      "pronunciation": "chico",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «chico».",
+      "exampleTranslation": "I am learning the word “chico”."
+    },
+    {
+      "word": "poner",
+      "englishTranslation": "to put, to place (cause to assume a specified position)",
+      "pronunciation": "poner",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «poner».",
+      "exampleTranslation": "I am learning the word “poner”."
+    },
+    {
+      "word": "oír",
+      "englishTranslation": "to hear",
+      "pronunciation": "oír",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «oír».",
+      "exampleTranslation": "I am learning the word “oír”."
+    },
+    {
+      "word": "noche",
+      "englishTranslation": "night (the period between sunset and sunrise)",
+      "pronunciation": "noche",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «noche».",
+      "exampleTranslation": "I am learning the word “noche”."
+    },
+    {
+      "word": "mí",
+      "englishTranslation": "me; (declined form of yo used as the object of a preposition)",
+      "pronunciation": "mí",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "pronoun"
+      ],
+      "example": "Estoy aprendiendo la palabra «mí».",
+      "exampleTranslation": "I am learning the word “mí”."
+    },
+    {
+      "word": "hijo",
+      "englishTranslation": "son",
+      "pronunciation": "hijo",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «hijo».",
+      "exampleTranslation": "I am learning the word “hijo”."
+    },
+    {
+      "word": "dónde",
+      "englishTranslation": "where?; in what place?",
+      "pronunciation": "dónde",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adverb"
+      ],
+      "example": "Estoy aprendiendo la palabra «dónde».",
+      "exampleTranslation": "I am learning the word “dónde”."
+    },
+    {
+      "word": "ni",
+      "englishTranslation": "Used when negating two or more elements, and not, not A or B, not A nor B, neither A nor B",
+      "pronunciation": "ni",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "conjunction"
+      ],
+      "example": "Estoy aprendiendo la palabra «ni».",
+      "exampleTranslation": "I am learning the word “ni”."
+    },
+    {
+      "word": "salir",
+      "englishTranslation": "to go out, to leave, to depart, to head out",
+      "pronunciation": "salir",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «salir».",
+      "exampleTranslation": "I am learning the word “salir”."
+    },
+    {
+      "word": "favor",
+      "englishTranslation": "favor/favour",
+      "pronunciation": "favor",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «favor».",
+      "exampleTranslation": "I am learning the word “favor”."
+    },
+    {
+      "word": "gustar",
+      "englishTranslation": "translated as \"to like\", analyzable in structure as \"to please\" [+dative (someone)] (the thing being liked is the subject, while the \"liker\" is in the dative case (\"indirect object\")). See the usage notes for more. Compare similar structures in Italian \"piacere\", Romanian \"plăcea\", German \"gefallen\" and Russian \"нравиться\"",
+      "pronunciation": "gustar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «gustar».",
+      "exampleTranslation": "I am learning the word “gustar”."
+    },
+    {
+      "word": "seguir",
+      "englishTranslation": "to follow",
+      "pronunciation": "seguir",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «seguir».",
+      "exampleTranslation": "I am learning the word “seguir”."
+    },
+    {
+      "word": "amigo",
+      "englishTranslation": "friend",
+      "pronunciation": "amigo",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «amigo».",
+      "exampleTranslation": "I am learning the word “amigo”."
+    },
+    {
+      "word": "oh",
+      "englishTranslation": "oh (expression of awe, surprise, pain or realization)",
+      "pronunciation": "oh",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "interjection"
+      ],
+      "example": "Estoy aprendiendo la palabra «oh».",
+      "exampleTranslation": "I am learning the word “oh”."
+    },
+    {
+      "word": "siempre",
+      "englishTranslation": "always",
+      "pronunciation": "siempre",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adverb"
+      ],
+      "example": "Estoy aprendiendo la palabra «siempre».",
+      "exampleTranslation": "I am learning the word “siempre”."
+    },
+    {
+      "word": "papá",
+      "englishTranslation": "dad",
+      "pronunciation": "papá",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «papá».",
+      "exampleTranslation": "I am learning the word “papá”."
+    },
+    {
+      "word": "Dios",
+      "englishTranslation": "God",
+      "pronunciation": "Dios",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "proper noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «Dios».",
+      "exampleTranslation": "I am learning the word “Dios”."
+    },
+    {
+      "word": "antes",
+      "englishTranslation": "earlier; before; sooner; previously; formerly; beforehand (at an earlier time)",
+      "pronunciation": "antes",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adverb"
+      ],
+      "example": "Estoy aprendiendo la palabra «antes».",
+      "exampleTranslation": "I am learning the word “antes”."
+    },
+    {
+      "word": "desde",
+      "englishTranslation": "since (from a specified time in the past)",
+      "pronunciation": "desde",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "preposition"
+      ],
+      "example": "Estoy aprendiendo la palabra «desde».",
+      "exampleTranslation": "I am learning the word “desde”."
+    },
+    {
+      "word": "conocer",
+      "englishTranslation": "to know (a person or a place), to be familiar with, to be acquainted with",
+      "pronunciation": "conocer",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «conocer».",
+      "exampleTranslation": "I am learning the word “conocer”."
+    },
+    {
+      "word": "poco",
+      "englishTranslation": "little (not much)",
+      "pronunciation": "poco",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adverb"
+      ],
+      "example": "Estoy aprendiendo la palabra «poco».",
+      "exampleTranslation": "I am learning the word “poco”."
+    },
+    {
+      "word": "ahí",
+      "englishTranslation": "there (away from the speaker)",
+      "pronunciation": "ahí",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adverb"
+      ],
+      "example": "Estoy aprendiendo la palabra «ahí».",
+      "exampleTranslation": "I am learning the word “ahí”."
+    },
+    {
+      "word": "alguien",
+      "englishTranslation": "someone, somebody",
+      "pronunciation": "alguien",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "pronoun"
+      ],
+      "example": "Estoy aprendiendo la palabra «alguien».",
+      "exampleTranslation": "I am learning the word “alguien”."
+    },
+    {
+      "word": "trabajo",
+      "englishTranslation": "work, job",
+      "pronunciation": "trabajo",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «trabajo».",
+      "exampleTranslation": "I am learning the word “trabajo”."
+    },
+    {
+      "word": "mujer",
+      "englishTranslation": "woman",
+      "pronunciation": "mujer",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «mujer».",
+      "exampleTranslation": "I am learning the word “mujer”."
+    },
+    {
+      "word": "entre",
+      "englishTranslation": "between",
+      "pronunciation": "entre",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "preposition"
+      ],
+      "example": "Estoy aprendiendo la palabra «entre».",
+      "exampleTranslation": "I am learning the word “entre”."
+    },
+    {
+      "word": "después",
+      "englishTranslation": "later, afterwards, afterward, post",
+      "pronunciation": "después",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adverb"
+      ],
+      "example": "Estoy aprendiendo la palabra «después».",
+      "exampleTranslation": "I am learning the word “después”."
+    },
+    {
+      "word": "parte",
+      "englishTranslation": "part; section; portion; share; piece; bit; cut; proportion",
+      "pronunciation": "parte",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «parte».",
+      "exampleTranslation": "I am learning the word “parte”."
+    },
+    {
+      "word": "mi",
+      "englishTranslation": "mu; the Greek letter Μ, μ",
+      "pronunciation": "mi",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «mi».",
+      "exampleTranslation": "I am learning the word “mi”."
+    },
+    {
+      "word": "acuerdo",
+      "englishTranslation": "agreement",
+      "pronunciation": "acuerdo",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «acuerdo».",
+      "exampleTranslation": "I am learning the word “acuerdo”."
+    },
+    {
+      "word": "escuchar",
+      "englishTranslation": "to listen to, to hear out",
+      "pronunciation": "escuchar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «escuchar».",
+      "exampleTranslation": "I am learning the word “escuchar”."
+    },
+    {
+      "word": "momento",
+      "englishTranslation": "moment, instant",
+      "pronunciation": "momento",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «momento».",
+      "exampleTranslation": "I am learning the word “momento”."
+    },
+    {
+      "word": "matar",
+      "englishTranslation": "to kill, slay",
+      "pronunciation": "matar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «matar».",
+      "exampleTranslation": "I am learning the word “matar”."
+    },
+    {
+      "word": "donde",
+      "englishTranslation": "where, in what place",
+      "pronunciation": "donde",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "pronoun"
+      ],
+      "example": "Estoy aprendiendo la palabra «donde».",
+      "exampleTranslation": "I am learning the word “donde”."
+    },
+    {
+      "word": "seguro",
+      "englishTranslation": "secure; safe (free from danger)",
+      "pronunciation": "seguro",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adjective"
+      ],
+      "example": "Estoy aprendiendo la palabra «seguro».",
+      "exampleTranslation": "I am learning the word “seguro”."
+    },
+    {
+      "word": "mundo",
+      "englishTranslation": "world, earth (human collective existence)",
+      "pronunciation": "mundo",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «mundo».",
+      "exampleTranslation": "I am learning the word “mundo”."
+    },
+    {
+      "word": "gente",
+      "englishTranslation": "people",
+      "pronunciation": "gente",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «gente».",
+      "exampleTranslation": "I am learning the word “gente”."
+    },
+    {
+      "word": "niño",
+      "englishTranslation": "child, boy",
+      "pronunciation": "niño",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «niño».",
+      "exampleTranslation": "I am learning the word “niño”."
+    },
+    {
+      "word": "hora",
+      "englishTranslation": "hour (a time period of sixty minutes)",
+      "pronunciation": "hora",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «hora».",
+      "exampleTranslation": "I am learning the word “hora”."
+    },
+    {
+      "word": "buscar",
+      "englishTranslation": "to seek, search for, look for, try to find, to scour",
+      "pronunciation": "buscar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «buscar».",
+      "exampleTranslation": "I am learning the word “buscar”."
+    },
+    {
+      "word": "problema",
+      "englishTranslation": "problem, issue, challenge (a difficulty or obstacle that has to be dealt with)",
+      "pronunciation": "problema",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «problema».",
+      "exampleTranslation": "I am learning the word “problema”."
+    },
+    {
+      "word": "Estado",
+      "englishTranslation": "state (any sovereign polity)",
+      "pronunciation": "Estado",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "proper noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «Estado».",
+      "exampleTranslation": "I am learning the word “Estado”."
+    },
+    {
+      "word": "lugar",
+      "englishTranslation": "place",
+      "pronunciation": "lugar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «lugar».",
+      "exampleTranslation": "I am learning the word “lugar”."
+    },
+    {
+      "word": "nadie",
+      "englishTranslation": "no one; nobody (anyone or anybody)",
+      "pronunciation": "nadie",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "pronoun"
+      ],
+      "example": "Estoy aprendiendo la palabra «nadie».",
+      "exampleTranslation": "I am learning the word “nadie”."
+    },
+    {
+      "word": "tal",
+      "englishTranslation": "such",
+      "pronunciation": "tal",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "pronoun"
+      ],
+      "example": "Estoy aprendiendo la palabra «tal».",
+      "exampleTranslation": "I am learning the word “tal”."
+    },
+    {
+      "word": "ayudar",
+      "englishTranslation": "to help",
+      "pronunciation": "ayudar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «ayudar».",
+      "exampleTranslation": "I am learning the word “ayudar”."
+    },
+    {
+      "word": "perder",
+      "englishTranslation": "to lose",
+      "pronunciation": "perder",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «perder».",
+      "exampleTranslation": "I am learning the word “perder”."
+    },
+    {
+      "word": "ustedes",
+      "englishTranslation": "you (plural), you guys, y'all, yous, yinz, ye",
+      "pronunciation": "ustedes",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "pronoun"
+      ],
+      "example": "Estoy aprendiendo la palabra «ustedes».",
+      "exampleTranslation": "I am learning the word “ustedes”."
+    },
+    {
+      "word": "persona",
+      "englishTranslation": "person (an individual; usually a human being)",
+      "pronunciation": "persona",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «persona».",
+      "exampleTranslation": "I am learning the word “persona”."
+    },
+    {
+      "word": "tipo",
+      "englishTranslation": "kind, type, sort, manner",
+      "pronunciation": "tipo",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «tipo».",
+      "exampleTranslation": "I am learning the word “tipo”."
+    },
+    {
+      "word": "claro",
+      "englishTranslation": "clear (easily understood)",
+      "pronunciation": "claro",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adjective"
+      ],
+      "example": "Estoy aprendiendo la palabra «claro».",
+      "exampleTranslation": "I am learning the word “claro”."
+    },
+    {
+      "word": "entender",
+      "englishTranslation": "to understand, to fathom",
+      "pronunciation": "entender",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «entender».",
+      "exampleTranslation": "I am learning the word “entender”."
+    },
+    {
+      "word": "menos",
+      "englishTranslation": "less",
+      "pronunciation": "menos",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adverb"
+      ],
+      "example": "Estoy aprendiendo la palabra «menos».",
+      "exampleTranslation": "I am learning the word “menos”."
+    },
+    {
+      "word": "fuera",
+      "englishTranslation": "outside",
+      "pronunciation": "fuera",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adverb"
+      ],
+      "example": "Estoy aprendiendo la palabra «fuera».",
+      "exampleTranslation": "I am learning the word “fuera”."
+    },
+    {
+      "word": "acabar",
+      "englishTranslation": "to finish; to end",
+      "pronunciation": "acabar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «acabar».",
+      "exampleTranslation": "I am learning the word “acabar”."
+    },
+    {
+      "word": "tratar",
+      "englishTranslation": "to treat (to handle, behave toward in a specific way)",
+      "pronunciation": "tratar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «tratar».",
+      "exampleTranslation": "I am learning the word “tratar”."
+    },
+    {
+      "word": "tres",
+      "englishTranslation": "three",
+      "pronunciation": "tres",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "numeral"
+      ],
+      "example": "Estoy aprendiendo la palabra «tres».",
+      "exampleTranslation": "I am learning the word “tres”."
+    },
+    {
+      "word": "último",
+      "englishTranslation": "final; last",
+      "pronunciation": "último",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adjective"
+      ],
+      "example": "Estoy aprendiendo la palabra «último».",
+      "exampleTranslation": "I am learning the word “último”."
+    },
+    {
+      "word": "trabajar",
+      "englishTranslation": "to work",
+      "pronunciation": "trabajar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «trabajar».",
+      "exampleTranslation": "I am learning the word “trabajar”."
+    },
+    {
+      "word": "morir",
+      "englishTranslation": "to die",
+      "pronunciation": "morir",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «morir».",
+      "exampleTranslation": "I am learning the word “morir”."
+    },
+    {
+      "word": "cada",
+      "englishTranslation": "each; every",
+      "pronunciation": "cada",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "determiner"
+      ],
+      "example": "Estoy aprendiendo la palabra «cada».",
+      "exampleTranslation": "I am learning the word “cada”."
+    },
+    {
+      "word": "dinero",
+      "englishTranslation": "money",
+      "pronunciation": "dinero",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «dinero».",
+      "exampleTranslation": "I am learning the word “dinero”."
+    },
+    {
+      "word": "mañana",
+      "englishTranslation": "the morning",
+      "pronunciation": "mañana",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «mañana».",
+      "exampleTranslation": "I am learning the word “mañana”."
+    },
+    {
+      "word": "hermano",
+      "englishTranslation": "brother",
+      "pronunciation": "hermano",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «hermano».",
+      "exampleTranslation": "I am learning the word “hermano”."
+    },
+    {
+      "word": "quien",
+      "englishTranslation": "who",
+      "pronunciation": "quien",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "pronoun"
+      ],
+      "example": "Estoy aprendiendo la palabra «quien».",
+      "exampleTranslation": "I am learning the word “quien”."
+    },
+    {
+      "word": "vivir",
+      "englishTranslation": "to live; to be alive",
+      "pronunciation": "vivir",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «vivir».",
+      "exampleTranslation": "I am learning the word “vivir”."
+    },
+    {
+      "word": "valer",
+      "englishTranslation": "to be worth",
+      "pronunciation": "valer",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «valer».",
+      "exampleTranslation": "I am learning the word “valer”."
+    },
+    {
+      "word": "allí",
+      "englishTranslation": "there (away from the speaker and the listener)",
+      "pronunciation": "allí",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adverb"
+      ],
+      "example": "Estoy aprendiendo la palabra «allí».",
+      "exampleTranslation": "I am learning the word “allí”."
+    },
+    {
+      "word": "hoy",
+      "englishTranslation": "today, tonight (on the current day)",
+      "pronunciation": "hoy",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adverb"
+      ],
+      "example": "Estoy aprendiendo la palabra «hoy».",
+      "exampleTranslation": "I am learning the word “hoy”."
+    },
+    {
+      "word": "luego",
+      "englishTranslation": "then (afterward)",
+      "pronunciation": "luego",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adverb"
+      ],
+      "example": "Estoy aprendiendo la palabra «luego».",
+      "exampleTranslation": "I am learning the word “luego”."
+    },
+    {
+      "word": "mano",
+      "englishTranslation": "hand",
+      "pronunciation": "mano",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «mano».",
+      "exampleTranslation": "I am learning the word “mano”."
+    },
+    {
+      "word": "tanto",
+      "englishTranslation": "so much, long, hard, often, etc",
+      "pronunciation": "tanto",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adverb"
+      ],
+      "example": "Estoy aprendiendo la palabra «tanto».",
+      "exampleTranslation": "I am learning the word “tanto”."
+    },
+    {
+      "word": "quizá",
+      "englishTranslation": "perhaps, maybe",
+      "pronunciation": "quizá",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adverb"
+      ],
+      "example": "Estoy aprendiendo la palabra «quizá».",
+      "exampleTranslation": "I am learning the word “quizá”."
+    },
+    {
+      "word": "caso",
+      "englishTranslation": "case (situation or fact)",
+      "pronunciation": "caso",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «caso».",
+      "exampleTranslation": "I am learning the word “caso”."
+    },
+    {
+      "word": "nombre",
+      "englishTranslation": "name",
+      "pronunciation": "nombre",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «nombre».",
+      "exampleTranslation": "I am learning the word “nombre”."
+    },
+    {
+      "word": "entrar",
+      "englishTranslation": "to enter; to come in; to get in; to go in; to get inside; to come on in",
+      "pronunciation": "entrar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «entrar».",
+      "exampleTranslation": "I am learning the word “entrar”."
+    },
+    {
+      "word": "forma",
+      "englishTranslation": "shape; form; figure",
+      "pronunciation": "forma",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «forma».",
+      "exampleTranslation": "I am learning the word “forma”."
+    },
+    {
+      "word": "empezar",
+      "englishTranslation": "to start, begin, to get started",
+      "pronunciation": "empezar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «empezar».",
+      "exampleTranslation": "I am learning the word “empezar”."
+    },
+    {
+      "word": "conseguir",
+      "englishTranslation": "to achieve, succeed in, reach, accomplish, attain",
+      "pronunciation": "conseguir",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «conseguir».",
+      "exampleTranslation": "I am learning the word “conseguir”."
+    },
+    {
+      "word": "pedir",
+      "englishTranslation": "to ask for something",
+      "pronunciation": "pedir",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «pedir».",
+      "exampleTranslation": "I am learning the word “pedir”."
+    },
+    {
+      "word": "intentar",
+      "englishTranslation": "to try, to attempt; especially: to strain or put forth effort in so doing",
+      "pronunciation": "intentar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «intentar».",
+      "exampleTranslation": "I am learning the word “intentar”."
+    },
+    {
+      "word": "ninguno",
+      "englishTranslation": "no; none",
+      "pronunciation": "ninguno",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "determiner"
+      ],
+      "example": "Estoy aprendiendo la palabra «ninguno».",
+      "exampleTranslation": "I am learning the word “ninguno”."
+    },
+    {
+      "word": "traer",
+      "englishTranslation": "to bring (in the sense of transport, for differences with llevar and examples see that entry)",
+      "pronunciation": "traer",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «traer».",
+      "exampleTranslation": "I am learning the word “traer”."
+    },
+    {
+      "word": "pequeño",
+      "englishTranslation": "small; little",
+      "pronunciation": "pequeño",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adjective"
+      ],
+      "example": "Estoy aprendiendo la palabra «pequeño».",
+      "exampleTranslation": "I am learning the word “pequeño”."
+    },
+    {
+      "word": "buena",
+      "englishTranslation": "inheritance",
+      "pronunciation": "buena",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «buena».",
+      "exampleTranslation": "I am learning the word “buena”."
+    },
+    {
+      "word": "importar",
+      "englishTranslation": "to matter, to be important [+a (someone)] (often translated idiomatically with care or mind, with subject and object reversed)",
+      "pronunciation": "importar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «importar».",
+      "exampleTranslation": "I am learning the word “importar”."
+    },
+    {
+      "word": "aún",
+      "englishTranslation": "still, yet",
+      "pronunciation": "aún",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adverb"
+      ],
+      "example": "Estoy aprendiendo la palabra «aún».",
+      "exampleTranslation": "I am learning the word “aún”."
+    },
+    {
+      "word": "cuenta",
+      "englishTranslation": "count, tally",
+      "pronunciation": "cuenta",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «cuenta».",
+      "exampleTranslation": "I am learning the word “cuenta”."
+    },
+    {
+      "word": "razón",
+      "englishTranslation": "reason",
+      "pronunciation": "razón",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «razón».",
+      "exampleTranslation": "I am learning the word “razón”."
+    },
+    {
+      "word": "preguntar",
+      "englishTranslation": "to ask",
+      "pronunciation": "preguntar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «preguntar».",
+      "exampleTranslation": "I am learning the word “preguntar”."
+    },
+    {
+      "word": "terminar",
+      "englishTranslation": "to (cause to) finish, to (cause to) end, to (cause to) terminate, to (cause to) conclude",
+      "pronunciation": "terminar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «terminar».",
+      "exampleTranslation": "I am learning the word “terminar”."
+    },
+    {
+      "word": "idea",
+      "englishTranslation": "idea",
+      "pronunciation": "idea",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «idea».",
+      "exampleTranslation": "I am learning the word “idea”."
+    },
+    {
+      "word": "único",
+      "englishTranslation": "only; single; sole",
+      "pronunciation": "único",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adjective"
+      ],
+      "example": "Estoy aprendiendo la palabra «único».",
+      "exampleTranslation": "I am learning the word “único”."
+    },
+    {
+      "word": "mal",
+      "englishTranslation": "badly, poorly, ill",
+      "pronunciation": "mal",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adverb"
+      ],
+      "example": "Estoy aprendiendo la palabra «mal».",
+      "exampleTranslation": "I am learning the word “mal”."
+    },
+    {
+      "word": "suponer",
+      "englishTranslation": "to suppose, to surmise, to assume, to guess, to imagine, to figure, to say, to take it",
+      "pronunciation": "suponer",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «suponer».",
+      "exampleTranslation": "I am learning the word “suponer”."
+    },
+    {
+      "word": "muerto",
+      "englishTranslation": "dead",
+      "pronunciation": "muerto",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adjective"
+      ],
+      "example": "Estoy aprendiendo la palabra «muerto».",
+      "exampleTranslation": "I am learning the word “muerto”."
+    },
+    {
+      "word": "durante",
+      "englishTranslation": "during, in, over",
+      "pronunciation": "durante",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "preposition"
+      ],
+      "example": "Estoy aprendiendo la palabra «durante».",
+      "exampleTranslation": "I am learning the word “durante”."
+    },
+    {
+      "word": "pasado",
+      "englishTranslation": "past, bygones",
+      "pronunciation": "pasado",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «pasado».",
+      "exampleTranslation": "I am learning the word “pasado”."
+    },
+    {
+      "word": "recordar",
+      "englishTranslation": "to remember, to recollect",
+      "pronunciation": "recordar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «recordar».",
+      "exampleTranslation": "I am learning the word “recordar”."
+    },
+    {
+      "word": "semana",
+      "englishTranslation": "week (7 days)",
+      "pronunciation": "semana",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «semana».",
+      "exampleTranslation": "I am learning the word “semana”."
+    },
+    {
+      "word": "cierto",
+      "englishTranslation": "true",
+      "pronunciation": "cierto",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adjective"
+      ],
+      "example": "Estoy aprendiendo la palabra «cierto».",
+      "exampleTranslation": "I am learning the word “cierto”."
+    },
+    {
+      "word": "contra",
+      "englishTranslation": "against, versus",
+      "pronunciation": "contra",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "preposition"
+      ],
+      "example": "Estoy aprendiendo la palabra «contra».",
+      "exampleTranslation": "I am learning the word “contra”."
+    },
+    {
+      "word": "tarde",
+      "englishTranslation": "late",
+      "pronunciation": "tarde",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adverb"
+      ],
+      "example": "Estoy aprendiendo la palabra «tarde».",
+      "exampleTranslation": "I am learning the word “tarde”."
+    },
+    {
+      "word": "segundo",
+      "englishTranslation": "second (after the first)",
+      "pronunciation": "segundo",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adjective"
+      ],
+      "example": "Estoy aprendiendo la palabra «segundo».",
+      "exampleTranslation": "I am learning the word “segundo”."
+    },
+    {
+      "word": "cambiar",
+      "englishTranslation": "to change, to shift, to switch, to alter",
+      "pronunciation": "cambiar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «cambiar».",
+      "exampleTranslation": "I am learning the word “cambiar”."
+    },
+    {
+      "word": "familia",
+      "englishTranslation": "family (group of people related to each other)",
+      "pronunciation": "familia",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «familia».",
+      "exampleTranslation": "I am learning the word “familia”."
+    },
+    {
+      "word": "usar",
+      "englishTranslation": "to use",
+      "pronunciation": "usar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «usar».",
+      "exampleTranslation": "I am learning the word “usar”."
+    },
+    {
+      "word": "policía",
+      "englishTranslation": "Civility, polity, public order, police, fineness, neatness, urbanity",
+      "pronunciation": "policía",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «policía».",
+      "exampleTranslation": "I am learning the word “policía”."
+    },
+    {
+      "word": "comer",
+      "englishTranslation": "to eat",
+      "pronunciation": "comer",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «comer».",
+      "exampleTranslation": "I am learning the word “comer”."
+    },
+    {
+      "word": "conmigo",
+      "englishTranslation": "with me",
+      "pronunciation": "conmigo",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adverb"
+      ],
+      "example": "Estoy aprendiendo la palabra «conmigo».",
+      "exampleTranslation": "I am learning the word “conmigo”."
+    },
+    {
+      "word": "sacar",
+      "englishTranslation": "to put out, to get out (e.g. a public statement, an APB, a release of media or entertainment)",
+      "pronunciation": "sacar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «sacar».",
+      "exampleTranslation": "I am learning the word “sacar”."
+    },
+    {
+      "word": "mientras",
+      "englishTranslation": "while, whilst, as (at the same time as)",
+      "pronunciation": "mientras",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "conjunction"
+      ],
+      "example": "Estoy aprendiendo la palabra «mientras».",
+      "exampleTranslation": "I am learning the word “mientras”."
+    },
+    {
+      "word": "mantener",
+      "englishTranslation": "to keep",
+      "pronunciation": "mantener",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «mantener».",
+      "exampleTranslation": "I am learning the word “mantener”."
+    },
+    {
+      "word": "realmente",
+      "englishTranslation": "really, actually, genuinely",
+      "pronunciation": "realmente",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adverb"
+      ],
+      "example": "Estoy aprendiendo la palabra «realmente».",
+      "exampleTranslation": "I am learning the word “realmente”."
+    },
+    {
+      "word": "serio",
+      "englishTranslation": "serious, earnest, sober, solemn (without humor)",
+      "pronunciation": "serio",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adjective"
+      ],
+      "example": "Estoy aprendiendo la palabra «serio».",
+      "exampleTranslation": "I am learning the word “serio”."
+    },
+    {
+      "word": "país",
+      "englishTranslation": "country (the territory of a nation)",
+      "pronunciation": "país",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «país».",
+      "exampleTranslation": "I am learning the word “país”."
+    },
+    {
+      "word": "contar",
+      "englishTranslation": "to count; to tally",
+      "pronunciation": "contar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «contar».",
+      "exampleTranslation": "I am learning the word “contar”."
+    },
+    {
+      "word": "minuto",
+      "englishTranslation": "minute (a unit of time equal to 60 seconds or 1/60 hour)",
+      "pronunciation": "minuto",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «minuto».",
+      "exampleTranslation": "I am learning the word “minuto”."
+    },
+    {
+      "word": "mierda",
+      "englishTranslation": "shit (solid excretory product evacuated from the bowels; feces.)",
+      "pronunciation": "mierda",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «mierda».",
+      "exampleTranslation": "I am learning the word “mierda”."
+    },
+    {
+      "word": "olvidar",
+      "englishTranslation": "to forget [+de (of something)]",
+      "pronunciation": "olvidar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «olvidar».",
+      "exampleTranslation": "I am learning the word “olvidar”."
+    },
+    {
+      "word": "propio",
+      "englishTranslation": "own (belonging to)",
+      "pronunciation": "propio",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adjective"
+      ],
+      "example": "Estoy aprendiendo la palabra «propio».",
+      "exampleTranslation": "I am learning the word “propio”."
+    },
+    {
+      "word": "pues",
+      "englishTranslation": "so, then; in that case",
+      "pronunciation": "pues",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "conjunction"
+      ],
+      "example": "Estoy aprendiendo la palabra «pues».",
+      "exampleTranslation": "I am learning the word “pues”."
+    },
+    {
+      "word": "e",
+      "englishTranslation": "and",
+      "pronunciation": "e",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "conjunction"
+      ],
+      "example": "Estoy aprendiendo la palabra «e».",
+      "exampleTranslation": "I am learning the word “e”."
+    },
+    {
+      "word": "aunque",
+      "englishTranslation": "though, although, even though, albeit",
+      "pronunciation": "aunque",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "conjunction"
+      ],
+      "example": "Estoy aprendiendo la palabra «aunque».",
+      "exampleTranslation": "I am learning the word “aunque”."
+    },
+    {
+      "word": "historia",
+      "englishTranslation": "history (the aggregate of past events)",
+      "pronunciation": "historia",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «historia».",
+      "exampleTranslation": "I am learning the word “historia”."
+    },
+    {
+      "word": "amor",
+      "englishTranslation": "love",
+      "pronunciation": "amor",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «amor».",
+      "exampleTranslation": "I am learning the word “amor”."
+    },
+    {
+      "word": "lado",
+      "englishTranslation": "side",
+      "pronunciation": "lado",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «lado».",
+      "exampleTranslation": "I am learning the word “lado”."
+    },
+    {
+      "word": "junto",
+      "englishTranslation": "together",
+      "pronunciation": "junto",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adjective"
+      ],
+      "example": "Estoy aprendiendo la palabra «junto».",
+      "exampleTranslation": "I am learning the word “junto”."
+    },
+    {
+      "word": "hacia",
+      "englishTranslation": "toward, towards",
+      "pronunciation": "hacia",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "preposition"
+      ],
+      "example": "Estoy aprendiendo la palabra «hacia».",
+      "exampleTranslation": "I am learning the word “hacia”."
+    },
+    {
+      "word": "manera",
+      "englishTranslation": "way; manner; method; style",
+      "pronunciation": "manera",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «manera».",
+      "exampleTranslation": "I am learning the word “manera”."
+    },
+    {
+      "word": "cabeza",
+      "englishTranslation": "head",
+      "pronunciation": "cabeza",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «cabeza».",
+      "exampleTranslation": "I am learning the word “cabeza”."
+    },
+    {
+      "word": "punto",
+      "englishTranslation": "point (specific spot, location, or place)",
+      "pronunciation": "punto",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «punto».",
+      "exampleTranslation": "I am learning the word “punto”."
+    },
+    {
+      "word": "mayor",
+      "englishTranslation": "comparative of \"grande\": bigger",
+      "pronunciation": "mayor",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adjective"
+      ],
+      "example": "Estoy aprendiendo la palabra «mayor».",
+      "exampleTranslation": "I am learning the word “mayor”."
+    },
+    {
+      "word": "todavía",
+      "englishTranslation": "still, yet",
+      "pronunciation": "todavía",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adverb"
+      ],
+      "example": "Estoy aprendiendo la palabra «todavía».",
+      "exampleTranslation": "I am learning the word “todavía”."
+    },
+    {
+      "word": "cualquiera",
+      "englishTranslation": "any, whatever, whichever",
+      "pronunciation": "cualquiera",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "determiner"
+      ],
+      "example": "Estoy aprendiendo la palabra «cualquiera».",
+      "exampleTranslation": "I am learning the word “cualquiera”."
+    },
+    {
+      "word": "casi",
+      "englishTranslation": "almost",
+      "pronunciation": "casi",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adverb"
+      ],
+      "example": "Estoy aprendiendo la palabra «casi».",
+      "exampleTranslation": "I am learning the word “casi”."
+    },
+    {
+      "word": "mes",
+      "englishTranslation": "month",
+      "pronunciation": "mes",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «mes».",
+      "exampleTranslation": "I am learning the word “mes”."
+    },
+    {
+      "word": "ciudad",
+      "englishTranslation": "city",
+      "pronunciation": "ciudad",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «ciudad».",
+      "exampleTranslation": "I am learning the word “ciudad”."
+    },
+    {
+      "word": "importante",
+      "englishTranslation": "important, that cares, that matters",
+      "pronunciation": "importante",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adjective"
+      ],
+      "example": "Estoy aprendiendo la palabra «importante».",
+      "exampleTranslation": "I am learning the word “importante”."
+    },
+    {
+      "word": "demasiado",
+      "englishTranslation": "too much, excessively, far too much, overmuch (modifying a verb)",
+      "pronunciation": "demasiado",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adverb"
+      ],
+      "example": "Estoy aprendiendo la palabra «demasiado».",
+      "exampleTranslation": "I am learning the word “demasiado”."
+    },
+    {
+      "word": "preocupar",
+      "englishTranslation": "to worry, to concern, to trouble, to be worrisome to, to preoccupy",
+      "pronunciation": "preocupar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «preocupar».",
+      "exampleTranslation": "I am learning the word “preocupar”."
+    },
+    {
+      "word": "ganar",
+      "englishTranslation": "to gain",
+      "pronunciation": "ganar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «ganar».",
+      "exampleTranslation": "I am learning the word “ganar”."
+    },
+    {
+      "word": "cuánto",
+      "englishTranslation": "how much; how many",
+      "pronunciation": "cuánto",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "determiner"
+      ],
+      "example": "Estoy aprendiendo la palabra «cuánto».",
+      "exampleTranslation": "I am learning the word “cuánto”."
+    },
+    {
+      "word": "tío",
+      "englishTranslation": "uncle (the brother, brother-in-law, or male cousin or cousin-in-law of either parent)",
+      "pronunciation": "tío",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «tío».",
+      "exampleTranslation": "I am learning the word “tío”."
+    },
+    {
+      "word": "puerta",
+      "englishTranslation": "door (portal of entry into a building)",
+      "pronunciation": "puerta",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «puerta».",
+      "exampleTranslation": "I am learning the word “puerta”."
+    },
+    {
+      "word": "palabra",
+      "englishTranslation": "word",
+      "pronunciation": "palabra",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «palabra».",
+      "exampleTranslation": "I am learning the word “palabra”."
+    },
+    {
+      "word": "ojo",
+      "englishTranslation": "eye",
+      "pronunciation": "ojo",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «ojo».",
+      "exampleTranslation": "I am learning the word “ojo”."
+    },
+    {
+      "word": "agua",
+      "englishTranslation": "water",
+      "pronunciation": "agua",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «agua».",
+      "exampleTranslation": "I am learning the word “agua”."
+    },
+    {
+      "word": "medio",
+      "englishTranslation": "half (one of two equal parts of any whole)",
+      "pronunciation": "medio",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «medio».",
+      "exampleTranslation": "I am learning the word “medio”."
+    },
+    {
+      "word": "dentro",
+      "englishTranslation": "inside (for space)",
+      "pronunciation": "dentro",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adverb"
+      ],
+      "example": "Estoy aprendiendo la palabra «dentro».",
+      "exampleTranslation": "I am learning the word “dentro”."
+    },
+    {
+      "word": "abrir",
+      "englishTranslation": "to open, open up",
+      "pronunciation": "abrir",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «abrir».",
+      "exampleTranslation": "I am learning the word “abrir”."
+    },
+    {
+      "word": "jugar",
+      "englishTranslation": "to play",
+      "pronunciation": "jugar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «jugar».",
+      "exampleTranslation": "I am learning the word “jugar”."
+    },
+    {
+      "word": "llamado",
+      "englishTranslation": "called",
+      "pronunciation": "llamado",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adjective"
+      ],
+      "example": "Estoy aprendiendo la palabra «llamado».",
+      "exampleTranslation": "I am learning the word “llamado”."
+    },
+    {
+      "word": "loco",
+      "englishTranslation": "a crazy person; a madman",
+      "pronunciation": "loco",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «loco».",
+      "exampleTranslation": "I am learning the word “loco”."
+    },
+    {
+      "word": "ocurrir",
+      "englishTranslation": "to happen, to occur",
+      "pronunciation": "ocurrir",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «ocurrir».",
+      "exampleTranslation": "I am learning the word “ocurrir”."
+    },
+    {
+      "word": "alto",
+      "englishTranslation": "tall",
+      "pronunciation": "alto",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adjective"
+      ],
+      "example": "Estoy aprendiendo la palabra «alto».",
+      "exampleTranslation": "I am learning the word “alto”."
+    },
+    {
+      "word": "aquel",
+      "englishTranslation": "that (over there; implying some distance)",
+      "pronunciation": "aquel",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "determiner"
+      ],
+      "example": "Estoy aprendiendo la palabra «aquel».",
+      "exampleTranslation": "I am learning the word “aquel”."
+    },
+    {
+      "word": "fin",
+      "englishTranslation": "end",
+      "pronunciation": "fin",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «fin».",
+      "exampleTranslation": "I am learning the word “fin”."
+    },
+    {
+      "word": "pagar",
+      "englishTranslation": "to pay",
+      "pronunciation": "pagar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «pagar».",
+      "exampleTranslation": "I am learning the word “pagar”."
+    },
+    {
+      "word": "camino",
+      "englishTranslation": "way, route",
+      "pronunciation": "camino",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «camino».",
+      "exampleTranslation": "I am learning the word “camino”."
+    },
+    {
+      "word": "esposo",
+      "englishTranslation": "husband",
+      "pronunciation": "esposo",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «esposo».",
+      "exampleTranslation": "I am learning the word “esposo”."
+    },
+    {
+      "word": "permitir",
+      "englishTranslation": "to allow, permit",
+      "pronunciation": "permitir",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «permitir».",
+      "exampleTranslation": "I am learning the word “permitir”."
+    },
+    {
+      "word": "recibir",
+      "englishTranslation": "to receive, get",
+      "pronunciation": "recibir",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «recibir».",
+      "exampleTranslation": "I am learning the word “recibir”."
+    },
+    {
+      "word": "pregunta",
+      "englishTranslation": "question (sentence that asks for information)",
+      "pronunciation": "pregunta",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «pregunta».",
+      "exampleTranslation": "I am learning the word “pregunta”."
+    },
+    {
+      "word": "leer",
+      "englishTranslation": "to read",
+      "pronunciation": "leer",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «leer».",
+      "exampleTranslation": "I am learning the word “leer”."
+    },
+    {
+      "word": "significar",
+      "englishTranslation": "to signify",
+      "pronunciation": "significar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «significar».",
+      "exampleTranslation": "I am learning the word “significar”."
+    },
+    {
+      "word": "suceder",
+      "englishTranslation": "to happen, to befall, to occur",
+      "pronunciation": "suceder",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «suceder».",
+      "exampleTranslation": "I am learning the word “suceder”."
+    },
+    {
+      "word": "muerte",
+      "englishTranslation": "death (the cessation of life)",
+      "pronunciation": "muerte",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «muerte».",
+      "exampleTranslation": "I am learning the word “muerte”."
+    },
+    {
+      "word": "millón",
+      "englishTranslation": "million (10^6)",
+      "pronunciation": "millón",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «millón».",
+      "exampleTranslation": "I am learning the word “millón”."
+    },
+    {
+      "word": "general",
+      "englishTranslation": "general, overall",
+      "pronunciation": "general",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adjective"
+      ],
+      "example": "Estoy aprendiendo la palabra «general».",
+      "exampleTranslation": "I am learning the word “general”."
+    },
+    {
+      "word": "dormir",
+      "englishTranslation": "to sleep",
+      "pronunciation": "dormir",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «dormir».",
+      "exampleTranslation": "I am learning the word “dormir”."
+    },
+    {
+      "word": "realidad",
+      "englishTranslation": "reality",
+      "pronunciation": "realidad",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «realidad».",
+      "exampleTranslation": "I am learning the word “realidad”."
+    },
+    {
+      "word": "caer",
+      "englishTranslation": "to fall (to move to a lower position due to gravity)",
+      "pronunciation": "caer",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «caer».",
+      "exampleTranslation": "I am learning the word “caer”."
+    },
+    {
+      "word": "rápido",
+      "englishTranslation": "rapid, quick, fast",
+      "pronunciation": "rápido",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adjective"
+      ],
+      "example": "Estoy aprendiendo la palabra «rápido».",
+      "exampleTranslation": "I am learning the word “rápido”."
+    },
+    {
+      "word": "enviar",
+      "englishTranslation": "to send",
+      "pronunciation": "enviar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «enviar».",
+      "exampleTranslation": "I am learning the word “enviar”."
+    },
+    {
+      "word": "acercar",
+      "englishTranslation": "to bring close",
+      "pronunciation": "acercar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «acercar».",
+      "exampleTranslation": "I am learning the word “acercar”."
+    },
+    {
+      "word": "equipo",
+      "englishTranslation": "team",
+      "pronunciation": "equipo",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «equipo».",
+      "exampleTranslation": "I am learning the word “equipo”."
+    },
+    {
+      "word": "cuál",
+      "englishTranslation": "(see usage notes) which one, what, which",
+      "pronunciation": "cuál",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "pronoun"
+      ],
+      "example": "Estoy aprendiendo la palabra «cuál».",
+      "exampleTranslation": "I am learning the word “cuál”."
+    },
+    {
+      "word": "ayuda",
+      "englishTranslation": "help, aid",
+      "pronunciation": "ayuda",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «ayuda».",
+      "exampleTranslation": "I am learning the word “ayuda”."
+    },
+    {
+      "word": "cuerpo",
+      "englishTranslation": "body (the physical structure of a human or animal)",
+      "pronunciation": "cuerpo",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «cuerpo».",
+      "exampleTranslation": "I am learning the word “cuerpo”."
+    },
+    {
+      "word": "jefe",
+      "englishTranslation": "chief; president; head; leader of a business, political party, or other organization",
+      "pronunciation": "jefe",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «jefe».",
+      "exampleTranslation": "I am learning the word “jefe”."
+    },
+    {
+      "word": "presidente",
+      "englishTranslation": "president, head (leader)",
+      "pronunciation": "presidente",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «presidente».",
+      "exampleTranslation": "I am learning the word “presidente”."
+    },
+    {
+      "word": "mover",
+      "englishTranslation": "to move (to cause to change place or posture)",
+      "pronunciation": "mover",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «mover».",
+      "exampleTranslation": "I am learning the word “mover”."
+    },
+    {
+      "word": "comprar",
+      "englishTranslation": "to buy (to obtain in exchange of money or goods)",
+      "pronunciation": "comprar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «comprar».",
+      "exampleTranslation": "I am learning the word “comprar”."
+    },
+    {
+      "word": "supuesto",
+      "englishTranslation": "assumption, hypothesis",
+      "pronunciation": "supuesto",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «supuesto».",
+      "exampleTranslation": "I am learning the word “supuesto”."
+    },
+    {
+      "word": "bajo",
+      "englishTranslation": "under (in both literal and figurative senses)",
+      "pronunciation": "bajo",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "preposition"
+      ],
+      "example": "Estoy aprendiendo la palabra «bajo».",
+      "exampleTranslation": "I am learning the word “bajo”."
+    },
+    {
+      "word": "gobierno",
+      "englishTranslation": "government",
+      "pronunciation": "gobierno",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «gobierno».",
+      "exampleTranslation": "I am learning the word “gobierno”."
+    },
+    {
+      "word": "comenzar",
+      "englishTranslation": "to begin, to commence",
+      "pronunciation": "comenzar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «comenzar».",
+      "exampleTranslation": "I am learning the word “comenzar”."
+    },
+    {
+      "word": "buenas",
+      "englishTranslation": "hello, good morning, good afternoon, good evening (greeting used irrespective of the time)",
+      "pronunciation": "buenas",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "interjection"
+      ],
+      "example": "Estoy aprendiendo la palabra «buenas».",
+      "exampleTranslation": "I am learning the word “buenas”."
+    },
+    {
+      "word": "joven",
+      "englishTranslation": "young, youthful",
+      "pronunciation": "joven",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adjective"
+      ],
+      "example": "Estoy aprendiendo la palabra «joven».",
+      "exampleTranslation": "I am learning the word “joven”."
+    },
+    {
+      "word": "viejo",
+      "englishTranslation": "old person",
+      "pronunciation": "viejo",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «viejo».",
+      "exampleTranslation": "I am learning the word “viejo”."
+    },
+    {
+      "word": "tierra",
+      "englishTranslation": "Earth (planet of the Solar System in which all of humanity resides)",
+      "pronunciation": "tierra",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «tierra».",
+      "exampleTranslation": "I am learning the word “tierra”."
+    },
+    {
+      "word": "número",
+      "englishTranslation": "number (counting)",
+      "pronunciation": "número",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «número».",
+      "exampleTranslation": "I am learning the word “número”."
+    },
+    {
+      "word": "cuatro",
+      "englishTranslation": "four",
+      "pronunciation": "cuatro",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "numeral"
+      ],
+      "example": "Estoy aprendiendo la palabra «cuatro».",
+      "exampleTranslation": "I am learning the word “cuatro”."
+    },
+    {
+      "word": "feliz",
+      "englishTranslation": "happy, merry (trait)",
+      "pronunciation": "feliz",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adjective"
+      ],
+      "example": "Estoy aprendiendo la palabra «feliz».",
+      "exampleTranslation": "I am learning the word “feliz”."
+    },
+    {
+      "word": "final",
+      "englishTranslation": "end (the terminal point of something in space or time)",
+      "pronunciation": "final",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «final».",
+      "exampleTranslation": "I am learning the word “final”."
+    },
+    {
+      "word": "regresar",
+      "englishTranslation": "to return, go back, come back",
+      "pronunciation": "regresar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «regresar».",
+      "exampleTranslation": "I am learning the word “regresar”."
+    },
+    {
+      "word": "grupo",
+      "englishTranslation": "group",
+      "pronunciation": "grupo",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «grupo».",
+      "exampleTranslation": "I am learning the word “grupo”."
+    },
+    {
+      "word": "guerra",
+      "englishTranslation": "war, warfare",
+      "pronunciation": "guerra",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «guerra».",
+      "exampleTranslation": "I am learning the word “guerra”."
+    },
+    {
+      "word": "cariño",
+      "englishTranslation": "affection, fondness",
+      "pronunciation": "cariño",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «cariño».",
+      "exampleTranslation": "I am learning the word “cariño”."
+    },
+    {
+      "word": "además",
+      "englishTranslation": "in addition, moreover, furthermore, further, also, additionally",
+      "pronunciation": "además",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adverb"
+      ],
+      "example": "Estoy aprendiendo la palabra «además».",
+      "exampleTranslation": "I am learning the word “además”."
+    },
+    {
+      "word": "posible",
+      "englishTranslation": "possible",
+      "pronunciation": "posible",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adjective"
+      ],
+      "example": "Estoy aprendiendo la palabra «posible».",
+      "exampleTranslation": "I am learning the word “posible”."
+    },
+    {
+      "word": "echar",
+      "englishTranslation": "to throw, toss, cast, jettison (to release an object from one's grasp so that it moves through the air)",
+      "pronunciation": "echar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «echar».",
+      "exampleTranslation": "I am learning the word “echar”."
+    },
+    {
+      "word": "clase",
+      "englishTranslation": "lecture",
+      "pronunciation": "clase",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «clase».",
+      "exampleTranslation": "I am learning the word “clase”."
+    },
+    {
+      "word": "cual",
+      "englishTranslation": "suchlike, like (which), such as",
+      "pronunciation": "cual",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "pronoun"
+      ],
+      "example": "Estoy aprendiendo la palabra «cual».",
+      "exampleTranslation": "I am learning the word “cual”."
+    },
+    {
+      "word": "arma",
+      "englishTranslation": "weapon, arm",
+      "pronunciation": "arma",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «arma».",
+      "exampleTranslation": "I am learning the word “arma”."
+    },
+    {
+      "word": "cinco",
+      "englishTranslation": "five",
+      "pronunciation": "cinco",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "numeral"
+      ],
+      "example": "Estoy aprendiendo la palabra «cinco».",
+      "exampleTranslation": "I am learning the word “cinco”."
+    },
+    {
+      "word": "pronto",
+      "englishTranslation": "soon",
+      "pronunciation": "pronto",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adverb"
+      ],
+      "example": "Estoy aprendiendo la palabra «pronto».",
+      "exampleTranslation": "I am learning the word “pronto”."
+    },
+    {
+      "word": "convertir",
+      "englishTranslation": "to turn into, to cause to become [+en]",
+      "pronunciation": "convertir",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «convertir».",
+      "exampleTranslation": "I am learning the word “convertir”."
+    },
+    {
+      "word": "difícil",
+      "englishTranslation": "difficult, hard, tough, challenging, rough, tricky, trying, arduous, testing",
+      "pronunciation": "difícil",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adjective"
+      ],
+      "example": "Estoy aprendiendo la palabra «difícil».",
+      "exampleTranslation": "I am learning the word “difícil”."
+    },
+    {
+      "word": "cara",
+      "englishTranslation": "face (the front part of the head)",
+      "pronunciation": "cara",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «cara».",
+      "exampleTranslation": "I am learning the word “cara”."
+    },
+    {
+      "word": "sino",
+      "englishTranslation": "but (rather) (after a negative clause)",
+      "pronunciation": "sino",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "conjunction"
+      ],
+      "example": "Estoy aprendiendo la palabra «sino».",
+      "exampleTranslation": "I am learning the word “sino”."
+    },
+    {
+      "word": "genial",
+      "englishTranslation": "ingenious, genius",
+      "pronunciation": "genial",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adjective"
+      ],
+      "example": "Estoy aprendiendo la palabra «genial».",
+      "exampleTranslation": "I am learning the word “genial”."
+    },
+    {
+      "word": "tocar",
+      "englishTranslation": "to touch",
+      "pronunciation": "tocar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «tocar».",
+      "exampleTranslation": "I am learning the word “tocar”."
+    },
+    {
+      "word": "largo",
+      "englishTranslation": "long (having much distance from one terminating point to another)",
+      "pronunciation": "largo",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adjective"
+      ],
+      "example": "Estoy aprendiendo la palabra «largo».",
+      "exampleTranslation": "I am learning the word “largo”."
+    },
+    {
+      "word": "juego",
+      "englishTranslation": "play",
+      "pronunciation": "juego",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «juego».",
+      "exampleTranslation": "I am learning the word “juego”."
+    },
+    {
+      "word": "escribir",
+      "englishTranslation": "to write (to form letters, words or symbols on a surface in order to communicate)",
+      "pronunciation": "escribir",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «escribir».",
+      "exampleTranslation": "I am learning the word “escribir”."
+    },
+    {
+      "word": "meter",
+      "englishTranslation": "to put in, insert",
+      "pronunciation": "meter",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «meter».",
+      "exampleTranslation": "I am learning the word “meter”."
+    },
+    {
+      "word": "igual",
+      "englishTranslation": "equal, same",
+      "pronunciation": "igual",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adjective"
+      ],
+      "example": "Estoy aprendiendo la palabra «igual».",
+      "exampleTranslation": "I am learning the word “igual”."
+    },
+    {
+      "word": "incluso",
+      "englishTranslation": "even",
+      "pronunciation": "incluso",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adverb"
+      ],
+      "example": "Estoy aprendiendo la palabra «incluso».",
+      "exampleTranslation": "I am learning the word “incluso”."
+    },
+    {
+      "word": "doctor",
+      "englishTranslation": "doctor (Ph.D.)",
+      "pronunciation": "doctor",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «doctor».",
+      "exampleTranslation": "I am learning the word “doctor”."
+    },
+    {
+      "word": "corazón",
+      "englishTranslation": "heart (organ of the body)",
+      "pronunciation": "corazón",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «corazón».",
+      "exampleTranslation": "I am learning the word “corazón”."
+    },
+    {
+      "word": "detener",
+      "englishTranslation": "to detain",
+      "pronunciation": "detener",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «detener».",
+      "exampleTranslation": "I am learning the word “detener”."
+    },
+    {
+      "word": "adiós",
+      "englishTranslation": "farewell; goodbye",
+      "pronunciation": "adiós",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «adiós».",
+      "exampleTranslation": "I am learning the word “adiós”."
+    },
+    {
+      "word": "siquiera",
+      "englishTranslation": "at least, at the least",
+      "pronunciation": "siquiera",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adverb"
+      ],
+      "example": "Estoy aprendiendo la palabra «siquiera».",
+      "exampleTranslation": "I am learning the word “siquiera”."
+    },
+    {
+      "word": "ello",
+      "englishTranslation": "it, neuter third-person subject and disjunctive pronoun",
+      "pronunciation": "ello",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "pronoun"
+      ],
+      "example": "Estoy aprendiendo la palabra «ello».",
+      "exampleTranslation": "I am learning the word “ello”."
+    },
+    {
+      "word": "decidir",
+      "englishTranslation": "to decide, to make up one's mind, to determine, to choose to",
+      "pronunciation": "decidir",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «decidir».",
+      "exampleTranslation": "I am learning the word “decidir”."
+    },
+    {
+      "word": "suerte",
+      "englishTranslation": "luck, fortune",
+      "pronunciation": "suerte",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «suerte».",
+      "exampleTranslation": "I am learning the word “suerte”."
+    },
+    {
+      "word": "ayer",
+      "englishTranslation": "yesterday",
+      "pronunciation": "ayer",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adverb"
+      ],
+      "example": "Estoy aprendiendo la palabra «ayer».",
+      "exampleTranslation": "I am learning the word “ayer”."
+    },
+    {
+      "word": "libro",
+      "englishTranslation": "book",
+      "pronunciation": "libro",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «libro».",
+      "exampleTranslation": "I am learning the word “libro”."
+    },
+    {
+      "word": "correr",
+      "englishTranslation": "to run, to jog",
+      "pronunciation": "correr",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «correr».",
+      "exampleTranslation": "I am learning the word “correr”."
+    },
+    {
+      "word": "según",
+      "englishTranslation": "according to",
+      "pronunciation": "según",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "preposition"
+      ],
+      "example": "Estoy aprendiendo la palabra «según».",
+      "exampleTranslation": "I am learning the word “según”."
+    },
+    {
+      "word": "funcionar",
+      "englishTranslation": "to work, to function",
+      "pronunciation": "funcionar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «funcionar».",
+      "exampleTranslation": "I am learning the word “funcionar”."
+    },
+    {
+      "word": "vivo",
+      "englishTranslation": "alive, living (having life)",
+      "pronunciation": "vivo",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adjective"
+      ],
+      "example": "Estoy aprendiendo la palabra «vivo».",
+      "exampleTranslation": "I am learning the word “vivo”."
+    },
+    {
+      "word": "luz",
+      "englishTranslation": "light",
+      "pronunciation": "luz",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «luz».",
+      "exampleTranslation": "I am learning the word “luz”."
+    },
+    {
+      "word": "justo",
+      "englishTranslation": "just",
+      "pronunciation": "justo",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adjective"
+      ],
+      "example": "Estoy aprendiendo la palabra «justo».",
+      "exampleTranslation": "I am learning the word “justo”."
+    },
+    {
+      "word": "miedo",
+      "englishTranslation": "fear",
+      "pronunciation": "miedo",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «miedo».",
+      "exampleTranslation": "I am learning the word “miedo”."
+    },
+    {
+      "word": "modo",
+      "englishTranslation": "way, manner",
+      "pronunciation": "modo",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «modo».",
+      "exampleTranslation": "I am learning the word “modo”."
+    },
+    {
+      "word": "relación",
+      "englishTranslation": "relation",
+      "pronunciation": "relación",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «relación».",
+      "exampleTranslation": "I am learning the word “relación”."
+    },
+    {
+      "word": "cambio",
+      "englishTranslation": "change, shift",
+      "pronunciation": "cambio",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «cambio».",
+      "exampleTranslation": "I am learning the word “cambio”."
+    },
+    {
+      "word": "público",
+      "englishTranslation": "public",
+      "pronunciation": "público",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adjective"
+      ],
+      "example": "Estoy aprendiendo la palabra «público».",
+      "exampleTranslation": "I am learning the word “público”."
+    },
+    {
+      "word": "derecho",
+      "englishTranslation": "right (a legal, just or moral entitlement)",
+      "pronunciation": "derecho",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «derecho».",
+      "exampleTranslation": "I am learning the word “derecho”."
+    },
+    {
+      "word": "presentar",
+      "englishTranslation": "to present, to submit",
+      "pronunciation": "presentar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «presentar».",
+      "exampleTranslation": "I am learning the word “presentar”."
+    },
+    {
+      "word": "cerca",
+      "englishTranslation": "close, near, around, about, nearly, nigh (referring to quantity or time-related)",
+      "pronunciation": "cerca",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adverb"
+      ],
+      "example": "Estoy aprendiendo la palabra «cerca».",
+      "exampleTranslation": "I am learning the word “cerca”."
+    },
+    {
+      "word": "suficiente",
+      "englishTranslation": "sufficient, enough",
+      "pronunciation": "suficiente",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adjective"
+      ],
+      "example": "Estoy aprendiendo la palabra «suficiente».",
+      "exampleTranslation": "I am learning the word “suficiente”."
+    },
+    {
+      "word": "prueba",
+      "englishTranslation": "proof; evidence (usually , in the plural)",
+      "pronunciation": "prueba",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «prueba».",
+      "exampleTranslation": "I am learning the word “prueba”."
+    },
+    {
+      "word": "próximo",
+      "englishTranslation": "near",
+      "pronunciation": "próximo",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adjective"
+      ],
+      "example": "Estoy aprendiendo la palabra «próximo».",
+      "exampleTranslation": "I am learning the word “próximo”."
+    },
+    {
+      "word": "fuerte",
+      "englishTranslation": "strong",
+      "pronunciation": "fuerte",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adjective"
+      ],
+      "example": "Estoy aprendiendo la palabra «fuerte».",
+      "exampleTranslation": "I am learning the word “fuerte”."
+    },
+    {
+      "word": "existir",
+      "englishTranslation": "to exist",
+      "pronunciation": "existir",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «existir».",
+      "exampleTranslation": "I am learning the word “existir”."
+    },
+    {
+      "word": "sentido",
+      "englishTranslation": "sense (faculties of perception)",
+      "pronunciation": "sentido",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «sentido».",
+      "exampleTranslation": "I am learning the word “sentido”."
+    },
+    {
+      "word": "orden",
+      "englishTranslation": "order (command)",
+      "pronunciation": "orden",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «orden».",
+      "exampleTranslation": "I am learning the word “orden”."
+    },
+    {
+      "word": "perro",
+      "englishTranslation": "dog (# The species Canis familiaris (sometimes designated Canis lupus familiaris), domesticated for thousands of years and of highly variable appearance because of human breeding.)",
+      "pronunciation": "perro",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «perro».",
+      "exampleTranslation": "I am learning the word “perro”."
+    },
+    {
+      "word": "humano",
+      "englishTranslation": "human",
+      "pronunciation": "humano",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adjective"
+      ],
+      "example": "Estoy aprendiendo la palabra «humano».",
+      "exampleTranslation": "I am learning the word “humano”."
+    },
+    {
+      "word": "vuelta",
+      "englishTranslation": "turn",
+      "pronunciation": "vuelta",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «vuelta».",
+      "exampleTranslation": "I am learning the word “vuelta”."
+    },
+    {
+      "word": "listo",
+      "englishTranslation": "clever, smart (with ser)",
+      "pronunciation": "listo",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adjective"
+      ],
+      "example": "Estoy aprendiendo la palabra «listo».",
+      "exampleTranslation": "I am learning the word “listo”."
+    },
+    {
+      "word": "mostrar",
+      "englishTranslation": "to show (have somebody see something)",
+      "pronunciation": "mostrar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «mostrar».",
+      "exampleTranslation": "I am learning the word “mostrar”."
+    },
+    {
+      "word": "subir",
+      "englishTranslation": "to go up or come up",
+      "pronunciation": "subir",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «subir».",
+      "exampleTranslation": "I am learning the word “subir”."
+    },
+    {
+      "word": "coche",
+      "englishTranslation": "car, automobile",
+      "pronunciation": "coche",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «coche».",
+      "exampleTranslation": "I am learning the word “coche”."
+    },
+    {
+      "word": "servir",
+      "englishTranslation": "to serve (to be a servant or worker; to render service)",
+      "pronunciation": "servir",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «servir».",
+      "exampleTranslation": "I am learning the word “servir”."
+    },
+    {
+      "word": "ox",
+      "englishTranslation": "shoo",
+      "pronunciation": "ox",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "interjection"
+      ],
+      "example": "Estoy aprendiendo la palabra «ox».",
+      "exampleTranslation": "I am learning the word “ox”."
+    },
+    {
+      "word": "sentar",
+      "englishTranslation": "to seat",
+      "pronunciation": "sentar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «sentar».",
+      "exampleTranslation": "I am learning the word “sentar”."
+    },
+    {
+      "word": "salvar",
+      "englishTranslation": "to save",
+      "pronunciation": "salvar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «salvar».",
+      "exampleTranslation": "I am learning the word “salvar”."
+    },
+    {
+      "word": "blanco",
+      "englishTranslation": "white",
+      "pronunciation": "blanco",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adjective"
+      ],
+      "example": "Estoy aprendiendo la palabra «blanco».",
+      "exampleTranslation": "I am learning the word “blanco”."
+    },
+    {
+      "word": "fuerza",
+      "englishTranslation": "force",
+      "pronunciation": "fuerza",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «fuerza».",
+      "exampleTranslation": "I am learning the word “fuerza”."
+    },
+    {
+      "word": "sistema",
+      "englishTranslation": "system",
+      "pronunciation": "sistema",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «sistema».",
+      "exampleTranslation": "I am learning the word “sistema”."
+    },
+    {
+      "word": "explicar",
+      "englishTranslation": "to explain",
+      "pronunciation": "explicar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «explicar».",
+      "exampleTranslation": "I am learning the word “explicar”."
+    },
+    {
+      "word": "bastante",
+      "englishTranslation": "quite, rather, pretty, fairly",
+      "pronunciation": "bastante",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adverb"
+      ],
+      "example": "Estoy aprendiendo la palabra «bastante».",
+      "exampleTranslation": "I am learning the word “bastante”."
+    },
+    {
+      "word": "levantar",
+      "englishTranslation": "to lift",
+      "pronunciation": "levantar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «levantar».",
+      "exampleTranslation": "I am learning the word “levantar”."
+    },
+    {
+      "word": "adelante",
+      "englishTranslation": "forward (toward the front)",
+      "pronunciation": "adelante",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adverb"
+      ],
+      "example": "Estoy aprendiendo la palabra «adelante».",
+      "exampleTranslation": "I am learning the word “adelante”."
+    },
+    {
+      "word": "mil",
+      "englishTranslation": "thousand",
+      "pronunciation": "mil",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "numeral"
+      ],
+      "example": "Estoy aprendiendo la palabra «mil».",
+      "exampleTranslation": "I am learning the word “mil”."
+    },
+    {
+      "word": "considerar",
+      "englishTranslation": "to consider, to regard, to see, to look, to view",
+      "pronunciation": "considerar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «considerar».",
+      "exampleTranslation": "I am learning the word “considerar”."
+    },
+    {
+      "word": "paso",
+      "englishTranslation": "step, footstep",
+      "pronunciation": "paso",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «paso».",
+      "exampleTranslation": "I am learning the word “paso”."
+    },
+    {
+      "word": "asegurar",
+      "englishTranslation": "to secure (to make fast; to close or confine effectually)",
+      "pronunciation": "asegurar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «asegurar».",
+      "exampleTranslation": "I am learning the word “asegurar”."
+    },
+    {
+      "word": "aceptar",
+      "englishTranslation": "to accept, to take up, to take up on",
+      "pronunciation": "aceptar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «aceptar».",
+      "exampleTranslation": "I am learning the word “aceptar”."
+    },
+    {
+      "word": "quitar",
+      "englishTranslation": "to remove, to take away, to take down, to take off, to pull off, to pull out, to clear, to clear away, to strip, to strip away",
+      "pronunciation": "quitar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «quitar».",
+      "exampleTranslation": "I am learning the word “quitar”."
+    },
+    {
+      "word": "plan",
+      "englishTranslation": "plan",
+      "pronunciation": "plan",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «plan».",
+      "exampleTranslation": "I am learning the word “plan”."
+    },
+    {
+      "word": "calle",
+      "englishTranslation": "street",
+      "pronunciation": "calle",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «calle».",
+      "exampleTranslation": "I am learning the word “calle”."
+    },
+    {
+      "word": "pueblo",
+      "englishTranslation": "town, village",
+      "pronunciation": "pueblo",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «pueblo».",
+      "exampleTranslation": "I am learning the word “pueblo”."
+    },
+    {
+      "word": "cuidado",
+      "englishTranslation": "care (close attention; concern)",
+      "pronunciation": "cuidado",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «cuidado».",
+      "exampleTranslation": "I am learning the word “cuidado”."
+    },
+    {
+      "word": "negro",
+      "englishTranslation": "black (absorbing all light and reflecting none; dark and hueless)",
+      "pronunciation": "negro",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adjective"
+      ],
+      "example": "Estoy aprendiendo la palabra «negro».",
+      "exampleTranslation": "I am learning the word “negro”."
+    },
+    {
+      "word": "allá",
+      "englishTranslation": "there, over there, thither, yonder (in a direction away from the speaker and the listener)",
+      "pronunciation": "allá",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adverb"
+      ],
+      "example": "Estoy aprendiendo la palabra «allá».",
+      "exampleTranslation": "I am learning the word “allá”."
+    },
+    {
+      "word": "partido",
+      "englishTranslation": "party",
+      "pronunciation": "partido",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «partido».",
+      "exampleTranslation": "I am learning the word “partido”."
+    },
+    {
+      "word": "diferente",
+      "englishTranslation": "different [+a or de (from, to, than)]",
+      "pronunciation": "diferente",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adjective"
+      ],
+      "example": "Estoy aprendiendo la palabra «diferente».",
+      "exampleTranslation": "I am learning the word “diferente”."
+    },
+    {
+      "word": "ante",
+      "englishTranslation": "in front of, before",
+      "pronunciation": "ante",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "preposition"
+      ],
+      "example": "Estoy aprendiendo la palabra «ante».",
+      "exampleTranslation": "I am learning the word “ante”."
+    },
+    {
+      "word": "fiesta",
+      "englishTranslation": "party",
+      "pronunciation": "fiesta",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «fiesta».",
+      "exampleTranslation": "I am learning the word “fiesta”."
+    },
+    {
+      "word": "amar",
+      "englishTranslation": "to love, have great affection for, care about",
+      "pronunciation": "amar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «amar».",
+      "exampleTranslation": "I am learning the word “amar”."
+    },
+    {
+      "word": "coger",
+      "englishTranslation": "to take, catch, hold, to get, to seize",
+      "pronunciation": "coger",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «coger».",
+      "exampleTranslation": "I am learning the word “coger”."
+    },
+    {
+      "word": "disparar",
+      "englishTranslation": "to shoot, to fire (e.g. a weapon, a rocket)",
+      "pronunciation": "disparar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «disparar».",
+      "exampleTranslation": "I am learning the word “disparar”."
+    },
+    {
+      "word": "disculpar",
+      "englishTranslation": "to excuse, forgive, pardon",
+      "pronunciation": "disculpar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «disculpar».",
+      "exampleTranslation": "I am learning the word “disculpar”."
+    },
+    {
+      "word": "pie",
+      "englishTranslation": "foot (a part of the body)",
+      "pronunciation": "pie",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «pie».",
+      "exampleTranslation": "I am learning the word “pie”."
+    },
+    {
+      "word": "beber",
+      "englishTranslation": "to drink",
+      "pronunciation": "beber",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «beber».",
+      "exampleTranslation": "I am learning the word “beber”."
+    },
+    {
+      "word": "frente",
+      "englishTranslation": "forehead, brow",
+      "pronunciation": "frente",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «frente».",
+      "exampleTranslation": "I am learning the word “frente”."
+    },
+    {
+      "word": "escuela",
+      "englishTranslation": "school (an institution dedicated to teaching and learning)",
+      "pronunciation": "escuela",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «escuela».",
+      "exampleTranslation": "I am learning the word “escuela”."
+    },
+    {
+      "word": "sangre",
+      "englishTranslation": "blood",
+      "pronunciation": "sangre",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «sangre».",
+      "exampleTranslation": "I am learning the word “sangre”."
+    },
+    {
+      "word": "oportunidad",
+      "englishTranslation": "opportunity, chance, shot, break, occasion, time (in both senses: “chance for advancement, progress or profit” and “favorable circumstance or occasion”)",
+      "pronunciation": "oportunidad",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «oportunidad».",
+      "exampleTranslation": "I am learning the word “oportunidad”."
+    },
+    {
+      "word": "muchacho",
+      "englishTranslation": "boy or young adult",
+      "pronunciation": "muchacho",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «muchacho».",
+      "exampleTranslation": "I am learning the word “muchacho”."
+    },
+    {
+      "word": "real",
+      "englishTranslation": "real",
+      "pronunciation": "real",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adjective"
+      ],
+      "example": "Estoy aprendiendo la palabra «real».",
+      "exampleTranslation": "I am learning the word “real”."
+    },
+    {
+      "word": "situación",
+      "englishTranslation": "situation, scenario, picture",
+      "pronunciation": "situación",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «situación».",
+      "exampleTranslation": "I am learning the word “situación”."
+    },
+    {
+      "word": "política",
+      "englishTranslation": "politics (activities associated with running a government or organisation)",
+      "pronunciation": "política",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «política».",
+      "exampleTranslation": "I am learning the word “política”."
+    },
+    {
+      "word": "ley",
+      "englishTranslation": "law (a well-established characteristic of nature)",
+      "pronunciation": "ley",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «ley».",
+      "exampleTranslation": "I am learning the word “ley”."
+    },
+    {
+      "word": "vender",
+      "englishTranslation": "to sell",
+      "pronunciation": "vender",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «vender».",
+      "exampleTranslation": "I am learning the word “vender”."
+    },
+    {
+      "word": "teléfono",
+      "englishTranslation": "telephone (a telecommunication device used for two-way talking with another person)",
+      "pronunciation": "teléfono",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «teléfono».",
+      "exampleTranslation": "I am learning the word “teléfono”."
+    },
+    {
+      "word": "malo",
+      "englishTranslation": "devil",
+      "pronunciation": "malo",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «malo».",
+      "exampleTranslation": "I am learning the word “malo”."
+    },
+    {
+      "word": "extraño",
+      "englishTranslation": "strange, unusual, odd, weird, bizarre, uncanny, rare, peculiar, freaky, freakish, freak, curious",
+      "pronunciation": "extraño",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adjective"
+      ],
+      "example": "Estoy aprendiendo la palabra «extraño».",
+      "exampleTranslation": "I am learning the word “extraño”."
+    },
+    {
+      "word": "perdonar",
+      "englishTranslation": "to pardon, excuse, forgive",
+      "pronunciation": "perdonar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «perdonar».",
+      "exampleTranslation": "I am learning the word “perdonar”."
+    },
+    {
+      "word": "arriba",
+      "englishTranslation": "above, over",
+      "pronunciation": "arriba",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adverb"
+      ],
+      "example": "Estoy aprendiendo la palabra «arriba».",
+      "exampleTranslation": "I am learning the word “arriba”."
+    },
+    {
+      "word": "aparecer",
+      "englishTranslation": "to appear, to turn up, to pop up, to come up",
+      "pronunciation": "aparecer",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «aparecer».",
+      "exampleTranslation": "I am learning the word “aparecer”."
+    },
+    {
+      "word": "servicio",
+      "englishTranslation": "service",
+      "pronunciation": "servicio",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «servicio».",
+      "exampleTranslation": "I am learning the word “servicio”."
+    },
+    {
+      "word": "novio",
+      "englishTranslation": "boyfriend (romantic partner)",
+      "pronunciation": "novio",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «novio».",
+      "exampleTranslation": "I am learning the word “novio”."
+    },
+    {
+      "word": "tampoco",
+      "englishTranslation": "neither; nor; also not",
+      "pronunciation": "tampoco",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adverb"
+      ],
+      "example": "Estoy aprendiendo la palabra «tampoco».",
+      "exampleTranslation": "I am learning the word “tampoco”."
+    },
+    {
+      "word": "especial",
+      "englishTranslation": "special (distinguished by a unique quality)",
+      "pronunciation": "especial",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adjective"
+      ],
+      "example": "Estoy aprendiendo la palabra «especial».",
+      "exampleTranslation": "I am learning the word “especial”."
+    },
+    {
+      "word": "casar",
+      "englishTranslation": "to marry, wed someone to (unite two others in wedlock)",
+      "pronunciation": "casar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «casar».",
+      "exampleTranslation": "I am learning the word “casar”."
+    },
+    {
+      "word": "puesto",
+      "englishTranslation": "position, employment, job",
+      "pronunciation": "puesto",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «puesto».",
+      "exampleTranslation": "I am learning the word “puesto”."
+    },
+    {
+      "word": "dólar",
+      "englishTranslation": "dollar (designation for specific currency)",
+      "pronunciation": "dólar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «dólar».",
+      "exampleTranslation": "I am learning the word “dólar”."
+    },
+    {
+      "word": "cuándo",
+      "englishTranslation": "when",
+      "pronunciation": "cuándo",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adverb"
+      ],
+      "example": "Estoy aprendiendo la palabra «cuándo».",
+      "exampleTranslation": "I am learning the word “cuándo”."
+    },
+    {
+      "word": "duro",
+      "englishTranslation": "hard (not soft)",
+      "pronunciation": "duro",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adjective"
+      ],
+      "example": "Estoy aprendiendo la palabra «duro».",
+      "exampleTranslation": "I am learning the word “duro”."
+    },
+    {
+      "word": "nacional",
+      "englishTranslation": "national, nationwide (of or relating to a nation)",
+      "pronunciation": "nacional",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adjective"
+      ],
+      "example": "Estoy aprendiendo la palabra «nacional».",
+      "exampleTranslation": "I am learning the word “nacional”."
+    },
+    {
+      "word": "recuerdo",
+      "englishTranslation": "memory (a specific thing that is remembered)",
+      "pronunciation": "recuerdo",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «recuerdo».",
+      "exampleTranslation": "I am learning the word “recuerdo”."
+    },
+    {
+      "word": "lograr",
+      "englishTranslation": "to get, to obtain",
+      "pronunciation": "lograr",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «lograr».",
+      "exampleTranslation": "I am learning the word “lograr”."
+    },
+    {
+      "word": "robar",
+      "englishTranslation": "to rob",
+      "pronunciation": "robar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «robar».",
+      "exampleTranslation": "I am learning the word “robar”."
+    },
+    {
+      "word": "seguridad",
+      "englishTranslation": "safety, security",
+      "pronunciation": "seguridad",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «seguridad».",
+      "exampleTranslation": "I am learning the word “seguridad”."
+    },
+    {
+      "word": "prometer",
+      "englishTranslation": "to promise",
+      "pronunciation": "prometer",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «prometer».",
+      "exampleTranslation": "I am learning the word “prometer”."
+    },
+    {
+      "word": "enseñar",
+      "englishTranslation": "to teach",
+      "pronunciation": "enseñar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «enseñar».",
+      "exampleTranslation": "I am learning the word “enseñar”."
+    },
+    {
+      "word": "obra",
+      "englishTranslation": "work (usually literary or artistic)",
+      "pronunciation": "obra",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «obra».",
+      "exampleTranslation": "I am learning the word “obra”."
+    },
+    {
+      "word": "descubrir",
+      "englishTranslation": "to discover",
+      "pronunciation": "descubrir",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «descubrir».",
+      "exampleTranslation": "I am learning the word “descubrir”."
+    },
+    {
+      "word": "andar",
+      "englishTranslation": "to walk, to go",
+      "pronunciation": "andar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «andar».",
+      "exampleTranslation": "I am learning the word “andar”."
+    },
+    {
+      "word": "fácil",
+      "englishTranslation": "easy, facile, simple (requiring little effort)",
+      "pronunciation": "fácil",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adjective"
+      ],
+      "example": "Estoy aprendiendo la palabra «fácil».",
+      "exampleTranslation": "I am learning the word “fácil”."
+    },
+    {
+      "word": "película",
+      "englishTranslation": "film (layer)",
+      "pronunciation": "película",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «película».",
+      "exampleTranslation": "I am learning the word “película”."
+    },
+    {
+      "word": "cuanto",
+      "englishTranslation": "as much; however much; in whatever quantity",
+      "pronunciation": "cuanto",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adverb"
+      ],
+      "example": "Estoy aprendiendo la palabra «cuanto».",
+      "exampleTranslation": "I am learning the word “cuanto”."
+    },
+    {
+      "word": "lista",
+      "englishTranslation": "list, roll",
+      "pronunciation": "lista",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «lista».",
+      "exampleTranslation": "I am learning the word “lista”."
+    },
+    {
+      "word": "tras",
+      "englishTranslation": "after, following, in the wake of; upon",
+      "pronunciation": "tras",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "preposition"
+      ],
+      "example": "Estoy aprendiendo la palabra «tras».",
+      "exampleTranslation": "I am learning the word “tras”."
+    },
+    {
+      "word": "ambos",
+      "englishTranslation": "both",
+      "pronunciation": "ambos",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "pronoun"
+      ],
+      "example": "Estoy aprendiendo la palabra «ambos».",
+      "exampleTranslation": "I am learning the word “ambos”."
+    },
+    {
+      "word": "español",
+      "englishTranslation": "Spanish (from or native to Spain)",
+      "pronunciation": "español",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adjective"
+      ],
+      "example": "Estoy aprendiendo la palabra «español».",
+      "exampleTranslation": "I am learning the word “español”."
+    },
+    {
+      "word": "sonar",
+      "englishTranslation": "to sound, to ring",
+      "pronunciation": "sonar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «sonar».",
+      "exampleTranslation": "I am learning the word “sonar”."
+    },
+    {
+      "word": "referir",
+      "englishTranslation": "to report",
+      "pronunciation": "referir",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «referir».",
+      "exampleTranslation": "I am learning the word “referir”."
+    },
+    {
+      "word": "vino",
+      "englishTranslation": "wine (An alcoholic beverage made by fermenting grape juice, with an ABV ranging from 5.5-16%.)",
+      "pronunciation": "vino",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «vino».",
+      "exampleTranslation": "I am learning the word “vino”."
+    },
+    {
+      "word": "centro",
+      "englishTranslation": "center",
+      "pronunciation": "centro",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «centro».",
+      "exampleTranslation": "I am learning the word “centro”."
+    },
+    {
+      "word": "asunto",
+      "englishTranslation": "matter, issue, business",
+      "pronunciation": "asunto",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «asunto».",
+      "exampleTranslation": "I am learning the word “asunto”."
+    },
+    {
+      "word": "encantar",
+      "englishTranslation": "to charm, to enchant",
+      "pronunciation": "encantar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «encantar».",
+      "exampleTranslation": "I am learning the word “encantar”."
+    },
+    {
+      "word": "embargo",
+      "englishTranslation": "embargo",
+      "pronunciation": "embargo",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «embargo».",
+      "exampleTranslation": "I am learning the word “embargo”."
+    },
+    {
+      "word": "imaginar",
+      "englishTranslation": "to imagine",
+      "pronunciation": "imaginar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «imaginar».",
+      "exampleTranslation": "I am learning the word “imaginar”."
+    },
+    {
+      "word": "información",
+      "englishTranslation": "information, data",
+      "pronunciation": "información",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «información».",
+      "exampleTranslation": "I am learning the word “información”."
+    },
+    {
+      "word": "habitación",
+      "englishTranslation": "room (separate part of a building)",
+      "pronunciation": "habitación",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «habitación».",
+      "exampleTranslation": "I am learning the word “habitación”."
+    },
+    {
+      "word": "aprender",
+      "englishTranslation": "to learn (to acquire, or attempt to acquire knowledge or an ability to do something)",
+      "pronunciation": "aprender",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «aprender».",
+      "exampleTranslation": "I am learning the word “aprender”."
+    },
+    {
+      "word": "falta",
+      "englishTranslation": "lack, shortage",
+      "pronunciation": "falta",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «falta».",
+      "exampleTranslation": "I am learning the word “falta”."
+    },
+    {
+      "word": "cielo",
+      "englishTranslation": "sky",
+      "pronunciation": "cielo",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «cielo».",
+      "exampleTranslation": "I am learning the word “cielo”."
+    },
+    {
+      "word": "seis",
+      "englishTranslation": "six",
+      "pronunciation": "seis",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "numeral"
+      ],
+      "example": "Estoy aprendiendo la palabra «seis».",
+      "exampleTranslation": "I am learning the word “seis”."
+    },
+    {
+      "word": "realizar",
+      "englishTranslation": "to carry out; to perform; to conduct; to implement (e.g. a change, a task, project, plan, inspection, experiment, procedures)",
+      "pronunciation": "realizar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «realizar».",
+      "exampleTranslation": "I am learning the word “realizar”."
+    },
+    {
+      "word": "negocio",
+      "englishTranslation": "business, enterprise (commercial enterprise or establishment)",
+      "pronunciation": "negocio",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «negocio».",
+      "exampleTranslation": "I am learning the word “negocio”."
+    },
+    {
+      "word": "sueño",
+      "englishTranslation": "sleep, slumber",
+      "pronunciation": "sueño",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «sueño».",
+      "exampleTranslation": "I am learning the word “sueño”."
+    },
+    {
+      "word": "atrás",
+      "englishTranslation": "behind",
+      "pronunciation": "atrás",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adverb"
+      ],
+      "example": "Estoy aprendiendo la palabra «atrás».",
+      "exampleTranslation": "I am learning the word “atrás”."
+    },
+    {
+      "word": "social",
+      "englishTranslation": "social",
+      "pronunciation": "social",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adjective"
+      ],
+      "example": "Estoy aprendiendo la palabra «social».",
+      "exampleTranslation": "I am learning the word “social”."
+    },
+    {
+      "word": "capitán",
+      "englishTranslation": "captain (leader)",
+      "pronunciation": "capitán",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «capitán».",
+      "exampleTranslation": "I am learning the word “capitán”."
+    },
+    {
+      "word": "comida",
+      "englishTranslation": "food",
+      "pronunciation": "comida",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «comida».",
+      "exampleTranslation": "I am learning the word “comida”."
+    },
+    {
+      "word": "bebé",
+      "englishTranslation": "baby",
+      "pronunciation": "bebé",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «bebé».",
+      "exampleTranslation": "I am learning the word “bebé”."
+    },
+    {
+      "word": "libre",
+      "englishTranslation": "free (not imprisoned or enslaved)",
+      "pronunciation": "libre",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adjective"
+      ],
+      "example": "Estoy aprendiendo la palabra «libre».",
+      "exampleTranslation": "I am learning the word “libre”."
+    },
+    {
+      "word": "voz",
+      "englishTranslation": "voice",
+      "pronunciation": "voz",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «voz».",
+      "exampleTranslation": "I am learning the word “voz”."
+    },
+    {
+      "word": "foto",
+      "englishTranslation": "photo, photograph",
+      "pronunciation": "foto",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «foto».",
+      "exampleTranslation": "I am learning the word “foto”."
+    },
+    {
+      "word": "abajo",
+      "englishTranslation": "down, downwards",
+      "pronunciation": "abajo",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adverb"
+      ],
+      "example": "Estoy aprendiendo la palabra «abajo».",
+      "exampleTranslation": "I am learning the word “abajo”."
+    },
+    {
+      "word": "par",
+      "englishTranslation": "pair (two of the same or similar items that go together)",
+      "pronunciation": "par",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «par».",
+      "exampleTranslation": "I am learning the word “par”."
+    },
+    {
+      "word": "paz",
+      "englishTranslation": "peace (warlessness)",
+      "pronunciation": "paz",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «paz».",
+      "exampleTranslation": "I am learning the word “paz”."
+    },
+    {
+      "word": "confiar",
+      "englishTranslation": "to reassure",
+      "pronunciation": "confiar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «confiar».",
+      "exampleTranslation": "I am learning the word “confiar”."
+    },
+    {
+      "word": "culpa",
+      "englishTranslation": "fault",
+      "pronunciation": "culpa",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «culpa».",
+      "exampleTranslation": "I am learning the word “culpa”."
+    },
+    {
+      "word": "cerrar",
+      "englishTranslation": "to close, to shut",
+      "pronunciation": "cerrar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «cerrar».",
+      "exampleTranslation": "I am learning the word “cerrar”."
+    },
+    {
+      "word": "ofrecer",
+      "englishTranslation": "to offer, to offer up, to provide",
+      "pronunciation": "ofrecer",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «ofrecer».",
+      "exampleTranslation": "I am learning the word “ofrecer”."
+    },
+    {
+      "word": "noticia",
+      "englishTranslation": "notice",
+      "pronunciation": "noticia",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «noticia».",
+      "exampleTranslation": "I am learning the word “noticia”."
+    },
+    {
+      "word": "bajar",
+      "englishTranslation": "to go down, come down",
+      "pronunciation": "bajar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «bajar».",
+      "exampleTranslation": "I am learning the word “bajar”."
+    },
+    {
+      "word": "desear",
+      "englishTranslation": "to wish",
+      "pronunciation": "desear",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «desear».",
+      "exampleTranslation": "I am learning the word “desear”."
+    },
+    {
+      "word": "callar",
+      "englishTranslation": "to calm",
+      "pronunciation": "callar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «callar».",
+      "exampleTranslation": "I am learning the word “callar”."
+    },
+    {
+      "word": "música",
+      "englishTranslation": "music",
+      "pronunciation": "música",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «música».",
+      "exampleTranslation": "I am learning the word “música”."
+    },
+    {
+      "word": "diablo",
+      "englishTranslation": "devil",
+      "pronunciation": "diablo",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «diablo».",
+      "exampleTranslation": "I am learning the word “diablo”."
+    },
+    {
+      "word": "resto",
+      "englishTranslation": "rest, remainder",
+      "pronunciation": "resto",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «resto».",
+      "exampleTranslation": "I am learning the word “resto”."
+    },
+    {
+      "word": "siguiente",
+      "englishTranslation": "following",
+      "pronunciation": "siguiente",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adjective"
+      ],
+      "example": "Estoy aprendiendo la palabra «siguiente».",
+      "exampleTranslation": "I am learning the word “siguiente”."
+    },
+    {
+      "word": "cuidar",
+      "englishTranslation": "to look after, take care of (e.g. a house, a person) [[[Appendix:Glossary#transitive_verb|transitive]] or +de (of)]",
+      "pronunciation": "cuidar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «cuidar».",
+      "exampleTranslation": "I am learning the word “cuidar”."
+    },
+    {
+      "word": "médico",
+      "englishTranslation": "doctor",
+      "pronunciation": "médico",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «médico».",
+      "exampleTranslation": "I am learning the word “médico”."
+    },
+    {
+      "word": "carta",
+      "englishTranslation": "letter (document)",
+      "pronunciation": "carta",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «carta».",
+      "exampleTranslation": "I am learning the word “carta”."
+    },
+    {
+      "word": "preparar",
+      "englishTranslation": "to prepare",
+      "pronunciation": "preparar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «preparar».",
+      "exampleTranslation": "I am learning the word “preparar”."
+    },
+    {
+      "word": "don",
+      "englishTranslation": "sir, master, lord",
+      "pronunciation": "don",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «don».",
+      "exampleTranslation": "I am learning the word “don”."
+    },
+    {
+      "word": "correcto",
+      "englishTranslation": "correct, right",
+      "pronunciation": "correcto",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adjective"
+      ],
+      "example": "Estoy aprendiendo la palabra «correcto».",
+      "exampleTranslation": "I am learning the word “correcto”."
+    },
+    {
+      "word": "programa",
+      "englishTranslation": "programme, program",
+      "pronunciation": "programa",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «programa».",
+      "exampleTranslation": "I am learning the word “programa”."
+    },
+    {
+      "word": "sitio",
+      "englishTranslation": "site, place",
+      "pronunciation": "sitio",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «sitio».",
+      "exampleTranslation": "I am learning the word “sitio”."
+    },
+    {
+      "word": "campo",
+      "englishTranslation": "countryside, country",
+      "pronunciation": "campo",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "noun"
+      ],
+      "example": "Estoy aprendiendo la palabra «campo».",
+      "exampleTranslation": "I am learning the word “campo”."
+    },
+    {
+      "word": "elegir",
+      "englishTranslation": "to choose",
+      "pronunciation": "elegir",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «elegir».",
+      "exampleTranslation": "I am learning the word “elegir”."
+    },
+    {
+      "word": "exactamente",
+      "englishTranslation": "exactly",
+      "pronunciation": "exactamente",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adverb"
+      ],
+      "example": "Estoy aprendiendo la palabra «exactamente».",
+      "exampleTranslation": "I am learning the word “exactamente”."
+    },
+    {
+      "word": "unido",
+      "englishTranslation": "united",
+      "pronunciation": "unido",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adjective"
+      ],
+      "example": "Estoy aprendiendo la palabra «unido».",
+      "exampleTranslation": "I am learning the word “unido”."
+    },
+    {
+      "word": "desaparecer",
+      "englishTranslation": "to disappear, to go missing, to vanish, to be gone",
+      "pronunciation": "desaparecer",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «desaparecer».",
+      "exampleTranslation": "I am learning the word “desaparecer”."
+    },
+    {
+      "word": "hermoso",
+      "englishTranslation": "gorgeous, beautiful, handsome, lovely",
+      "pronunciation": "hermoso",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adjective"
+      ],
+      "example": "Estoy aprendiendo la palabra «hermoso».",
+      "exampleTranslation": "I am learning the word “hermoso”."
+    },
+    {
+      "word": "mentir",
+      "englishTranslation": "to lie (say something untrue)",
+      "pronunciation": "mentir",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «mentir».",
+      "exampleTranslation": "I am learning the word “mentir”."
+    },
+    {
+      "word": "romper",
+      "englishTranslation": "to break",
+      "pronunciation": "romper",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «romper».",
+      "exampleTranslation": "I am learning the word “romper”."
+    },
+    {
+      "word": "invitar",
+      "englishTranslation": "to invite",
+      "pronunciation": "invitar",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «invitar».",
+      "exampleTranslation": "I am learning the word “invitar”."
+    },
+    {
+      "word": "bonito",
+      "englishTranslation": "pretty, cute",
+      "pronunciation": "bonito",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adjective"
+      ],
+      "example": "Estoy aprendiendo la palabra «bonito».",
+      "exampleTranslation": "I am learning the word “bonito”."
+    },
+    {
+      "word": "peor",
+      "englishTranslation": "comparative of \"malo\": worse",
+      "pronunciation": "peor",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "adjective"
+      ],
+      "example": "Estoy aprendiendo la palabra «peor».",
+      "exampleTranslation": "I am learning the word “peor”."
+    },
+    {
+      "word": "obtener",
+      "englishTranslation": "to obtain",
+      "pronunciation": "obtener",
+      "pinyin": null,
+      "level": "A1",
+      "wordTypes": [
+        "verb"
+      ],
+      "example": "Estoy aprendiendo la palabra «obtener».",
+      "exampleTranslation": "I am learning the word “obtener”."
+    }
+  ]
+}

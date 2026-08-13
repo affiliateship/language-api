@@ -1,0 +1,23 @@
+{
+  "language": "Chinese",
+  "level": "HSK2",
+  "lessonType": "PRACTICAL",
+  "title": "Grocery Shopping",
+  "originalText": "今天下午，我去超市买菜。我先拿了一个购物篮，然后买了苹果、鸡蛋、牛奶和面包。结账的时候，我用信用卡付款，店员把东西放进袋子里。",
+  "englishTranslation": "This afternoon, I went to the supermarket to buy groceries. I first took a shopping basket, then bought apples, eggs, milk, and bread. At checkout, I paid by credit card, and the clerk put the items into a bag.",
+  "keyWords": [
+    {"original":"下午","englishTranslation":"afternoon","pronunciation":"xià wǔ"},
+    {"original":"超市","englishTranslation":"supermarket","pronunciation":"chāo shì"},
+    {"original":"买菜","englishTranslation":"to buy groceries","pronunciation":"mǎi cài"},
+    {"original":"购物篮","englishTranslation":"shopping basket","pronunciation":"gòu wù lán"},
+    {"original":"苹果","englishTranslation":"apple","pronunciation":"píng guǒ"},
+    {"original":"鸡蛋","englishTranslation":"egg","pronunciation":"jī dàn"},
+    {"original":"牛奶","englishTranslation":"milk","pronunciation":"niú nǎi"},
+    {"original":"面包","englishTranslation":"bread","pronunciation":"miàn bāo"},
+    {"original":"结账","englishTranslation":"to check out; pay the bill","pronunciation":"jié zhàng"},
+    {"original":"信用卡","englishTranslation":"credit card","pronunciation":"xìn yòng kǎ"},
+    {"original":"付款","englishTranslation":"to pay","pronunciation":"fù kuǎn"},
+    {"original":"店员","englishTranslation":"store clerk","pronunciation":"diàn yuán"},
+    {"original":"袋子","englishTranslation":"bag","pronunciation":"dài zi"}
+  ]
+}

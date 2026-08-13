@@ -1,0 +1,41 @@
+spring:
+  application:
+    name: language-api
+  datasource:
+    url: ${DATABASE_URL:jdbc:postgresql://localhost:5432/language_api}
+    username: ${DATABASE_USERNAME:language_api}
+    password: ${DATABASE_PASSWORD:language_api}
+    driver-class-name: org.postgresql.Driver
+  sql:
+    init:
+      mode: never
+  flyway:
+    enabled: true
+    baseline-on-migrate: true
+    baseline-version: 1
+    locations: classpath:db/migration
+
+server:
+  port: ${PORT:8000}
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info
+  endpoint:
+    health:
+      probes:
+        enabled: true
+
+springdoc:
+  swagger-ui:
+    path: /swagger-ui.html
+    operations-sorter: method
+
+logging:
+  level:
+    root: ${LOG_LEVEL_ROOT:INFO}
+    com.languageui.api: ${LOG_LEVEL_APP:DEBUG}
+  pattern:
+    console: "%d{yyyy-MM-dd'T'HH:mm:ss.SSSXXX} %-5level [%thread] [requestId=%X{requestId:-}] %logger{36} - %msg%n"
