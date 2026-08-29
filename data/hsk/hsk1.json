@@ -2,7 +2,11 @@
   "words": [
     {
       "word": "爱",
-      "englishTranslation": "to love; to be fond of; to like; affection; to be inclined (to do sth); to tend to (happen)",
+      "englishTranslation": [
+        "to love; to be fond of; to like",
+        "affection",
+        "to be inclined (to do sth); to tend to (happen)"
+      ],
       "pronunciation": "ai4",
       "pinyin": "ài",
       "level": "HSK1",
@@ -11,12 +15,13 @@
         "non-predicate adjective",
         "verb"
       ],
-      "example": "我正在学习“爱”这个词。",
-      "exampleTranslation": "I am learning the word “爱”."
+      "examples": []
     },
     {
       "word": "八",
-      "englishTranslation": "eight; 8",
+      "englishTranslation": [
+        "eight"
+      ],
       "pronunciation": "ba1",
       "pinyin": "bā",
       "level": "HSK1",
@@ -24,48 +29,73 @@
         "numeral",
         "time word"
       ],
-      "example": "我正在学习“八”这个词。",
-      "exampleTranslation": "I am learning the word “八”."
+      "examples": []
     },
     {
       "word": "爸爸",
-      "englishTranslation": "(coll.) father; dad",
+      "englishTranslation": [
+        "(coll.) father; dad",
+        "CL:位[wei4]"
+      ],
       "pronunciation": "ba4 ba5",
       "pinyin": "bà ba",
       "level": "HSK1",
       "wordTypes": [
         "noun"
       ],
-      "example": "我正在学习“爸爸”这个词。",
-      "exampleTranslation": "I am learning the word “爸爸”."
+      "examples": []
     },
     {
       "word": "杯子",
-      "englishTranslation": "cup; glass",
+      "englishTranslation": [
+        "cup",
+        "glass",
+        "CL:個|个[ge4],隻|只[zhi1]"
+      ],
       "pronunciation": "bei1 zi5",
       "pinyin": "bēi zi",
       "level": "HSK1",
       "wordTypes": [
         "noun"
       ],
-      "example": "我正在学习“杯子”这个词。",
-      "exampleTranslation": "I am learning the word “杯子”."
+      "examples": [
+        {
+          "text": "他把杯子举到嘴边，一饮而尽。",
+          "englishTranslation": "He raised the glass to his mouth and drained it all in one shot."
+        }
+      ]
     },
     {
       "word": "北京",
-      "englishTranslation": "Beijing, capital of the People's Republic of China",
+      "englishTranslation": [
+        "Beijing municipality, capital of the People's Republic of China (short name 京[Jing1])"
+      ],
       "pronunciation": "Bei3 jing1",
       "pinyin": "Běi jīng",
       "level": "HSK1",
       "wordTypes": [
         "place name"
       ],
-      "example": "我正在学习“北京”这个词。",
-      "exampleTranslation": "I am learning the word “北京”."
+      "examples": [
+        {
+          "text": "要是去北京的话，一定要看一下天安门广场。",
+          "englishTranslation": "If you go to Beijing, definitely have a look at Tiananmen Square."
+        }
+      ]
     },
     {
       "word": "本",
-      "englishTranslation": "root; stem; origin; source; this; the current; original; inherent; originally; classifier for books, periodicals, files etc",
+      "englishTranslation": [
+        "(bound form) root; stem",
+        "(bound form) origin; source",
+        "(bound form) one's own; this",
+        "(bound form) this; the current (year etc)",
+        "(bound form) original",
+        "(bound form) inherent",
+        "originally; initially",
+        "capital; principal",
+        "classifier for books, periodicals, files etc"
+      ],
       "pronunciation": "ben3",
       "pinyin": "běn",
       "level": "HSK1",
@@ -75,48 +105,62 @@
         "noun",
         "pronoun"
       ],
-      "example": "我正在学习“本”这个词。",
-      "exampleTranslation": "I am learning the word “本”."
+      "examples": []
     },
     {
       "word": "不",
-      "englishTranslation": "no; not so; (bound form) not; un-",
+      "englishTranslation": [
+        "no; not so",
+        "(bound form) not; un-"
+      ],
       "pronunciation": "bu4",
       "pinyin": "bù",
       "level": "HSK1",
       "wordTypes": [
         "adverb"
       ],
-      "example": "我正在学习“不”这个词。",
-      "exampleTranslation": "I am learning the word “不”."
+      "examples": []
     },
     {
       "word": "不客气",
-      "englishTranslation": "you're welcome; don't mention it; impolite; rude; blunt",
+      "englishTranslation": [
+        "you're welcome",
+        "don't mention it",
+        "impolite",
+        "rude",
+        "blunt"
+      ],
       "pronunciation": "bu4 ke4 qi5",
       "pinyin": "bù kè qi",
       "level": "HSK1",
       "wordTypes": [
         "unclassified"
       ],
-      "example": "我正在学习“不客气”这个词。",
-      "exampleTranslation": "I am learning the word “不客气”."
+      "examples": []
     },
     {
       "word": "菜",
-      "englishTranslation": "dish (type of food); vegetable; cuisine; (coll.) (one's) type; (of one's skills etc) weak; poor",
+      "englishTranslation": [
+        "vegetable; greens (CL:棵[ke1])",
+        "dish (of food) (CL:樣|样[yang4],道[dao4],盤|盘[pan2])",
+        "(of one's skills etc) weak; poor",
+        "(coll.) (one's) type"
+      ],
       "pronunciation": "cai4",
       "pinyin": "cài",
       "level": "HSK1",
       "wordTypes": [
         "noun"
       ],
-      "example": "我正在学习“菜”这个词。",
-      "exampleTranslation": "I am learning the word “菜”."
+      "examples": []
     },
     {
       "word": "茶",
-      "englishTranslation": "tea; tea plant",
+      "englishTranslation": [
+        "tea",
+        "tea plant",
+        "CL:杯[bei1],壺|壶[hu2]"
+      ],
       "pronunciation": "cha2",
       "pinyin": "chá",
       "level": "HSK1",
@@ -124,48 +168,73 @@
         "morpheme",
         "noun"
       ],
-      "example": "我正在学习“茶”这个词。",
-      "exampleTranslation": "I am learning the word “茶”."
+      "examples": []
     },
     {
       "word": "吃",
-      "englishTranslation": "to eat; to consume; to eat at (a cafeteria etc); to eradicate; to destroy; to absorb; to suffer (shock, injury, defeat etc)",
+      "englishTranslation": [
+        "to eat; to consume",
+        "to eat at (a cafeteria etc)",
+        "to eradicate; to destroy",
+        "to absorb",
+        "to suffer (shock, injury, defeat etc)",
+        "variant of 吃[chi1]"
+      ],
       "pronunciation": "chi1",
       "pinyin": "chī",
       "level": "HSK1",
       "wordTypes": [
         "verb"
       ],
-      "example": "我正在学习“吃”这个词。",
-      "exampleTranslation": "I am learning the word “吃”."
+      "examples": []
     },
     {
       "word": "出租车",
-      "englishTranslation": "taxi; (Tw) rental car",
+      "englishTranslation": [
+        "taxi",
+        "(Tw) rental car"
+      ],
       "pronunciation": "chu1 zu1 che1",
       "pinyin": "chū zū chē",
       "level": "HSK1",
       "wordTypes": [
         "noun"
       ],
-      "example": "我正在学习“出租车”这个词。",
-      "exampleTranslation": "I am learning the word “出租车”."
+      "examples": [
+        {
+          "text": "如果他继续这样喝酒，他该乘出租车回家。",
+          "englishTranslation": "If he keeps drinking like that, he'll have to take a taxi home."
+        }
+      ]
     },
     {
       "word": "打电话",
-      "englishTranslation": "to make a telephone call",
+      "englishTranslation": [
+        "to make a telephone call"
+      ],
       "pronunciation": "da3 dian4 hua4",
       "pinyin": "dǎ diàn huà",
       "level": "HSK1",
       "wordTypes": [
         "verb"
       ],
-      "example": "我正在学习“打电话”这个词。",
-      "exampleTranslation": "I am learning the word “打电话”."
+      "examples": [
+        {
+          "text": "“等他回来，我要让他给你打电话吗？”“是的，谢谢。”",
+          "englishTranslation": "\"Shall I have him call you when he gets back?\" \"Yes, please.\""
+        }
+      ]
     },
     {
       "word": "大",
-      "englishTranslation": "big; large; great; older (than another person); eldest (as in 姐); greatly; freely; fully; (dialect) father; (dialect) uncle (father's brother)",
+      "englishTranslation": [
+        "big; large; great",
+        "older (than another person)",
+        "eldest (as in 大姐[da4 jie3])",
+        "greatly; freely; fully",
+        "(dialect) father",
+        "(dialect) uncle (father's brother)"
+      ],
       "pronunciation": "da4",
       "pinyin": "dà",
       "level": "HSK1",
@@ -175,12 +244,17 @@
         "morpheme",
         "noun"
       ],
-      "example": "我正在学习“大”这个词。",
-      "exampleTranslation": "I am learning the word “大”."
+      "examples": []
     },
     {
       "word": "的",
-      "englishTranslation": "of; ~'s (possessive particle); (used after an attribute); (used to form a nominal expression); (used at the end of a declarative sentence for emphasis); also pr. [dì] or [di] in poetry and songs",
+      "englishTranslation": [
+        "of; ~'s (possessive particle)",
+        "(used after an attribute when it modifies a noun)",
+        "(used at the end of a declarative sentence for emphasis)",
+        "(used after a noun, verb or adjective to form a nominal expression, as in 皮革的[pi2 ge2 de5] \"one made of leather\" or 跑堂兒的|跑堂儿的[pao3 tang2 r5 de5] \"a waiter (literally, one who runs back and forth in a restaurant)\" or 新的[xin1 de5] \"new one\")",
+        "also pr. [di4] or [di5] in poetry and songs"
+      ],
       "pronunciation": "de5",
       "pinyin": "de",
       "level": "HSK1",
@@ -188,12 +262,27 @@
         "auxiliary",
         "noun"
       ],
-      "example": "我正在学习“的”这个词。",
-      "exampleTranslation": "I am learning the word “的”."
+      "examples": []
     },
     {
       "word": "点",
-      "englishTranslation": "point; dot; drop; speck; o'clock; point (in space or time); to draw a dot; to check on a list; to choose; to order (food in a restaurant); to touch briefly; to hint; to light; to ignite; to pour a liquid drop by drop; (old) one fifth of a two-hour watch 更; dot stroke in Chinese characters; classifier for items",
+      "englishTranslation": [
+        "to touch briefly; to tap",
+        "to mark with a dot; to check off (on a list)",
+        "to order (food etc); to select",
+        "to mention; to bring up (a topic or person)",
+        "to hint at; to imply",
+        "to administer (eye medicine etc) in drops",
+        "to light (a fire, a lamp etc); to ignite",
+        "to nod (one's head) in agreement; to beckon by moving (one's hand) up and down",
+        "point; dot; spot; speck",
+        "dot stroke in Chinese characters",
+        "(math.) decimal point",
+        "point in time or space",
+        "(after a number) o'clock",
+        "a small amount; a bit; (after a verb or adjective) a bit more",
+        "classifier for small amounts"
+      ],
       "pronunciation": "dian3",
       "pinyin": "diǎn",
       "level": "HSK1",
@@ -203,48 +292,60 @@
         "time word",
         "verb"
       ],
-      "example": "我正在学习“点”这个词。",
-      "exampleTranslation": "I am learning the word “点”."
+      "examples": []
     },
     {
       "word": "电脑",
-      "englishTranslation": "computer",
+      "englishTranslation": [
+        "computer",
+        "CL:臺|台[tai2]"
+      ],
       "pronunciation": "dian4 nao3",
       "pinyin": "diàn nǎo",
       "level": "HSK1",
       "wordTypes": [
         "noun"
       ],
-      "example": "我正在学习“电脑”这个词。",
-      "exampleTranslation": "I am learning the word “电脑”."
+      "examples": [
+        {
+          "text": "你们会用电脑是为了学习，不是为了玩游戏。",
+          "englishTranslation": "You'll use the computer for studying, and not for playing games."
+        }
+      ]
     },
     {
       "word": "电视",
-      "englishTranslation": "television; TV",
+      "englishTranslation": [
+        "television; TV",
+        "CL:臺|台[tai2],部[bu4]"
+      ],
       "pronunciation": "dian4 shi4",
       "pinyin": "diàn shì",
       "level": "HSK1",
       "wordTypes": [
         "noun"
       ],
-      "example": "我正在学习“电视”这个词。",
-      "exampleTranslation": "I am learning the word “电视”."
+      "examples": []
     },
     {
       "word": "电影",
-      "englishTranslation": "movie; film",
+      "englishTranslation": [
+        "movie; film",
+        "CL:部[bu4]"
+      ],
       "pronunciation": "dian4 ying3",
       "pinyin": "diàn yǐng",
       "level": "HSK1",
       "wordTypes": [
         "noun"
       ],
-      "example": "我正在学习“电影”这个词。",
-      "exampleTranslation": "I am learning the word “电影”."
+      "examples": []
     },
     {
       "word": "东西",
-      "englishTranslation": "east and west",
+      "englishTranslation": [
+        "east and west"
+      ],
       "pronunciation": "dong1 xi1",
       "pinyin": "dōng xī",
       "level": "HSK1",
@@ -253,12 +354,20 @@
         "noun",
         "personal name"
       ],
-      "example": "我正在学习“东西”这个词。",
-      "exampleTranslation": "I am learning the word “东西”."
+      "examples": [
+        {
+          "text": "如果你想使他人相信你的话，那就只说他已经相信的东西吧。",
+          "englishTranslation": "If you want to be credible, tell people only what they believe."
+        }
+      ]
     },
     {
       "word": "都",
-      "englishTranslation": "surname Du",
+      "englishTranslation": [
+        "surname Du",
+        "capital city",
+        "metropolis"
+      ],
       "pronunciation": "Du1",
       "pinyin": "Dū",
       "level": "HSK1",
@@ -266,36 +375,50 @@
         "adverb",
         "morpheme"
       ],
-      "example": "我正在学习“都”这个词。",
-      "exampleTranslation": "I am learning the word “都”."
+      "examples": []
     },
     {
       "word": "读",
-      "englishTranslation": "comma; phrase marked by pause",
+      "englishTranslation": [
+        "comma",
+        "phrase marked by pause"
+      ],
       "pronunciation": "dou4",
       "pinyin": "dòu",
       "level": "HSK1",
       "wordTypes": [
         "verb"
       ],
-      "example": "我正在学习“读”这个词。",
-      "exampleTranslation": "I am learning the word “读”."
+      "examples": []
     },
     {
       "word": "对不起",
-      "englishTranslation": "I'm sorry; excuse me; I beg your pardon; to let (sb) down; to disappoint",
+      "englishTranslation": [
+        "I'm sorry; excuse me; I beg your pardon",
+        "to let (sb) down; to disappoint"
+      ],
       "pronunciation": "dui4 bu5 qi3",
       "pinyin": "duì bu qǐ",
       "level": "HSK1",
       "wordTypes": [
         "verb"
       ],
-      "example": "我正在学习“对不起”这个词。",
-      "exampleTranslation": "I am learning the word “对不起”."
+      "examples": [
+        {
+          "text": "对不起，我听不懂。你能慢点儿再说一遍吗？",
+          "englishTranslation": "I'm sorry, I do not understand. Can you repeat it a little slower?"
+        }
+      ]
     },
     {
       "word": "多",
-      "englishTranslation": "many; much; too many; in excess; (after a numeral) ... odd; how (to what extent) (Taiwan pr. [duó]); (bound form) multi-; poly-",
+      "englishTranslation": [
+        "many; much; more; a lot of",
+        "too many; in excess",
+        "(after a numeral) ... odd",
+        "how (to what extent) (Taiwan pr. [duo2])",
+        "(bound form) multi-; poly-"
+      ],
       "pronunciation": "duo1",
       "pinyin": "duō",
       "level": "HSK1",
@@ -307,36 +430,52 @@
         "numeral",
         "verb"
       ],
-      "example": "我正在学习“多”这个词。",
-      "exampleTranslation": "I am learning the word “多”."
+      "examples": []
     },
     {
       "word": "多少",
-      "englishTranslation": "number; amount; somewhat",
+      "englishTranslation": [
+        "number; amount",
+        "somewhat"
+      ],
       "pronunciation": "duo1 shao3",
       "pinyin": "duō shǎo",
       "level": "HSK1",
       "wordTypes": [
         "pronoun"
       ],
-      "example": "我正在学习“多少”这个词。",
-      "exampleTranslation": "I am learning the word “多少”."
+      "examples": [
+        {
+          "text": "不管我跟她说了多少次，她还是继续犯同样的错误。",
+          "englishTranslation": "No matter how often I tell her, she keeps making the same mistake."
+        }
+      ]
     },
     {
       "word": "儿子",
-      "englishTranslation": "son",
+      "englishTranslation": [
+        "son"
+      ],
       "pronunciation": "er2 zi5",
       "pinyin": "ér zi",
       "level": "HSK1",
       "wordTypes": [
         "noun"
       ],
-      "example": "我正在学习“儿子”这个词。",
-      "exampleTranslation": "I am learning the word “儿子”."
+      "examples": [
+        {
+          "text": "我有两个儿子，一个在东京，另一个在名古屋。",
+          "englishTranslation": "I have two children, one in is Beijing and the other one is in Nagoya."
+        }
+      ]
     },
     {
       "word": "二",
-      "englishTranslation": "two; 2; (Beijing dialect) stupid",
+      "englishTranslation": [
+        "two",
+        "2",
+        "(Beijing dialect) stupid"
+      ],
       "pronunciation": "er4",
       "pinyin": "èr",
       "level": "HSK1",
@@ -344,48 +483,72 @@
         "numeral",
         "time word"
       ],
-      "example": "我正在学习“二”这个词。",
-      "exampleTranslation": "I am learning the word “二”."
+      "examples": []
     },
     {
       "word": "饭馆",
-      "englishTranslation": "restaurant",
+      "englishTranslation": [
+        "restaurant",
+        "CL:家[jia1]"
+      ],
       "pronunciation": "fan4 guan3",
       "pinyin": "fàn guǎn",
       "level": "HSK1",
       "wordTypes": [
         "noun"
       ],
-      "example": "我正在学习“饭馆”这个词。",
-      "exampleTranslation": "I am learning the word “饭馆”."
+      "examples": [
+        {
+          "text": "即使那家饭馆做的菜好吃极了，我也不想在那里吃饭。",
+          "englishTranslation": "Even if that restaurant did very tasty food, I wouldn't like to eat there."
+        }
+      ]
     },
     {
       "word": "飞机",
-      "englishTranslation": "airplane",
+      "englishTranslation": [
+        "airplane",
+        "CL:架[jia4]"
+      ],
       "pronunciation": "fei1 ji1",
       "pinyin": "fēi jī",
       "level": "HSK1",
       "wordTypes": [
         "noun"
       ],
-      "example": "我正在学习“飞机”这个词。",
-      "exampleTranslation": "I am learning the word “飞机”."
+      "examples": [
+        {
+          "text": "要是我们早十分钟到的话，我们就能赶上飞机了。",
+          "englishTranslation": "If we’d arrived ten minutes earlier, we would’ve made it onto the plane."
+        }
+      ]
     },
     {
       "word": "分钟",
-      "englishTranslation": "minute",
+      "englishTranslation": [
+        "minute"
+      ],
       "pronunciation": "fen1 zhong1",
       "pinyin": "fēn zhōng",
       "level": "HSK1",
       "wordTypes": [
         "temporal classifier"
       ],
-      "example": "我正在学习“分钟”这个词。",
-      "exampleTranslation": "I am learning the word “分钟”."
+      "examples": [
+        {
+          "text": "六十分钟为一小时，一分钟由六十秒组成。",
+          "englishTranslation": "Sixty minutes make an hour, and a minute is made up of sixty seconds."
+        }
+      ]
     },
     {
       "word": "高兴",
-      "englishTranslation": "happy; glad; willing (to do sth); in a cheerful mood",
+      "englishTranslation": [
+        "happy",
+        "glad",
+        "willing (to do sth)",
+        "in a cheerful mood"
+      ],
       "pronunciation": "gao1 xing4",
       "pinyin": "gāo xìng",
       "level": "HSK1",
@@ -393,12 +556,18 @@
         "adjective",
         "nominal adjective"
       ],
-      "example": "我正在学习“高兴”这个词。",
-      "exampleTranslation": "I am learning the word “高兴”."
+      "examples": [
+        {
+          "text": "热天气不仅仅意味着人们觉得有点不高兴。",
+          "englishTranslation": "Hot weather doesn’t just mean that people feel a little unhappy."
+        }
+      ]
     },
     {
       "word": "个",
-      "englishTranslation": "used in 自个儿",
+      "englishTranslation": [
+        "used in 自個兒|自个儿[zi4 ge3 r5]"
+      ],
       "pronunciation": "ge3",
       "pinyin": "gě",
       "level": "HSK1",
@@ -406,12 +575,18 @@
         "classifier",
         "morpheme"
       ],
-      "example": "我正在学习“个”这个词。",
-      "exampleTranslation": "I am learning the word “个”."
+      "examples": []
     },
     {
       "word": "工作",
-      "englishTranslation": "to work; (of a machine) to operate; job; work; task",
+      "englishTranslation": [
+        "to work",
+        "(of a machine) to operate",
+        "job",
+        "work",
+        "task",
+        "CL:個|个[ge4],份[fen4],項|项[xiang4]"
+      ],
       "pronunciation": "gong1 zuo4",
       "pinyin": "gōng zuò",
       "level": "HSK1",
@@ -420,36 +595,58 @@
         "noun",
         "verb"
       ],
-      "example": "我正在学习“工作”这个词。",
-      "exampleTranslation": "I am learning the word “工作”."
+      "examples": [
+        {
+          "text": "我通常从上午九点工作到下午五点，但是今天晚上我十点才下班。",
+          "englishTranslation": "I usually work from 9 AM to 5 PM, but today I worked until 10 PM."
+        }
+      ]
     },
     {
       "word": "狗",
-      "englishTranslation": "dog",
+      "englishTranslation": [
+        "dog",
+        "CL:隻|只[zhi1],條|条[tiao2]"
+      ],
       "pronunciation": "gou3",
       "pinyin": "gǒu",
       "level": "HSK1",
       "wordTypes": [
         "noun"
       ],
-      "example": "我正在学习“狗”这个词。",
-      "exampleTranslation": "I am learning the word “狗”."
+      "examples": []
     },
     {
       "word": "汉语",
-      "englishTranslation": "Chinese language",
+      "englishTranslation": [
+        "Chinese language"
+      ],
       "pronunciation": "Han4 yu3",
       "pinyin": "Hàn yǔ",
       "level": "HSK1",
       "wordTypes": [
         "proper noun"
       ],
-      "example": "我正在学习“汉语”这个词。",
-      "exampleTranslation": "I am learning the word “汉语”."
+      "examples": [
+        {
+          "text": "为了提高我的汉语水平，我想去中国学习。",
+          "englishTranslation": "I'd like to study in China to improve the level of my Chinese."
+        }
+      ]
     },
     {
       "word": "好",
-      "englishTranslation": "good; appropriate; proper; all right!; (before a verb) easy to; (before a verb) good to; (before an adjective for exclamatory effect) so; (verb complement indicating completion); (of two people) close; on intimate terms; (after a personal pronoun) hello",
+      "englishTranslation": [
+        "good",
+        "appropriate; proper",
+        "all right!",
+        "(before a verb) easy to",
+        "(before a verb) good to",
+        "(before an adjective for exclamatory effect) so",
+        "(verb complement indicating completion)",
+        "(of two people) close; on intimate terms",
+        "(after a form of address) hello"
+      ],
       "pronunciation": "hao3",
       "pinyin": "hǎo",
       "level": "HSK1",
@@ -458,12 +655,14 @@
         "adverb",
         "verb"
       ],
-      "example": "我正在学习“好”这个词。",
-      "exampleTranslation": "I am learning the word “好”."
+      "examples": []
     },
     {
       "word": "喝",
-      "englishTranslation": "to drink; variant of 嗬",
+      "englishTranslation": [
+        "to drink",
+        "variant of 嗬[he1]"
+      ],
       "pronunciation": "he1",
       "pinyin": "hē",
       "level": "HSK1",
@@ -471,12 +670,21 @@
         "morpheme",
         "nominal verb"
       ],
-      "example": "我正在学习“喝”这个词。",
-      "exampleTranslation": "I am learning the word “喝”."
+      "examples": []
     },
     {
       "word": "和",
-      "englishTranslation": "old variant of 和",
+      "englishTranslation": [
+        "old variant of 和[he2]",
+        "surname He",
+        "(joining two nouns) and; together with; with (Taiwan pr. [han4])",
+        "(math.) sum",
+        "to make peace",
+        "(sports) to draw; to tie",
+        "(bound form) harmonious",
+        "(bound form) Japan; Japanese",
+        "(literary) harmonious (variant of 和[he2])"
+      ],
       "pronunciation": "he2",
       "pinyin": "hé",
       "level": "HSK1",
@@ -488,36 +696,55 @@
         "verb",
         "verbal classifier"
       ],
-      "example": "我正在学习“和”这个词。",
-      "exampleTranslation": "I am learning the word “和”."
+      "examples": []
     },
     {
       "word": "很",
-      "englishTranslation": "(adverb of degree); quite; very; awfully",
+      "englishTranslation": [
+        "very; quite",
+        "(also, often used before an adjective without intensifying its meaning, i.e. as a meaningless syntactic element)"
+      ],
       "pronunciation": "hen3",
       "pinyin": "hěn",
       "level": "HSK1",
       "wordTypes": [
         "adverb"
       ],
-      "example": "我正在学习“很”这个词。",
-      "exampleTranslation": "I am learning the word “很”."
+      "examples": []
     },
     {
       "word": "后面",
-      "englishTranslation": "the back; the rear; the last bit; behind; near the end; at the back; later; afterwards",
+      "englishTranslation": [
+        "the back; the rear; the last bit",
+        "behind; near the end; at the back",
+        "later; afterwards"
+      ],
       "pronunciation": "hou4 mian5",
       "pinyin": "hòu mian",
       "level": "HSK1",
       "wordTypes": [
         "direction or location word"
       ],
-      "example": "我正在学习“后面”这个词。",
-      "exampleTranslation": "I am learning the word “后面”."
+      "examples": [
+        {
+          "text": "当何塞看到马塞洛后面有一个对方球员时，他大喊“背后有人”。",
+          "englishTranslation": "Jose screamed “man on” when he saw a player from the opposition behind Marcello."
+        }
+      ]
     },
     {
       "word": "回",
-      "englishTranslation": "to circle; to go back; to turn around; to answer; to return; to revolve; Hui ethnic group (Chinese Muslims); time; classifier for acts of a play; section or chapter (of a classic book)",
+      "englishTranslation": [
+        "Hui ethnic group (Chinese Muslims)",
+        "to go back; to return; to turn back; to turn around",
+        "to reply; to answer",
+        "classifier for literary divisions (acts of a play, sections or chapters of a classic book)",
+        "classifier for occurrences or times",
+        "to curve",
+        "to return",
+        "to revolve",
+        "variant of 迴|回[hui2]"
+      ],
       "pronunciation": "hui2",
       "pinyin": "huí",
       "level": "HSK1",
@@ -525,12 +752,18 @@
         "verb",
         "verbal classifier"
       ],
-      "example": "我正在学习“回”这个词。",
-      "exampleTranslation": "I am learning the word “回”."
+      "examples": []
     },
     {
       "word": "会",
-      "englishTranslation": "can; to have the skill; to know how to; to be likely to; to be sure to; to meet; to get together; meeting; gathering; (suffix) union; group; association; (bound form) a moment (Taiwan pr. [huǐ])",
+      "englishTranslation": [
+        "can; to have the skill; to know how to",
+        "to be likely to; to be sure to",
+        "to meet; to get together",
+        "meeting; gathering",
+        "(suffix) union; group; association",
+        "(bound form) a moment (Taiwan pr. [hui3])"
+      ],
       "pronunciation": "hui4",
       "pinyin": "huì",
       "level": "HSK1",
@@ -538,24 +771,32 @@
         "noun",
         "verb"
       ],
-      "example": "我正在学习“会”这个词。",
-      "exampleTranslation": "I am learning the word “会”."
+      "examples": []
     },
     {
       "word": "火车站",
-      "englishTranslation": "train station",
+      "englishTranslation": [
+        "train station"
+      ],
       "pronunciation": "huo3 che1 zhan4",
       "pinyin": "huǒ chē zhàn",
       "level": "HSK1",
       "wordTypes": [
         "noun"
       ],
-      "example": "我正在学习“火车站”这个词。",
-      "exampleTranslation": "I am learning the word “火车站”."
+      "examples": [
+        {
+          "text": "“你去哪儿了？”“我去了火车站送我的一个朋友。”",
+          "englishTranslation": "\"Where have you been?\" \"I have been to the station to see a friend off.\""
+        }
+      ]
     },
     {
       "word": "几",
-      "englishTranslation": "small table",
+      "englishTranslation": [
+        "small table",
+        "(literary) almost"
+      ],
       "pronunciation": "ji1",
       "pinyin": "jī",
       "level": "HSK1",
@@ -563,12 +804,20 @@
         "adverb",
         "numeral"
       ],
-      "example": "我正在学习“几”这个词。",
-      "exampleTranslation": "I am learning the word “几”."
+      "examples": []
     },
     {
       "word": "家",
-      "englishTranslation": "used in 家伙 and 家俱",
+      "englishTranslation": [
+        "used in 傢伙|家伙[jia1 huo5] and 傢俱|家俱[jia1 ju4]",
+        "home",
+        "family",
+        "(polite) my (sister, uncle etc)",
+        "classifier for families or businesses",
+        "refers to the philosophical schools of pre-Han China",
+        "noun suffix for a specialist in some activity, such as a musician or revolutionary, corresponding to English -ist, -er, -ary or -ian",
+        "CL:個|个[ge4]"
+      ],
       "pronunciation": "jia1",
       "pinyin": "jiā",
       "level": "HSK1",
@@ -576,12 +825,19 @@
         "classifier",
         "noun"
       ],
-      "example": "我正在学习“家”这个词。",
-      "exampleTranslation": "I am learning the word “家”."
+      "examples": []
     },
     {
       "word": "叫",
-      "englishTranslation": "to shout; to call; to order; to ask; to be called; by (indicates agent in the passive mood)",
+      "englishTranslation": [
+        "to shout",
+        "to call",
+        "to order",
+        "to ask",
+        "to be called",
+        "by (indicates agent in the passive mood)",
+        "variant of 叫[jiao4]"
+      ],
       "pronunciation": "jiao4",
       "pinyin": "jiào",
       "level": "HSK1",
@@ -590,24 +846,33 @@
         "preposition",
         "verb"
       ],
-      "example": "我正在学习“叫”这个词。",
-      "exampleTranslation": "I am learning the word “叫”."
+      "examples": []
     },
     {
       "word": "今天",
-      "englishTranslation": "today; at the present; now",
+      "englishTranslation": [
+        "today",
+        "the present time; now"
+      ],
       "pronunciation": "jin1 tian1",
       "pinyin": "jīn tiān",
       "level": "HSK1",
       "wordTypes": [
         "time word"
       ],
-      "example": "我正在学习“今天”这个词。",
-      "exampleTranslation": "I am learning the word “今天”."
+      "examples": [
+        {
+          "text": "我通常从上午九点工作到下午五点，但是今天晚上我十点才下班。",
+          "englishTranslation": "I usually work from 9 AM to 5 PM, but today I worked until 10 PM."
+        }
+      ]
     },
     {
       "word": "九",
-      "englishTranslation": "nine; 9",
+      "englishTranslation": [
+        "nine",
+        "9"
+      ],
       "pronunciation": "jiu3",
       "pinyin": "jiǔ",
       "level": "HSK1",
@@ -616,12 +881,21 @@
         "numeral",
         "time word"
       ],
-      "example": "我正在学习“九”这个词。",
-      "exampleTranslation": "I am learning the word “九”."
+      "examples": []
     },
     {
       "word": "开",
-      "englishTranslation": "to open (transitive or intransitive); (of ships, vehicles, troops etc) to start; to turn on; to put in operation; to operate; to run; to boil; to write out (a prescription, check, invoice etc); (directional complement) away; off; carat (gold); abbr. for Kelvin, 开尔文; abbr. for 开本, book format",
+      "englishTranslation": [
+        "to open (transitive or intransitive)",
+        "(of ships, vehicles, troops etc) to start",
+        "to turn on; to put in operation; to operate; to run",
+        "to boil",
+        "to write out (a prescription, check, invoice etc)",
+        "(directional complement) away; off",
+        "carat (gold)",
+        "abbr. for Kelvin, 開爾文|开尔文[Kai1 er3 wen2]",
+        "abbr. for 開本|开本[kai1 ben3], book format"
+      ],
       "pronunciation": "kai1",
       "pinyin": "kāi",
       "level": "HSK1",
@@ -629,12 +903,16 @@
         "classifier",
         "verb"
       ],
-      "example": "我正在学习“开”这个词。",
-      "exampleTranslation": "I am learning the word “开”."
+      "examples": []
     },
     {
       "word": "看",
-      "englishTranslation": "to look after; to take care of; to watch; to guard",
+      "englishTranslation": [
+        "to look after",
+        "to take care of",
+        "to watch",
+        "to guard"
+      ],
       "pronunciation": "kan1",
       "pinyin": "kān",
       "level": "HSK1",
@@ -642,24 +920,33 @@
         "auxiliary",
         "verb"
       ],
-      "example": "我正在学习“看”这个词。",
-      "exampleTranslation": "I am learning the word “看”."
+      "examples": []
     },
     {
       "word": "看见",
-      "englishTranslation": "to see; to catch sight of",
+      "englishTranslation": [
+        "to see; to catch sight of"
+      ],
       "pronunciation": "kan4 jian4",
       "pinyin": "kàn jiàn",
       "level": "HSK1",
       "wordTypes": [
         "verb"
       ],
-      "example": "我正在学习“看见”这个词。",
-      "exampleTranslation": "I am learning the word “看见”."
+      "examples": [
+        {
+          "text": "好久不见了。记得上次我什么时候看见你的吗？",
+          "englishTranslation": "I haven't seen you for ages. Do you remember when I saw you last?"
+        }
+      ]
     },
     {
       "word": "块",
-      "englishTranslation": "lump; chunk; piece; classifier for pieces of cloth, cake, soap etc; (coll.) classifier for money and currency units",
+      "englishTranslation": [
+        "lump; chunk; piece",
+        "classifier for pieces of cloth, cake, soap etc",
+        "(coll.) classifier for money and currency units"
+      ],
       "pronunciation": "kuai4",
       "pinyin": "kuài",
       "level": "HSK1",
@@ -667,12 +954,21 @@
         "classifier",
         "morpheme"
       ],
-      "example": "我正在学习“块”这个词。",
-      "exampleTranslation": "I am learning the word “块”."
+      "examples": []
     },
     {
       "word": "来",
-      "englishTranslation": "to come; (used as a substitute for a more specific verb); hither (directional complement for motion toward the speaker, as in 回来); ever since (as in 自古以来); for the past (amount of time); (prefix) the coming ...; the next ... (as in 来世); (between two verbs) in order to; (after a round number) approximately; (used after 得 to indicate possibility, as in 谈得来, or after 不 to indicate impossibility, as in 吃不来)",
+      "englishTranslation": [
+        "to come",
+        "(used as a substitute for a more specific verb)",
+        "hither (directional complement for motion toward the speaker, as in 回來|回来[hui2 lai5])",
+        "ever since (as in 自古以來|自古以来[zi4 gu3 yi3 lai2])",
+        "for the past (amount of time)",
+        "(prefix) the coming ...; the next ... (as in 來世|来世[lai2 shi4])",
+        "(between two verbs) in order to",
+        "(after a round number) approximately",
+        "(used after 得[de2] to indicate possibility, as in 談得來|谈得来[tan2 de5 lai2], or after 不[bu4] to indicate impossibility, as in 吃不來|吃不来[chi1 bu5 lai2])"
+      ],
       "pronunciation": "lai2",
       "pinyin": "lái",
       "level": "HSK1",
@@ -683,24 +979,33 @@
         "numeral",
         "verb"
       ],
-      "example": "我正在学习“来”这个词。",
-      "exampleTranslation": "I am learning the word “来”."
+      "examples": []
     },
     {
       "word": "老师",
-      "englishTranslation": "teacher",
+      "englishTranslation": [
+        "teacher"
+      ],
       "pronunciation": "lao3 shi1",
       "pinyin": "lǎo shī",
       "level": "HSK1",
       "wordTypes": [
         "noun"
       ],
-      "example": "我正在学习“老师”这个词。",
-      "exampleTranslation": "I am learning the word “老师”."
+      "examples": [
+        {
+          "text": "新郎现在在一家公司工作，新娘是我们的老师。",
+          "englishTranslation": "The groom works for a company now, and the bride is our teacher."
+        }
+      ]
     },
     {
       "word": "了",
-      "englishTranslation": "(completed action marker); (modal particle indicating change of state, situation now); (modal particle intensifying preceding clause)",
+      "englishTranslation": [
+        "(completed action marker)",
+        "(modal particle indicating change of state, situation now)",
+        "(modal particle intensifying preceding clause)"
+      ],
       "pronunciation": "le5",
       "pinyin": "le",
       "level": "HSK1",
@@ -709,12 +1014,14 @@
         "modal particle",
         "verb"
       ],
-      "example": "我正在学习“了”这个词。",
-      "exampleTranslation": "I am learning the word “了”."
+      "examples": []
     },
     {
       "word": "冷",
-      "englishTranslation": "surname Leng",
+      "englishTranslation": [
+        "surname Leng",
+        "cold"
+      ],
       "pronunciation": "Leng3",
       "pinyin": "Lěng",
       "level": "HSK1",
@@ -723,12 +1030,23 @@
         "adverbial adjective",
         "morpheme"
       ],
-      "example": "我正在学习“冷”这个词。",
-      "exampleTranslation": "I am learning the word “冷”."
+      "examples": []
     },
     {
       "word": "里",
-      "englishTranslation": "variant of 里",
+      "englishTranslation": [
+        "variant of 裡|里[li3]",
+        "lining",
+        "interior",
+        "inside",
+        "internal",
+        "also written 裏|里[li3]",
+        "surname Li",
+        "li, ancient measure of length, approx. 500 m",
+        "neighborhood",
+        "ancient administrative unit of 25 families",
+        "(Tw) borough, administrative unit between the township 鎮|镇[zhen4] and neighborhood 鄰|邻[lin2] levels"
+      ],
       "pronunciation": "li3",
       "pinyin": "lǐ",
       "level": "HSK1",
@@ -736,12 +1054,24 @@
         "classifier",
         "direction or location word"
       ],
-      "example": "我正在学习“里”这个词。",
-      "exampleTranslation": "I am learning the word “里”."
+      "examples": []
     },
     {
       "word": "零",
-      "englishTranslation": "zero; nought; zero sign; fractional; fragmentary; odd (of numbers); (placed between two numbers to indicate a smaller quantity followed by a larger one); fraction; (in mathematics) remainder (after division); extra; to wither and fall; to wither",
+      "englishTranslation": [
+        "zero",
+        "nought",
+        "zero sign",
+        "fractional",
+        "fragmentary",
+        "odd (of numbers)",
+        "(placed between two numbers to indicate a smaller quantity followed by a larger one)",
+        "fraction",
+        "(in mathematics) remainder (after division)",
+        "extra",
+        "to wither and fall",
+        "to wither"
+      ],
       "pronunciation": "ling2",
       "pinyin": "líng",
       "level": "HSK1",
@@ -750,12 +1080,14 @@
         "numeral",
         "time word"
       ],
-      "example": "我正在学习“零”这个词。",
-      "exampleTranslation": "I am learning the word “零”."
+      "examples": []
     },
     {
       "word": "六",
-      "englishTranslation": "six; 6",
+      "englishTranslation": [
+        "six",
+        "6"
+      ],
       "pronunciation": "liu4",
       "pinyin": "liù",
       "level": "HSK1",
@@ -763,48 +1095,63 @@
         "numeral",
         "time word"
       ],
-      "example": "我正在学习“六”这个词。",
-      "exampleTranslation": "I am learning the word “六”."
+      "examples": []
     },
     {
       "word": "妈妈",
-      "englishTranslation": "mama; mommy; mother",
+      "englishTranslation": [
+        "mama",
+        "mommy",
+        "mother",
+        "CL:個|个[ge4],位[wei4]"
+      ],
       "pronunciation": "ma1 ma5",
       "pinyin": "mā ma",
       "level": "HSK1",
       "wordTypes": [
         "noun"
       ],
-      "example": "我正在学习“妈妈”这个词。",
-      "exampleTranslation": "I am learning the word “妈妈”."
+      "examples": [
+        {
+          "text": "\"妈妈，我能吃一块饼干吗？\" \"不行，不该在3餐间吃。\"",
+          "englishTranslation": "\"Mum, can I have a biscuit?\" \"No, you shouldn't eat between meals.\""
+        }
+      ]
     },
     {
       "word": "吗",
-      "englishTranslation": "(coll.) what?",
+      "englishTranslation": [
+        "(coll.) what?"
+      ],
       "pronunciation": "ma2",
       "pinyin": "má",
       "level": "HSK1",
       "wordTypes": [
         "modal particle"
       ],
-      "example": "我正在学习“吗”这个词。",
-      "exampleTranslation": "I am learning the word “吗”."
+      "examples": []
     },
     {
       "word": "买",
-      "englishTranslation": "to buy; to purchase",
+      "englishTranslation": [
+        "to buy",
+        "to purchase"
+      ],
       "pronunciation": "mai3",
       "pinyin": "mǎi",
       "level": "HSK1",
       "wordTypes": [
         "verb"
       ],
-      "example": "我正在学习“买”这个词。",
-      "exampleTranslation": "I am learning the word “买”."
+      "examples": []
     },
     {
       "word": "猫",
-      "englishTranslation": "cat; (dialect) to hide oneself; (coll.) modem",
+      "englishTranslation": [
+        "cat (CL:隻|只[zhi1])",
+        "(dialect) to hide oneself",
+        "(loanword) (coll.) modem"
+      ],
       "pronunciation": "mao1",
       "pinyin": "māo",
       "level": "HSK1",
@@ -812,12 +1159,13 @@
         "noun",
         "verb"
       ],
-      "example": "我正在学习“猫”这个词。",
-      "exampleTranslation": "I am learning the word “猫”."
+      "examples": []
     },
     {
       "word": "没",
-      "englishTranslation": "(negative prefix for verbs) have not; not",
+      "englishTranslation": [
+        "(negative prefix for verbs) have not; not"
+      ],
       "pronunciation": "mei2",
       "pinyin": "méi",
       "level": "HSK1",
@@ -825,60 +1173,81 @@
         "adverb",
         "verb"
       ],
-      "example": "我正在学习“没”这个词。",
-      "exampleTranslation": "I am learning the word “没”."
+      "examples": []
     },
     {
       "word": "没关系",
-      "englishTranslation": "it doesn't matter",
+      "englishTranslation": [
+        "it doesn't matter"
+      ],
       "pronunciation": "mei2 guan1 xi5",
       "pinyin": "méi guān xi",
       "level": "HSK1",
       "wordTypes": [
         "verb"
       ],
-      "example": "我正在学习“没关系”这个词。",
-      "exampleTranslation": "I am learning the word “没关系”."
+      "examples": [
+        {
+          "text": "曾经试过，曾经失败过。没关系，再试一次，再次失败，更好地失败。",
+          "englishTranslation": "Ever tried. Ever failed. No matter. Try again. Fail again. Fail better."
+        }
+      ]
     },
     {
       "word": "米饭",
-      "englishTranslation": "(cooked) rice",
+      "englishTranslation": [
+        "(cooked) rice"
+      ],
       "pronunciation": "mi3 fan4",
       "pinyin": "mǐ fàn",
       "level": "HSK1",
       "wordTypes": [
         "noun"
       ],
-      "example": "我正在学习“米饭”这个词。",
-      "exampleTranslation": "I am learning the word “米饭”."
+      "examples": [
+        {
+          "text": "我要麻婆豆腐，还有两碗米饭。",
+          "englishTranslation": "I'd like mapo tofu, and two bowls of rice."
+        }
+      ]
     },
     {
       "word": "名字",
-      "englishTranslation": "name (of a person or thing)",
+      "englishTranslation": [
+        "name (of a person or thing)"
+      ],
       "pronunciation": "ming2 zi5",
       "pinyin": "míng zi",
       "level": "HSK1",
       "wordTypes": [
         "noun"
       ],
-      "example": "我正在学习“名字”这个词。",
-      "exampleTranslation": "I am learning the word “名字”."
+      "examples": [
+        {
+          "text": "我都快要说出他的名字了，可就是记不起来。",
+          "englishTranslation": "His name was on the tip of my tongue, but I couldn't remember it."
+        }
+      ]
     },
     {
       "word": "明天",
-      "englishTranslation": "tomorrow",
+      "englishTranslation": [
+        "tomorrow"
+      ],
       "pronunciation": "ming2 tian1",
       "pinyin": "míng tiān",
       "level": "HSK1",
       "wordTypes": [
         "time word"
       ],
-      "example": "我正在学习“明天”这个词。",
-      "exampleTranslation": "I am learning the word “明天”."
+      "examples": []
     },
     {
       "word": "哪",
-      "englishTranslation": "how; which",
+      "englishTranslation": [
+        "how",
+        "which"
+      ],
       "pronunciation": "na3",
       "pinyin": "nǎ",
       "level": "HSK1",
@@ -886,12 +1255,13 @@
         "modal particle",
         "pronoun"
       ],
-      "example": "我正在学习“哪”这个词。",
-      "exampleTranslation": "I am learning the word “哪”."
+      "examples": []
     },
     {
       "word": "那",
-      "englishTranslation": "surname Na",
+      "englishTranslation": [
+        "surname Na"
+      ],
       "pronunciation": "Na1",
       "pinyin": "Nā",
       "level": "HSK1",
@@ -899,24 +1269,33 @@
         "conjunction",
         "pronoun"
       ],
-      "example": "我正在学习“那”这个词。",
-      "exampleTranslation": "I am learning the word “那”."
+      "examples": []
     },
     {
       "word": "呢",
-      "englishTranslation": "particle indicating that a previously asked question is to be applied to the preceding word (\"What about ...?\", \"And ...?\"); particle for inquiring about location (\"Where is ...?\"); particle signaling a pause, to emphasize the preceding words and allow the listener time to take them on board (\"ok?\", \"are you with me?\"); (at the end of a declarative sentence) particle indicating continuation of a state or action; particle indicating strong affirmation",
+      "englishTranslation": [
+        "(sentence-final particle) used in questions to link back to prior discourse or context (\"what about...?\", \"and...?\")",
+        "(sentence-final particle) indicating that a state or situation still holds",
+        "(discourse particle) used to mark a slight pause or emphasis in speech"
+      ],
       "pronunciation": "ne5",
       "pinyin": "ne",
       "level": "HSK1",
       "wordTypes": [
         "modal particle"
       ],
-      "example": "我正在学习“呢”这个词。",
-      "exampleTranslation": "I am learning the word “呢”."
+      "examples": []
     },
     {
       "word": "能",
-      "englishTranslation": "surname Neng",
+      "englishTranslation": [
+        "surname Neng",
+        "can",
+        "to be able to",
+        "might possibly",
+        "ability",
+        "(physics) energy"
+      ],
       "pronunciation": "Neng2",
       "pinyin": "Néng",
       "level": "HSK1",
@@ -924,24 +1303,32 @@
         "morpheme",
         "verb"
       ],
-      "example": "我正在学习“能”这个词。",
-      "exampleTranslation": "I am learning the word “能”."
+      "examples": []
     },
     {
       "word": "你",
-      "englishTranslation": "you (informal, as opposed to courteous 您)",
+      "englishTranslation": [
+        "you (informal, as opposed to courteous 您[nin2])",
+        "you (Note: In Taiwan, 妳 is used to address females, but in mainland China, it is not commonly used. Instead, 你 is used to address both males and females.)"
+      ],
       "pronunciation": "ni3",
       "pinyin": "nǐ",
       "level": "HSK1",
       "wordTypes": [
         "pronoun"
       ],
-      "example": "我正在学习“你”这个词。",
-      "exampleTranslation": "I am learning the word “你”."
+      "examples": []
     },
     {
       "word": "年",
-      "englishTranslation": "surname Nian",
+      "englishTranslation": [
+        "surname Nian",
+        "year",
+        "CL:個|个[ge4]",
+        "grain",
+        "harvest (old)",
+        "variant of 年[nian2]"
+      ],
       "pronunciation": "Nian2",
       "pinyin": "Nián",
       "level": "HSK1",
@@ -950,60 +1337,89 @@
         "temporal classifier",
         "time word"
       ],
-      "example": "我正在学习“年”这个词。",
-      "exampleTranslation": "I am learning the word “年”."
+      "examples": []
     },
     {
       "word": "女儿",
-      "englishTranslation": "daughter",
+      "englishTranslation": [
+        "daughter"
+      ],
       "pronunciation": "nü3 er2",
       "pinyin": "nǚ ér",
       "level": "HSK1",
       "wordTypes": [
         "noun"
       ],
-      "example": "我正在学习“女儿”这个词。",
-      "exampleTranslation": "I am learning the word “女儿”."
+      "examples": [
+        {
+          "text": "上个月，我们20岁的女儿生了个女孩。",
+          "englishTranslation": "Last month our twenty-year-old daughter gave birth to a baby girl."
+        }
+      ]
     },
     {
       "word": "朋友",
-      "englishTranslation": "friend",
+      "englishTranslation": [
+        "friend",
+        "CL:個|个[ge4],位[wei4]"
+      ],
       "pronunciation": "peng2 you5",
       "pinyin": "péng you",
       "level": "HSK1",
       "wordTypes": [
         "noun"
       ],
-      "example": "我正在学习“朋友”这个词。",
-      "exampleTranslation": "I am learning the word “朋友”."
+      "examples": [
+        {
+          "text": "因为她是一个喜欢动手实践的人，她常常把朋友的汽车修好。",
+          "englishTranslation": "As she's a very practical person, she often fixes her friends' cars."
+        }
+      ]
     },
     {
       "word": "漂亮",
-      "englishTranslation": "pretty; beautiful",
+      "englishTranslation": [
+        "pretty; beautiful"
+      ],
       "pronunciation": "piao4 liang5",
       "pinyin": "piào liang",
       "level": "HSK1",
       "wordTypes": [
         "adjective"
       ],
-      "example": "我正在学习“漂亮”这个词。",
-      "exampleTranslation": "I am learning the word “漂亮”."
+      "examples": [
+        {
+          "text": "她比玛丽聪明，但她却没玛丽漂亮。",
+          "englishTranslation": "She's smarter than Mary, but she's not as pretty as Mary."
+        }
+      ]
     },
     {
       "word": "苹果",
-      "englishTranslation": "apple",
+      "englishTranslation": [
+        "Apple (American tech company)",
+        "apple",
+        "CL:個|个[ge4],顆|颗[ke1]"
+      ],
       "pronunciation": "ping2 guo3",
       "pinyin": "píng guǒ",
       "level": "HSK1",
       "wordTypes": [
         "noun"
       ],
-      "example": "我正在学习“苹果”这个词。",
-      "exampleTranslation": "I am learning the word “苹果”."
+      "examples": [
+        {
+          "text": "在许多突厥语族的语言中，“阿拉木图”有“苹果之父”的意思。",
+          "englishTranslation": "\"Almaty\" means \"The Father of Apples\" in many Turkic languages."
+        }
+      ]
     },
     {
       "word": "七",
-      "englishTranslation": "seven; 7",
+      "englishTranslation": [
+        "seven",
+        "7"
+      ],
       "pronunciation": "qi1",
       "pinyin": "qī",
       "level": "HSK1",
@@ -1011,24 +1427,39 @@
         "numeral",
         "time word"
       ],
-      "example": "我正在学习“七”这个词。",
-      "exampleTranslation": "I am learning the word “七”."
+      "examples": []
     },
     {
       "word": "前面",
-      "englishTranslation": "ahead; in front; preceding; above; also pr. [qián mian]",
+      "englishTranslation": [
+        "ahead",
+        "in front",
+        "preceding",
+        "above",
+        "also pr. [qian2 mian5]"
+      ],
       "pronunciation": "qian2 mian4",
       "pinyin": "qián miàn",
       "level": "HSK1",
       "wordTypes": [
         "direction or location word"
       ],
-      "example": "我正在学习“前面”这个词。",
-      "exampleTranslation": "I am learning the word “前面”."
+      "examples": [
+        {
+          "text": "公共汽车的停车站正好坐落在我的住所前面。",
+          "englishTranslation": "The bus stop is located right outside where I live."
+        }
+      ]
     },
     {
       "word": "钱",
-      "englishTranslation": "surname Qian",
+      "englishTranslation": [
+        "surname Qian",
+        "coin",
+        "money",
+        "CL:筆|笔[bi3]",
+        "unit of weight, one tenth of a tael 兩|两[liang3]"
+      ],
       "pronunciation": "Qian2",
       "pinyin": "Qián",
       "level": "HSK1",
@@ -1036,36 +1467,60 @@
         "noun",
         "personal name"
       ],
-      "example": "我正在学习“钱”这个词。",
-      "exampleTranslation": "I am learning the word “钱”."
+      "examples": []
     },
     {
       "word": "请",
-      "englishTranslation": "to ask; to invite; please (do sth); to treat (to a meal etc); to request",
+      "englishTranslation": [
+        "to ask",
+        "to invite",
+        "please (do sth)",
+        "to treat (to a meal etc)",
+        "to request"
+      ],
       "pronunciation": "qing3",
       "pinyin": "qǐng",
       "level": "HSK1",
       "wordTypes": [
         "verb"
       ],
-      "example": "我正在学习“请”这个词。",
-      "exampleTranslation": "I am learning the word “请”."
+      "examples": []
     },
     {
       "word": "去",
-      "englishTranslation": "to go; to go to (a place); (of a time etc) last; just passed; to send; to remove; to get rid of; to reduce; to be apart from in space or time; to die (euphemism); to play (a part); (when used either before or after a verb) to go in order to do sth; (after a verb of motion indicates movement away from the speaker); (used after certain verbs to indicate detachment or separation)",
+      "englishTranslation": [
+        "to go",
+        "to go to (a place)",
+        "(of a time etc) last",
+        "just passed",
+        "to send",
+        "to remove",
+        "to get rid of",
+        "to reduce",
+        "to be apart from in space or time",
+        "to die (euphemism)",
+        "to play (a part)",
+        "(when used either before or after a verb) to go in order to do sth",
+        "(after a verb of motion indicates movement away from the speaker)",
+        "(used after certain verbs to indicate detachment or separation)"
+      ],
       "pronunciation": "qu4",
       "pinyin": "qù",
       "level": "HSK1",
       "wordTypes": [
         "verb"
       ],
-      "example": "我正在学习“去”这个词。",
-      "exampleTranslation": "I am learning the word “去”."
+      "examples": []
     },
     {
       "word": "热",
-      "englishTranslation": "to warm up; to heat up; hot (of weather); heat; fervent",
+      "englishTranslation": [
+        "to warm up",
+        "to heat up",
+        "hot (of weather)",
+        "heat",
+        "fervent"
+      ],
       "pronunciation": "re4",
       "pinyin": "rè",
       "level": "HSK1",
@@ -1077,24 +1532,34 @@
         "suffix",
         "verb"
       ],
-      "example": "我正在学习“热”这个词。",
-      "exampleTranslation": "I am learning the word “热”."
+      "examples": []
     },
     {
       "word": "人",
-      "englishTranslation": "person; people",
+      "englishTranslation": [
+        "person; people",
+        "CL:個|个[ge4],位[wei4],名[ming2]"
+      ],
       "pronunciation": "ren2",
       "pinyin": "rén",
       "level": "HSK1",
       "wordTypes": [
         "noun"
       ],
-      "example": "我正在学习“人”这个词。",
-      "exampleTranslation": "I am learning the word “人”."
+      "examples": []
     },
     {
       "word": "认识",
-      "englishTranslation": "to know; to recognize; to be familiar with; to get acquainted with sb; knowledge; understanding; awareness; cognition",
+      "englishTranslation": [
+        "to know",
+        "to recognize",
+        "to be familiar with",
+        "to get acquainted with sb",
+        "knowledge",
+        "understanding",
+        "awareness",
+        "cognition"
+      ],
       "pronunciation": "ren4 shi5",
       "pinyin": "rèn shi",
       "level": "HSK1",
@@ -1103,12 +1568,22 @@
         "noun",
         "verb"
       ],
-      "example": "我正在学习“认识”这个词。",
-      "exampleTranslation": "I am learning the word “认识”."
+      "examples": [
+        {
+          "text": "不管你认不认识他，你都应该支持他的想法。",
+          "englishTranslation": "Whether you know him or not, you have to support his opinion."
+        }
+      ]
     },
     {
       "word": "日",
-      "englishTranslation": "abbr. for 本, Japan",
+      "englishTranslation": [
+        "(bound form) sun",
+        "day",
+        "day of the month",
+        "(bound form) Japan (abbr. for 日本[Ri4 ben3])",
+        "(vulgar) to fuck; to have sex with"
+      ],
       "pronunciation": "Ri4",
       "pinyin": "Rì",
       "level": "HSK1",
@@ -1118,12 +1593,15 @@
         "temporal classifier",
         "time word"
       ],
-      "example": "我正在学习“日”这个词。",
-      "exampleTranslation": "I am learning the word “日”."
+      "examples": []
     },
     {
       "word": "三",
-      "englishTranslation": "surname San",
+      "englishTranslation": [
+        "surname San",
+        "three",
+        "3"
+      ],
       "pronunciation": "San1",
       "pinyin": "Sān",
       "level": "HSK1",
@@ -1131,24 +1609,32 @@
         "numeral",
         "time word"
       ],
-      "example": "我正在学习“三”这个词。",
-      "exampleTranslation": "I am learning the word “三”."
+      "examples": []
     },
     {
       "word": "商店",
-      "englishTranslation": "store; shop",
+      "englishTranslation": [
+        "store; shop",
+        "CL:家[jia1]"
+      ],
       "pronunciation": "shang1 dian4",
       "pinyin": "shāng diàn",
       "level": "HSK1",
       "wordTypes": [
         "noun"
       ],
-      "example": "我正在学习“商店”这个词。",
-      "exampleTranslation": "I am learning the word “商店”."
+      "examples": [
+        {
+          "text": "汤姆为他怀孕的妻子骑行30千米到商店买草莓。",
+          "englishTranslation": "Tom biked 30 km to the store to buy strawberries for his pregnant wife."
+        }
+      ]
     },
     {
       "word": "上",
-      "englishTranslation": "used in 上声",
+      "englishTranslation": [
+        "used in 上聲|上声[shang3 sheng1]"
+      ],
       "pronunciation": "shang3",
       "pinyin": "shǎng",
       "level": "HSK1",
@@ -1157,24 +1643,36 @@
         "morpheme",
         "verb"
       ],
-      "example": "我正在学习“上”这个词。",
-      "exampleTranslation": "I am learning the word “上”."
+      "examples": []
     },
     {
       "word": "上午",
-      "englishTranslation": "morning",
+      "englishTranslation": [
+        "morning"
+      ],
       "pronunciation": "shang4 wu3",
       "pinyin": "shàng wǔ",
       "level": "HSK1",
       "wordTypes": [
         "time word"
       ],
-      "example": "我正在学习“上午”这个词。",
-      "exampleTranslation": "I am learning the word “上午”."
+      "examples": [
+        {
+          "text": "我通常从上午九点工作到下午五点，但是今天晚上我十点才下班。",
+          "englishTranslation": "I usually work from 9 AM to 5 PM, but today I worked until 10 PM."
+        }
+      ]
     },
     {
       "word": "少",
-      "englishTranslation": "few; less; to lack; to be missing; to stop (doing sth); seldom",
+      "englishTranslation": [
+        "few",
+        "less",
+        "to lack",
+        "to be missing",
+        "to stop (doing sth)",
+        "seldom"
+      ],
       "pronunciation": "shao3",
       "pinyin": "shǎo",
       "level": "HSK1",
@@ -1185,24 +1683,33 @@
         "morpheme",
         "verb"
       ],
-      "example": "我正在学习“少”这个词。",
-      "exampleTranslation": "I am learning the word “少”."
+      "examples": []
     },
     {
       "word": "什么",
-      "englishTranslation": "what?; something; anything",
+      "englishTranslation": [
+        "what?",
+        "something; anything"
+      ],
       "pronunciation": "shen2 me5",
       "pinyin": "shén me",
       "level": "HSK1",
       "wordTypes": [
         "pronoun"
       ],
-      "example": "我正在学习“什么”这个词。",
-      "exampleTranslation": "I am learning the word “什么”."
+      "examples": [
+        {
+          "text": "“我昨天梦到了你。”“当真？那我（在你梦中）在做什么？”",
+          "englishTranslation": "\"I dreamed of you yesterday.\" \"Seriously? And what was I doing?\""
+        }
+      ]
     },
     {
       "word": "十",
-      "englishTranslation": "ten; 10",
+      "englishTranslation": [
+        "ten",
+        "10"
+      ],
       "pronunciation": "shi2",
       "pinyin": "shí",
       "level": "HSK1",
@@ -1210,36 +1717,56 @@
         "numeral",
         "time word"
       ],
-      "example": "我正在学习“十”这个词。",
-      "exampleTranslation": "I am learning the word “十”."
+      "examples": []
     },
     {
       "word": "时候",
-      "englishTranslation": "time; length of time; moment; period",
+      "englishTranslation": [
+        "time",
+        "length of time",
+        "moment",
+        "period"
+      ],
       "pronunciation": "shi2 hou5",
       "pinyin": "shí hou",
       "level": "HSK1",
       "wordTypes": [
         "noun"
       ],
-      "example": "我正在学习“时候”这个词。",
-      "exampleTranslation": "I am learning the word “时候”."
+      "examples": [
+        {
+          "text": "人们唯一不喜欢流言蜚语的时间，就是当你讨论他们自己的时候。",
+          "englishTranslation": "The only time people dislike gossip is when you gossip about them."
+        }
+      ]
     },
     {
       "word": "是",
-      "englishTranslation": "to be (followed by substantives only); correct; right; true; (respectful acknowledgement of a command) very well; (adverb for emphatic assertion)",
+      "englishTranslation": [
+        "to be (followed by substantives only)",
+        "correct; right; true",
+        "(respectful acknowledgement of a command) very well",
+        "(adverb for emphatic assertion)",
+        "variant of 是[shi4]"
+      ],
       "pronunciation": "shi4",
       "pinyin": "shì",
       "level": "HSK1",
       "wordTypes": [
         "verb"
       ],
-      "example": "我正在学习“是”这个词。",
-      "exampleTranslation": "I am learning the word “是”."
+      "examples": []
     },
     {
       "word": "书",
-      "englishTranslation": "abbr. for 书经",
+      "englishTranslation": [
+        "abbr. for 書經|书经[Shu1 jing1]",
+        "book",
+        "letter",
+        "document",
+        "CL:本[ben3],冊|册[ce4],部[bu4]",
+        "to write"
+      ],
       "pronunciation": "Shu1",
       "pinyin": "Shū",
       "level": "HSK1",
@@ -1247,60 +1774,90 @@
         "morpheme",
         "noun"
       ],
-      "example": "我正在学习“书”这个词。",
-      "exampleTranslation": "I am learning the word “书”."
+      "examples": []
     },
     {
       "word": "谁",
-      "englishTranslation": "who; also pr. [shuí]",
+      "englishTranslation": [
+        "who",
+        "also pr. [shui2]"
+      ],
       "pronunciation": "shei2",
       "pinyin": "shéi",
       "level": "HSK1",
       "wordTypes": [
         "pronoun"
       ],
-      "example": "我正在学习“谁”这个词。",
-      "exampleTranslation": "I am learning the word “谁”."
+      "examples": []
     },
     {
       "word": "水",
-      "englishTranslation": "surname Shui",
+      "englishTranslation": [
+        "surname Shui",
+        "Shui ethnic group",
+        "water",
+        "(after a name) ... River",
+        "to swim (used mostly in 會水|会水[hui4 shui3] and 水性[shui3 xing4])",
+        "(coll.) lacking in substance; shoddy",
+        "(bound form) additional cost; extra income",
+        "classifier for washings of a garment"
+      ],
       "pronunciation": "Shui3",
       "pinyin": "Shuǐ",
       "level": "HSK1",
       "wordTypes": [
         "noun"
       ],
-      "example": "我正在学习“水”这个词。",
-      "exampleTranslation": "I am learning the word “水”."
+      "examples": []
     },
     {
       "word": "水果",
-      "englishTranslation": "fruit",
+      "englishTranslation": [
+        "fruit"
+      ],
       "pronunciation": "shui3 guo3",
       "pinyin": "shuǐ guǒ",
       "level": "HSK1",
       "wordTypes": [
         "noun"
       ],
-      "example": "我正在学习“水果”这个词。",
-      "exampleTranslation": "I am learning the word “水果”."
+      "examples": [
+        {
+          "text": "前几天我发现了一个买水果的好地方。",
+          "englishTranslation": "I found a good place to buy fruit a couple of days ago."
+        }
+      ]
     },
     {
       "word": "睡觉",
-      "englishTranslation": "to go to bed; to sleep",
+      "englishTranslation": [
+        "to go to bed",
+        "to sleep"
+      ],
       "pronunciation": "shui4 jiao4",
       "pinyin": "shuì jiào",
       "level": "HSK1",
       "wordTypes": [
         "verb"
       ],
-      "example": "我正在学习“睡觉”这个词。",
-      "exampleTranslation": "I am learning the word “睡觉”."
+      "examples": [
+        {
+          "text": "我学习了两个多小时，然后就去睡觉了。",
+          "englishTranslation": "I studied for more than two hours, and afterward I went to bed."
+        }
+      ]
     },
     {
       "word": "说话",
-      "englishTranslation": "to speak; to say; to talk; to gossip; to tell stories; talk; word",
+      "englishTranslation": [
+        "to speak",
+        "to say",
+        "to talk",
+        "to gossip",
+        "to tell stories",
+        "talk",
+        "word"
+      ],
       "pronunciation": "shuo1 hua4",
       "pinyin": "shuō huà",
       "level": "HSK1",
@@ -1308,12 +1865,19 @@
         "nominal verb",
         "verb"
       ],
-      "example": "我正在学习“说话”这个词。",
-      "exampleTranslation": "I am learning the word “说话”."
+      "examples": [
+        {
+          "text": "在汤姆前往波士顿之前，我能和他说话可真算是走了运。",
+          "englishTranslation": "It was lucky I was able to speak to Tom before he left for Boston."
+        }
+      ]
     },
     {
       "word": "四",
-      "englishTranslation": "four; 4",
+      "englishTranslation": [
+        "four",
+        "4"
+      ],
       "pronunciation": "si4",
       "pinyin": "sì",
       "level": "HSK1",
@@ -1321,48 +1885,61 @@
         "numeral",
         "time word"
       ],
-      "example": "我正在学习“四”这个词。",
-      "exampleTranslation": "I am learning the word “四”."
+      "examples": []
     },
     {
       "word": "岁",
-      "englishTranslation": "variant of 岁, year; years old",
+      "englishTranslation": [
+        "variant of 歲|岁[sui4], year",
+        "years old",
+        "classifier for years (of age)",
+        "year",
+        "year (of crop harvests)"
+      ],
       "pronunciation": "sui4",
       "pinyin": "suì",
       "level": "HSK1",
       "wordTypes": [
         "temporal classifier"
       ],
-      "example": "我正在学习“岁”这个词。",
-      "exampleTranslation": "I am learning the word “岁”."
+      "examples": []
     },
     {
       "word": "他",
-      "englishTranslation": "he; him (used for either sex when the sex is unknown or unimportant); (used before sb's name for emphasis); (used as a meaningless mock object); (literary) other",
+      "englishTranslation": [
+        "(third-person singular) (since the early 20th century, usu. male) he; him; his",
+        "(bound form) other; another; some other (as in 他日[ta1 ri4] and 他人[ta1 ren2])"
+      ],
       "pronunciation": "ta1",
       "pinyin": "tā",
       "level": "HSK1",
       "wordTypes": [
         "pronoun"
       ],
-      "example": "我正在学习“他”这个词。",
-      "exampleTranslation": "I am learning the word “他”."
+      "examples": []
     },
     {
       "word": "她",
-      "englishTranslation": "she",
+      "englishTranslation": [
+        "she"
+      ],
       "pronunciation": "ta1",
       "pinyin": "tā",
       "level": "HSK1",
       "wordTypes": [
         "pronoun"
       ],
-      "example": "我正在学习“她”这个词。",
-      "exampleTranslation": "I am learning the word “她”."
+      "examples": []
     },
     {
       "word": "太",
-      "englishTranslation": "highest; greatest; too (much); very; extremely",
+      "englishTranslation": [
+        "highest",
+        "greatest",
+        "too (much)",
+        "very",
+        "extremely"
+      ],
       "pronunciation": "tai4",
       "pinyin": "tài",
       "level": "HSK1",
@@ -1370,48 +1947,65 @@
         "adverb",
         "non-predicate adjective"
       ],
-      "example": "我正在学习“太”这个词。",
-      "exampleTranslation": "I am learning the word “太”."
+      "examples": []
     },
     {
       "word": "天气",
-      "englishTranslation": "weather",
+      "englishTranslation": [
+        "weather"
+      ],
       "pronunciation": "tian1 qi4",
       "pinyin": "tiān qì",
       "level": "HSK1",
       "wordTypes": [
         "noun"
       ],
-      "example": "我正在学习“天气”这个词。",
-      "exampleTranslation": "I am learning the word “天气”."
+      "examples": [
+        {
+          "text": "如果呼气的时候能看到自己的气，你就知道天气很冷。",
+          "englishTranslation": "If you can see your breath when you exhale, you know it's cold."
+        }
+      ]
     },
     {
       "word": "听",
-      "englishTranslation": "smile (archaic)",
+      "englishTranslation": [
+        "smile (archaic)"
+      ],
       "pronunciation": "yin3",
       "pinyin": "yǐn",
       "level": "HSK1",
       "wordTypes": [
         "verb"
       ],
-      "example": "我正在学习“听”这个词。",
-      "exampleTranslation": "I am learning the word “听”."
+      "examples": []
     },
     {
       "word": "同学",
-      "englishTranslation": "to study at the same school; fellow student; classmate",
+      "englishTranslation": [
+        "to study at the same school",
+        "fellow student",
+        "classmate",
+        "CL:位[wei4],個|个[ge4]"
+      ],
       "pronunciation": "tong2 xue2",
       "pinyin": "tóng xué",
       "level": "HSK1",
       "wordTypes": [
         "noun"
       ],
-      "example": "我正在学习“同学”这个词。",
-      "exampleTranslation": "I am learning the word “同学”."
+      "examples": [
+        {
+          "text": "那个男孩没有因为他同学的笑而谦卑。",
+          "englishTranslation": "The boy was not humiliated by the laughter of his classmates."
+        }
+      ]
     },
     {
       "word": "喂",
-      "englishTranslation": "hello (when answering the phone)",
+      "englishTranslation": [
+        "hello (when answering the phone)"
+      ],
       "pronunciation": "wei2",
       "pinyin": "wéi",
       "level": "HSK1",
@@ -1419,36 +2013,45 @@
         "interjection",
         "verb"
       ],
-      "example": "我正在学习“喂”这个词。",
-      "exampleTranslation": "I am learning the word “喂”."
+      "examples": []
     },
     {
       "word": "我",
-      "englishTranslation": "I; me; my",
+      "englishTranslation": [
+        "I; me; my"
+      ],
       "pronunciation": "wo3",
       "pinyin": "wǒ",
       "level": "HSK1",
       "wordTypes": [
         "pronoun"
       ],
-      "example": "我正在学习“我”这个词。",
-      "exampleTranslation": "I am learning the word “我”."
+      "examples": []
     },
     {
       "word": "我们",
-      "englishTranslation": "we; us; ourselves; our",
+      "englishTranslation": [
+        "we; us; ourselves; our"
+      ],
       "pronunciation": "wo3 men5",
       "pinyin": "wǒ men",
       "level": "HSK1",
       "wordTypes": [
         "pronoun"
       ],
-      "example": "我正在学习“我们”这个词。",
-      "exampleTranslation": "I am learning the word “我们”."
+      "examples": [
+        {
+          "text": "“我们从2009年起就没见过面。”“有那么久吗？”",
+          "englishTranslation": "\"We haven't seen each other since 2009.\" \"Has it been that long?\""
+        }
+      ]
     },
     {
       "word": "五",
-      "englishTranslation": "five; 5",
+      "englishTranslation": [
+        "five",
+        "5"
+      ],
       "pronunciation": "wu3",
       "pinyin": "wǔ",
       "level": "HSK1",
@@ -1456,12 +2059,13 @@
         "numeral",
         "time word"
       ],
-      "example": "我正在学习“五”这个词。",
-      "exampleTranslation": "I am learning the word “五”."
+      "examples": []
     },
     {
       "word": "喜欢",
-      "englishTranslation": "to like; to be fond of",
+      "englishTranslation": [
+        "to like; to be fond of"
+      ],
       "pronunciation": "xi3 huan5",
       "pinyin": "xǐ huan",
       "level": "HSK1",
@@ -1469,12 +2073,28 @@
         "nominal verb",
         "verb"
       ],
-      "example": "我正在学习“喜欢”这个词。",
-      "exampleTranslation": "I am learning the word “喜欢”."
+      "examples": [
+        {
+          "text": "人们唯一不喜欢流言蜚语的时间，就是当你讨论他们自己的时候。",
+          "englishTranslation": "The only time people dislike gossip is when you gossip about them."
+        }
+      ]
     },
     {
       "word": "下",
-      "englishTranslation": "down; downwards; below; lower; later; next (week etc); second (of two parts); to decline; to go down; to arrive at (a decision, conclusion etc); measure word to show the frequency of an action",
+      "englishTranslation": [
+        "down",
+        "downwards",
+        "below",
+        "lower",
+        "later",
+        "next (week etc)",
+        "second (of two parts)",
+        "to decline",
+        "to go down",
+        "to arrive at (a decision, conclusion etc)",
+        "measure word to show the frequency of an action"
+      ],
       "pronunciation": "xia4",
       "pinyin": "xià",
       "level": "HSK1",
@@ -1484,72 +2104,111 @@
         "temporal classifier",
         "verb"
       ],
-      "example": "我正在学习“下”这个词。",
-      "exampleTranslation": "I am learning the word “下”."
+      "examples": []
     },
     {
       "word": "下午",
-      "englishTranslation": "afternoon; p.m.",
+      "englishTranslation": [
+        "afternoon",
+        "CL:個|个[ge4]",
+        "p.m."
+      ],
       "pronunciation": "xia4 wu3",
       "pinyin": "xià wǔ",
       "level": "HSK1",
       "wordTypes": [
         "time word"
       ],
-      "example": "我正在学习“下午”这个词。",
-      "exampleTranslation": "I am learning the word “下午”."
+      "examples": [
+        {
+          "text": "我通常从上午九点工作到下午五点，但是今天晚上我十点才下班。",
+          "englishTranslation": "I usually work from 9 AM to 5 PM, but today I worked until 10 PM."
+        }
+      ]
     },
     {
       "word": "下雨",
-      "englishTranslation": "to rain",
+      "englishTranslation": [
+        "to rain"
+      ],
       "pronunciation": "xia4 yu3",
       "pinyin": "xià yǔ",
       "level": "HSK1",
       "wordTypes": [
         "verb"
       ],
-      "example": "我正在学习“下雨”这个词。",
-      "exampleTranslation": "I am learning the word “下雨”."
+      "examples": [
+        {
+          "text": "我本来预备今天去海滩的，但接着天就开始下雨了。",
+          "englishTranslation": "I was planning on going to the beach today, but then it started to rain."
+        }
+      ]
     },
     {
       "word": "先生",
-      "englishTranslation": "teacher; gentleman; sir; mister (Mr.); husband; (dialect) doctor",
+      "englishTranslation": [
+        "teacher",
+        "gentleman; sir; mister (Mr.)",
+        "husband",
+        "(dialect) doctor",
+        "CL:位[wei4]"
+      ],
       "pronunciation": "xian1 sheng5",
       "pinyin": "xiān sheng",
       "level": "HSK1",
       "wordTypes": [
         "noun"
       ],
-      "example": "我正在学习“先生”这个词。",
-      "exampleTranslation": "I am learning the word “先生”."
+      "examples": [
+        {
+          "text": "我们对史密斯先生杰出的，给人启发的讲话表示感激。",
+          "englishTranslation": "We express our gratitude for Mr Smith's outstanding, challenging speech."
+        }
+      ]
     },
     {
       "word": "现在",
-      "englishTranslation": "now; at present; at the moment; modern; current; nowadays",
+      "englishTranslation": [
+        "now; at present; currently"
+      ],
       "pronunciation": "xian4 zai4",
       "pinyin": "xiàn zài",
       "level": "HSK1",
       "wordTypes": [
         "time word"
       ],
-      "example": "我正在学习“现在”这个词。",
-      "exampleTranslation": "I am learning the word “现在”."
+      "examples": [
+        {
+          "text": "我们的任务到目前为止很轻松，但从现在开始将会变得很难。",
+          "englishTranslation": "Our task has been easy so far, but it will be difficult from now on."
+        }
+      ]
     },
     {
       "word": "想",
-      "englishTranslation": "to think (about); to think of; to devise; to think (that); to believe (that); to desire; to want (to); to miss (feel wistful about the absence of)",
+      "englishTranslation": [
+        "to think (about)",
+        "to think of; to devise",
+        "to think (that); to believe (that)",
+        "to desire; to want (to)",
+        "to miss (feel wistful about the absence of)"
+      ],
       "pronunciation": "xiang3",
       "pinyin": "xiǎng",
       "level": "HSK1",
       "wordTypes": [
         "verb"
       ],
-      "example": "我正在学习“想”这个词。",
-      "exampleTranslation": "I am learning the word “想”."
+      "examples": []
     },
     {
       "word": "小",
-      "englishTranslation": "small; tiny; few; young",
+      "englishTranslation": [
+        "small",
+        "tiny",
+        "few",
+        "young"
+      ],
       "pronunciation": "xiao3",
       "pinyin": "xiǎo",
       "level": "HSK1",
@@ -1557,84 +2216,120 @@
         "adjective",
         "adverbial adjective"
       ],
-      "example": "我正在学习“小”这个词。",
-      "exampleTranslation": "I am learning the word “小”."
+      "examples": []
     },
     {
       "word": "小姐",
-      "englishTranslation": "young lady; miss; (slang) prostitute",
+      "englishTranslation": [
+        "young lady",
+        "miss",
+        "(slang) prostitute",
+        "CL:個|个[ge4],位[wei4]"
+      ],
       "pronunciation": "xiao3 jie5",
       "pinyin": "xiǎo jie",
       "level": "HSK1",
       "wordTypes": [
         "noun"
       ],
-      "example": "我正在学习“小姐”这个词。",
-      "exampleTranslation": "I am learning the word “小姐”."
+      "examples": [
+        {
+          "text": "罗杰斯先生和史密斯小姐昨天宣布订婚。",
+          "englishTranslation": "The engagement of Mr Rogers and Miss Smith was announced yesterday."
+        }
+      ]
     },
     {
       "word": "些",
-      "englishTranslation": "classifier indicating a small amount or small number greater than 1: some, a few, several",
+      "englishTranslation": [
+        "classifier indicating a small amount or small number greater than 1: some, a few, several"
+      ],
       "pronunciation": "xie1",
       "pinyin": "xiē",
       "level": "HSK1",
       "wordTypes": [
         "classifier"
       ],
-      "example": "我正在学习“些”这个词。",
-      "exampleTranslation": "I am learning the word “些”."
+      "examples": []
     },
     {
       "word": "写",
-      "englishTranslation": "to write",
+      "englishTranslation": [
+        "to write"
+      ],
       "pronunciation": "xie3",
       "pinyin": "xiě",
       "level": "HSK1",
       "wordTypes": [
         "verb"
       ],
-      "example": "我正在学习“写”这个词。",
-      "exampleTranslation": "I am learning the word “写”."
+      "examples": []
     },
     {
       "word": "谢谢",
-      "englishTranslation": "to thank; thanks; thank you",
+      "englishTranslation": [
+        "to thank",
+        "thanks",
+        "thank you"
+      ],
       "pronunciation": "xie4 xie5",
       "pinyin": "xiè xie",
       "level": "HSK1",
       "wordTypes": [
         "verb"
       ],
-      "example": "我正在学习“谢谢”这个词。",
-      "exampleTranslation": "I am learning the word “谢谢”."
+      "examples": [
+        {
+          "text": "“等他回来，我要让他给你打电话吗？”“是的，谢谢。”",
+          "englishTranslation": "\"Shall I have him call you when he gets back?\" \"Yes, please.\""
+        }
+      ]
     },
     {
       "word": "星期",
-      "englishTranslation": "week; day of the week; Sunday",
+      "englishTranslation": [
+        "week",
+        "CL:個|个[ge4]",
+        "day of the week",
+        "Sunday"
+      ],
       "pronunciation": "xing1 qi1",
       "pinyin": "xīng qī",
       "level": "HSK1",
       "wordTypes": [
         "noun"
       ],
-      "example": "我正在学习“星期”这个词。",
-      "exampleTranslation": "I am learning the word “星期”."
+      "examples": [
+        {
+          "text": "我有一星期没用Anki了，现在我有五百张卡片滞后。",
+          "englishTranslation": "I haven't used Anki for a week, and now I'm behind by 500 cards."
+        }
+      ]
     },
     {
       "word": "学生",
-      "englishTranslation": "student; schoolchild",
+      "englishTranslation": [
+        "student",
+        "schoolchild"
+      ],
       "pronunciation": "xue2 sheng5",
       "pinyin": "xué sheng",
       "level": "HSK1",
       "wordTypes": [
         "noun"
       ],
-      "example": "我正在学习“学生”这个词。",
-      "exampleTranslation": "I am learning the word “学生”."
+      "examples": [
+        {
+          "text": "通常学生们喜欢理解他们问题的老师。",
+          "englishTranslation": "Students generally like a teacher who understands their problems."
+        }
+      ]
     },
     {
       "word": "学习",
-      "englishTranslation": "to learn; to study",
+      "englishTranslation": [
+        "to learn; to study"
+      ],
       "pronunciation": "xue2 xi2",
       "pinyin": "xué xí",
       "level": "HSK1",
@@ -1642,24 +2337,43 @@
         "nominal verb",
         "verb"
       ],
-      "example": "我正在学习“学习”这个词。",
-      "exampleTranslation": "I am learning the word “学习”."
+      "examples": [
+        {
+          "text": "当你坐在一把舒适的椅子上的时候，更容易学习。",
+          "englishTranslation": "It is easier to study when you are sitting in a comfortable chair."
+        }
+      ]
     },
     {
       "word": "学校",
-      "englishTranslation": "school",
+      "englishTranslation": [
+        "school",
+        "CL:所[suo3]"
+      ],
       "pronunciation": "xue2 xiao4",
       "pinyin": "xué xiào",
       "level": "HSK1",
       "wordTypes": [
         "noun"
       ],
-      "example": "我正在学习“学校”这个词。",
-      "exampleTranslation": "I am learning the word “学校”."
+      "examples": [
+        {
+          "text": "今天早上在去学校的路上，我看到了一群外国人。",
+          "englishTranslation": "I saw a group of foreigners on my way to school this morning."
+        }
+      ]
     },
     {
       "word": "一",
-      "englishTranslation": "one; single; a (article); as soon as; entire; whole; all; throughout; \"one\" radical in Chinese characters (Kangxi radical 1); also pr. [yāo] for greater clarity when spelling out numbers digit by digit",
+      "englishTranslation": [
+        "one",
+        "single",
+        "a (article)",
+        "as soon as",
+        "entire; whole; all; throughout",
+        "\"one\" radical in Chinese characters (Kangxi radical 1)",
+        "also pr. [yao1] for greater clarity when spelling out numbers digit by digit"
+      ],
       "pronunciation": "yi1",
       "pinyin": "yī",
       "level": "HSK1",
@@ -1668,72 +2382,105 @@
         "numeral",
         "time word"
       ],
-      "example": "我正在学习“一”这个词。",
-      "exampleTranslation": "I am learning the word “一”."
+      "examples": []
     },
     {
       "word": "衣服",
-      "englishTranslation": "clothes",
+      "englishTranslation": [
+        "clothes",
+        "CL:件[jian4],套[tao4]"
+      ],
       "pronunciation": "yi1 fu5",
       "pinyin": "yī fu",
       "level": "HSK1",
       "wordTypes": [
         "noun"
       ],
-      "example": "我正在学习“衣服”这个词。",
-      "exampleTranslation": "I am learning the word “衣服”."
+      "examples": [
+        {
+          "text": "我有那么多衣服，以至于我不知道明天穿什么了。",
+          "englishTranslation": "I have so many clothes I don't know what to wear tomorrow."
+        }
+      ]
     },
     {
       "word": "医生",
-      "englishTranslation": "doctor",
+      "englishTranslation": [
+        "doctor; medical practitioner"
+      ],
       "pronunciation": "yi1 sheng1",
       "pinyin": "yī shēng",
       "level": "HSK1",
       "wordTypes": [
         "noun"
       ],
-      "example": "我正在学习“医生”这个词。",
-      "exampleTranslation": "I am learning the word “医生”."
+      "examples": [
+        {
+          "text": "医生告诉史密斯先生他要长寿的话就得戒烟。",
+          "englishTranslation": "The doctor told Mr Smith to give up smoking if he wanted to live long."
+        }
+      ]
     },
     {
       "word": "医院",
-      "englishTranslation": "hospital",
+      "englishTranslation": [
+        "hospital",
+        "CL:所[suo3],家[jia1],座[zuo4]"
+      ],
       "pronunciation": "yi1 yuan4",
       "pinyin": "yī yuàn",
       "level": "HSK1",
       "wordTypes": [
         "noun"
       ],
-      "example": "我正在学习“医院”这个词。",
-      "exampleTranslation": "I am learning the word “医院”."
+      "examples": [
+        {
+          "text": "汤姆把玛丽放到他的摩托车背上送到医院。",
+          "englishTranslation": "Tom took Mary to the hospital on the back of his motorcycle."
+        }
+      ]
     },
     {
       "word": "椅子",
-      "englishTranslation": "chair",
+      "englishTranslation": [
+        "chair",
+        "CL:把[ba3],張|张[zhang1]"
+      ],
       "pronunciation": "yi3 zi5",
       "pinyin": "yǐ zi",
       "level": "HSK1",
       "wordTypes": [
         "noun"
       ],
-      "example": "我正在学习“椅子”这个词。",
-      "exampleTranslation": "I am learning the word “椅子”."
+      "examples": [
+        {
+          "text": "当你坐在一把舒适的椅子上的时候，更容易学习。",
+          "englishTranslation": "It is easier to study when you are sitting in a comfortable chair."
+        }
+      ]
     },
     {
       "word": "有",
-      "englishTranslation": "to have; there is; (bound form) having; with; -ful; -ed; -al (as in 意 intentional)",
+      "englishTranslation": [
+        "to have; there is",
+        "(bound form) having; with; -ful; -ed; -al (as in 有意[you3 yi4] intentional)"
+      ],
       "pronunciation": "you3",
       "pinyin": "yǒu",
       "level": "HSK1",
       "wordTypes": [
         "verb"
       ],
-      "example": "我正在学习“有”这个词。",
-      "exampleTranslation": "I am learning the word “有”."
+      "examples": []
     },
     {
       "word": "月",
-      "englishTranslation": "moon; month; monthly",
+      "englishTranslation": [
+        "moon",
+        "month",
+        "monthly",
+        "CL:個|个[ge4],輪|轮[lun2]"
+      ],
       "pronunciation": "yue4",
       "pinyin": "yuè",
       "level": "HSK1",
@@ -1741,24 +2488,34 @@
         "noun",
         "time word"
       ],
-      "example": "我正在学习“月”这个词。",
-      "exampleTranslation": "I am learning the word “月”."
+      "examples": []
     },
     {
       "word": "再见",
-      "englishTranslation": "goodbye; see you again later",
+      "englishTranslation": [
+        "goodbye",
+        "see you again later"
+      ],
       "pronunciation": "zai4 jian4",
       "pinyin": "zài jiàn",
       "level": "HSK1",
       "wordTypes": [
         "verb"
       ],
-      "example": "我正在学习“再见”这个词。",
-      "exampleTranslation": "I am learning the word “再见”."
+      "examples": [
+        {
+          "text": "他甚至没说再见就离开了家。",
+          "englishTranslation": "He left the house without so much as saying good-bye."
+        }
+      ]
     },
     {
       "word": "在",
-      "englishTranslation": "to exist; to be alive; (of sb or sth) to be (located) at; (used before a verb to indicate an action in progress)",
+      "englishTranslation": [
+        "to exist; to be alive",
+        "(of sb or sth) to be (located) at",
+        "(used before a verb to indicate an action in progress)"
+      ],
       "pronunciation": "zai4",
       "pinyin": "zài",
       "level": "HSK1",
@@ -1767,140 +2524,209 @@
         "preposition",
         "verb"
       ],
-      "example": "我正在学习“在”这个词。",
-      "exampleTranslation": "I am learning the word “在”."
+      "examples": []
     },
     {
       "word": "怎么",
-      "englishTranslation": "how?; what?; why?",
+      "englishTranslation": [
+        "how?",
+        "what?",
+        "why?",
+        "variant of 怎麼|怎么[zen3 me5]"
+      ],
       "pronunciation": "zen3 me5",
       "pinyin": "zěn me",
       "level": "HSK1",
       "wordTypes": [
         "pronoun"
       ],
-      "example": "我正在学习“怎么”这个词。",
-      "exampleTranslation": "I am learning the word “怎么”."
+      "examples": [
+        {
+          "text": "“怎么了？” “我找不到我的钥匙了。” “什么钥匙？” “我的自行车钥匙。”",
+          "englishTranslation": "\"What's the matter?\" \"I can't find my keys.\" \"Which ones?\" \"My bicycle ones.\""
+        }
+      ]
     },
     {
       "word": "怎么样",
-      "englishTranslation": "how?; how about?; how was it?; how are things?",
+      "englishTranslation": [
+        "how?",
+        "how about?",
+        "how was it?",
+        "how are things?"
+      ],
       "pronunciation": "zen3 me5 yang4",
       "pinyin": "zěn me yàng",
       "level": "HSK1",
       "wordTypes": [
         "pronoun"
       ],
-      "example": "我正在学习“怎么样”这个词。",
-      "exampleTranslation": "I am learning the word “怎么样”."
+      "examples": [
+        {
+          "text": "对我说“你好，你怎么样？”什么用都没有，如果你没有其它可说的。",
+          "englishTranslation": "There's no point saying \"Hi, how are you?\" to me if you have nothing else to say."
+        }
+      ]
     },
     {
       "word": "这",
-      "englishTranslation": "(pronoun) this; these; (bound form) this; the (followed by a noun); (bound form) this; these (followed by a classifier) (in this sense, commonly pr. [zhèi], esp. in Beijing)",
+      "englishTranslation": [
+        "(pronoun) this; these",
+        "(bound form) this; the (followed by a noun)",
+        "(bound form) this; these (followed by a classifier) (in this sense, commonly pr. [zhei4], esp. in Beijing)"
+      ],
       "pronunciation": "zhe4",
       "pinyin": "zhè",
       "level": "HSK1",
       "wordTypes": [
         "pronoun"
       ],
-      "example": "我正在学习“这”这个词。",
-      "exampleTranslation": "I am learning the word “这”."
+      "examples": []
     },
     {
       "word": "中国",
-      "englishTranslation": "China",
+      "englishTranslation": [
+        "China"
+      ],
       "pronunciation": "Zhong1 guo2",
       "pinyin": "Zhōng guó",
       "level": "HSK1",
       "wordTypes": [
         "place name"
       ],
-      "example": "我正在学习“中国”这个词。",
-      "exampleTranslation": "I am learning the word “中国”."
+      "examples": [
+        {
+          "text": "春季的时候，中国北边很冷，所以在外边的花不开花。",
+          "englishTranslation": "North China is cold in spring, so flowers don't bloom outdoors."
+        }
+      ]
     },
     {
       "word": "中午",
-      "englishTranslation": "noon; midday",
+      "englishTranslation": [
+        "noon",
+        "midday",
+        "CL:個|个[ge4]"
+      ],
       "pronunciation": "zhong1 wu3",
       "pinyin": "zhōng wǔ",
       "level": "HSK1",
       "wordTypes": [
         "time word"
       ],
-      "example": "我正在学习“中午”这个词。",
-      "exampleTranslation": "I am learning the word “中午”."
+      "examples": [
+        {
+          "text": "中午十二点左右，到我们单位的饭厅去吃午饭。",
+          "englishTranslation": "At around 12pm, we go to the dining area of our unit for lunch."
+        }
+      ]
     },
     {
       "word": "住",
-      "englishTranslation": "to live; to dwell; to stay; to reside; to stop; (suffix indicating firmness, steadiness, or coming to a halt)",
+      "englishTranslation": [
+        "to live; to reside; to stay",
+        "to stop; to cease",
+        "(result complement indicating firmness or a stable achieved state)"
+      ],
       "pronunciation": "zhu4",
       "pinyin": "zhù",
       "level": "HSK1",
       "wordTypes": [
         "verb"
       ],
-      "example": "我正在学习“住”这个词。",
-      "exampleTranslation": "I am learning the word “住”."
+      "examples": []
     },
     {
       "word": "桌子",
-      "englishTranslation": "table; desk",
+      "englishTranslation": [
+        "table",
+        "desk",
+        "CL:張|张[zhang1],套[tao4]"
+      ],
       "pronunciation": "zhuo1 zi5",
       "pinyin": "zhuō zi",
       "level": "HSK1",
       "wordTypes": [
         "noun"
       ],
-      "example": "我正在学习“桌子”这个词。",
-      "exampleTranslation": "I am learning the word “桌子”."
+      "examples": [
+        {
+          "text": "我突然跳起来的时候把花瓶桌子上的打翻了。",
+          "englishTranslation": "The vase on my desk overturned when I jumped up in surprise."
+        }
+      ]
     },
     {
       "word": "字",
-      "englishTranslation": "letter; symbol; character; word; courtesy or style name traditionally given to males aged 20 in dynastic China",
+      "englishTranslation": [
+        "letter",
+        "symbol",
+        "character",
+        "word",
+        "CL:個|个[ge4]",
+        "courtesy or style name traditionally given to males aged 20 in dynastic China"
+      ],
       "pronunciation": "zi4",
       "pinyin": "zì",
       "level": "HSK1",
       "wordTypes": [
         "noun"
       ],
-      "example": "我正在学习“字”这个词。",
-      "exampleTranslation": "I am learning the word “字”."
+      "examples": []
     },
     {
       "word": "昨天",
-      "englishTranslation": "yesterday",
+      "englishTranslation": [
+        "yesterday"
+      ],
       "pronunciation": "zuo2 tian1",
       "pinyin": "zuó tiān",
       "level": "HSK1",
       "wordTypes": [
         "time word"
       ],
-      "example": "我正在学习“昨天”这个词。",
-      "exampleTranslation": "I am learning the word “昨天”."
+      "examples": [
+        {
+          "text": "“我昨天梦到了你。”“当真？那我（在你梦中）在做什么？”",
+          "englishTranslation": "\"I dreamed of you yesterday.\" \"Seriously? And what was I doing?\""
+        }
+      ]
     },
     {
       "word": "坐",
-      "englishTranslation": "surname Zuo",
+      "englishTranslation": [
+        "surname Zuo",
+        "to sit",
+        "to take a seat",
+        "to take (a bus, airplane etc)",
+        "to bear fruit",
+        "variant of 座[zuo4]"
+      ],
       "pronunciation": "Zuo4",
       "pinyin": "Zuò",
       "level": "HSK1",
       "wordTypes": [
         "verb"
       ],
-      "example": "我正在学习“坐”这个词。",
-      "exampleTranslation": "I am learning the word “坐”."
+      "examples": []
     },
     {
       "word": "做",
-      "englishTranslation": "to make; to produce; to write; to compose; to do; to engage in; to hold (a party etc); (of a person) to be (an intermediary, a good student etc); to become (husband and wife, friends etc); (of a thing) to serve as; to be used for; to assume (an air or manner)",
+      "englishTranslation": [
+        "to make; to produce",
+        "to write; to compose",
+        "to do; to engage in; to hold (a party etc)",
+        "(of a person) to be (an intermediary, a good student etc); to become (husband and wife, friends etc)",
+        "(of a thing) to serve as; to be used for",
+        "to assume (an air or manner)"
+      ],
       "pronunciation": "zuo4",
       "pinyin": "zuò",
       "level": "HSK1",
       "wordTypes": [
         "verb"
       ],
-      "example": "我正在学习“做”这个词。",
-      "exampleTranslation": "I am learning the word “做”."
+      "examples": []
     }
   ]
 }

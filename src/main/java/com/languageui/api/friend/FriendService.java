@@ -33,6 +33,16 @@ public class FriendService {
         return response(request);
     }
 
+    public FriendRequestResponse request(UUID requesterId, String username) {
+        return request(requesterId, userService.findByUsername(username).id());
+    }
+
+    public List<FriendSearchResult> search(UUID userId, String username) {
+        UserAccount match = userService.findByUsername(username);
+        return match.id().equals(userId) ? List.of()
+                : List.of(new FriendSearchResult(match.id(), match.username()));
+    }
+
     public List<FriendRequestResponse> incoming(UUID userId) {
         return repository.incoming(userId).stream().map(this::response).toList();
     }
@@ -82,7 +92,7 @@ public class FriendService {
 
     private FriendSummary summary(UUID userId) {
         UserAccount user = userService.findById(userId);
-        return new FriendSummary(user.id(), user.firstName(), user.lastName(), user.displayName(),
+        return new FriendSummary(user.id(), user.username(), user.firstName(), user.lastName(),
                 userService.learningLanguages(user.id()));
     }
 }

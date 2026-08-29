@@ -9,26 +9,30 @@ import java.util.Optional;
 
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Repository;
+import tools.jackson.databind.json.JsonMapper;
 
 @Repository
 public class WordCatalogRepository {
 
     private final JdbcTemplate jdbcTemplate;
+    private final JsonMapper jsonMapper;
 
-    public WordCatalogRepository(JdbcTemplate jdbcTemplate) {
+    public WordCatalogRepository(JdbcTemplate jdbcTemplate, JsonMapper jsonMapper) {
         this.jdbcTemplate = jdbcTemplate;
+        this.jsonMapper = jsonMapper;
     }
 
     public void save(WordEntry word) {
         jdbcTemplate.update("""
                 INSERT INTO word_entries
-                    (id, language, word, english_translation, pronunciation, pinyin, level,
-                     word_types, example, example_translation)
-                VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                    (id, language, word, english_translations, pronunciation, pinyin, level,
+                     word_types, examples)
+                VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
                 """,
-                word.id().toString(), word.language(), word.word(), word.englishTranslation(),
+                word.id().toString(), word.language(), word.word(),
+                jsonMapper.writeValueAsString(word.englishTranslation()),
                 word.pronunciation(), word.pinyin(), word.level(), String.join("|", word.wordTypes()),
-                word.example(), word.exampleTranslation());
+                jsonMapper.writeValueAsString(word.examples()));
     }
 
     public boolean exists(String language, String word, String pinyin) {
@@ -73,11 +77,11 @@ public class WordCatalogRepository {
                 UUID.fromString(resultSet.getString("id")),
                 resultSet.getString("language"),
                 resultSet.getString("word"),
-                resultSet.getString("english_translation"),
+                List.of(jsonMapper.readValue(resultSet.getString("english_translations"), String[].class)),
                 resultSet.getString("pronunciation"),
                 resultSet.getString("pinyin"),
                 resultSet.getString("level"),
                 types.isBlank() ? List.of() : Arrays.asList(types.split("\\|")),
-                resultSet.getString("example"), resultSet.getString("example_translation"));
+                List.of(jsonMapper.readValue(resultSet.getString("examples"), WordExample[].class)));
     }
 }

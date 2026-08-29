@@ -2,8 +2,8 @@
 
 These files contain the exclusive vocabulary introduced at each level of the six-level HSK 2.0
 system. They use the `POST /api/v1/words/chinese/bulk` request schema.
-Every entry includes an example sentence containing its original written form and an English
-translation.
+2,706 entries include compact, practical Simplified Chinese–English sentence pairs from Tatoeba.
+Entries without a suitable reliable match have an empty `examples` list.
 
 | File | Entries |
 | --- | ---: |
@@ -28,8 +28,8 @@ curl -X POST http://localhost:8080/api/v1/words/chinese/bulk \
 ## Source and license
 
 Derived from [Complete HSK Vocabulary](https://github.com/drkameleon/complete-hsk-vocabulary),
-using its exclusive legacy HSK word lists. The source provides simplified characters, dictionary
-meanings, tone-marked pinyin, numeric-tone pronunciation, and parts of speech. Source part-of-speech
+using its exclusive legacy HSK word lists. The source provides simplified characters,
+tone-marked pinyin, numeric-tone pronunciation, and parts of speech. Source part-of-speech
 codes are converted to readable values in the `wordTypes` array. It is distributed under the MIT
 License:
 
@@ -49,3 +49,20 @@ NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPO
 NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
 DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT
 OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+## Dictionary source and license
+
+English translation senses for 4,988 of the 4,991 entries are taken from
+[CC-CEDICT](https://cc-cedict.org/wiki/), published by MDBG under the Creative Commons
+Attribution-ShareAlike 4.0 International license. The three HSK phrases without a CC-CEDICT
+headword match retain the meanings from Complete HSK Vocabulary. Run
+`scripts/import-cc-cedict.py` with the official MDBG gzip release to reproduce the import.
+
+## Example sentence source
+
+Example sentences are selected from the Chinese–English portion of the
+[OPUS Tatoeba corpus](https://opus.nlpl.eu/datasets/Tatoeba), release `v2026-07-08`, distributed
+under CC BY 2.0 FR. Selection uses jieba's word-frequency dictionary to prevent substring matches,
+rejects ambiguous single-character matches, and uses OpenCC's mapping to keep HSK examples in
+Simplified Chinese. OPUS requests citation of Jörg Tiedemann, “Parallel Data, Tools and Interfaces,”
+LREC 2012.

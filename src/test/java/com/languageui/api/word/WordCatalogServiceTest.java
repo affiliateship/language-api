@@ -27,15 +27,21 @@ class WordCatalogServiceTest {
     @Test
     void uploadsChineseAndSpanishWords() {
         WordEntry chinese = service.create("chinese",
-                new CreateWordRequest("你好", "hello", "nǐ hǎo", "nǐ hǎo", "HSK 1", List.of("Greeting")));
+                new CreateWordRequest("你好", List.of("hello", "hi"), "nǐ hǎo", "nǐ hǎo",
+                        "HSK 1", List.of("Greeting"),
+                        List.of(new WordExample("你好，很高兴认识你。", "Hello, nice to meet you."))));
         WordEntry spanish = service.create("spanish",
                 new CreateWordRequest("hola", "hello", "OH-lah", null, "A1", List.of("Interjection")));
 
         assertThat(chinese.level()).isEqualTo("HSK1");
         assertThat(chinese.pinyin()).isEqualTo("nǐ hǎo");
         assertThat(chinese.wordTypes()).containsExactly("greeting");
+        assertThat(chinese.englishTranslation()).containsExactly("hello", "hi");
+        assertThat(chinese.examples()).containsExactly(
+                new WordExample("你好，很高兴认识你。", "Hello, nice to meet you."));
         assertThat(spanish.language()).isEqualTo("Spanish");
         assertThat(service.findAll("zh", "HSK1")).containsExactly(chinese);
+        assertThat(repository.findById(chinese.id())).contains(chinese);
     }
 
     @Test

@@ -36,15 +36,19 @@ def word_type:
     "z": "descriptive word"
   }[.] // .;
 
+def primary_gloss:
+  split(";")[0]
+  | sub("^(\\([^)]*\\)\\s*)+"; "")
+  | sub("[.。]$"; "");
+
 {
   words: map({
     word: .simplified,
-    englishTranslation: (.forms[0].meanings | join("; ")),
+    englishTranslation: .forms[0].meanings,
     pronunciation: .forms[0].transcriptions.numeric,
     pinyin: .forms[0].transcriptions.pinyin,
     level: $level,
     wordTypes: ([.pos[]? | word_type] | unique | if length == 0 then ["unclassified"] else . end),
-    example: ("我正在学习“" + .simplified + "”这个词。"),
-    exampleTranslation: ("I am learning the word “" + .simplified + "”.")
+    examples: []
   })
 }

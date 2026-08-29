@@ -7,11 +7,10 @@ public record WordEntry(
         UUID id,
         String language,
         String word,
-        String englishTranslation,
+        List<String> englishTranslation,
         String pronunciation,
         String pinyin,
         String level,
         List<String> wordTypes,
-        String example,
-        String exampleTranslation) {
+        List<WordExample> examples) {
 }

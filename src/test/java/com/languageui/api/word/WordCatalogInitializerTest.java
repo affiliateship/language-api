@@ -42,5 +42,18 @@ class WordCatalogInitializerTest {
         assertThat(second.skippedSpanishWords()).isEqualTo(10500);
         assertThat(second.totalChineseWords()).isEqualTo(4991);
         assertThat(second.totalSpanishWords()).isEqualTo(10500);
+
+        WordEntry chinese = repository.findExact("Chinese", "学校").get(0);
+        assertThat(chinese.englishTranslation()).contains("school", "CL:所[suo3]");
+        assertThat(chinese.examples()).isNotEmpty();
+        assertThat(chinese.examples().get(0).text()).contains("学校").doesNotContain("可以表示");
+        assertThat(chinese.examples().get(0).englishTranslation()).containsIgnoringCase("school");
+
+        WordEntry spanish = repository.findExact("Spanish", "jabalí").get(0);
+        assertThat(spanish.englishTranslation()).containsExactly("wild boar");
+        assertThat(spanish.examples()).isNotEmpty();
+        assertThat(spanish.examples().get(0).text())
+                .containsIgnoringCase("jabalí").doesNotContain("puede significar");
+        assertThat(spanish.examples().get(0).englishTranslation()).containsIgnoringCase("boar");
     }
 }

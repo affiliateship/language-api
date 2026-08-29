@@ -8,7 +8,7 @@ import com.languageui.api.progress.LessonProgress;
 import com.languageui.api.topic.Topic;
 import com.languageui.api.user.StreakResponse;
 
-public record FriendProfile(UUID id, String firstName, String lastName, String displayName,
+public record FriendProfile(UUID id, String firstName, String lastName,
                             List<Language> learningLanguages, StreakResponse streak,
                             Integer completedLessons, List<Topic> selectedTopics,
                             Integer vocabularyCount, List<LessonProgress> recentActivity) {

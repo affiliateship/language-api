@@ -6,9 +6,6 @@ spring:
     username: ${DATABASE_USERNAME:language_api}
     password: ${DATABASE_PASSWORD:language_api}
     driver-class-name: org.postgresql.Driver
-  sql:
-    init:
-      mode: never
   flyway:
     enabled: true
     baseline-on-migrate: true
@@ -19,6 +16,10 @@ server:
   port: ${PORT:8000}
 
 app:
+  username:
+    change-cooldown: ${USERNAME_CHANGE_COOLDOWN:30d}
+  admin:
+    emails: ${ADMIN_EMAILS:}
   cors:
     allowed-origin-patterns: ${CORS_ALLOWED_ORIGIN_PATTERNS:*}
     allowed-methods: ${CORS_ALLOWED_METHODS:GET,POST,PUT,PATCH,DELETE,OPTIONS}

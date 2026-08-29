@@ -32,13 +32,15 @@ public class WordCatalogService {
                 UUID.randomUUID(),
                 language,
                 request.word().trim(),
-                request.englishTranslation().trim(),
+                request.englishTranslation().stream().map(String::trim).distinct().toList(),
                 request.pronunciation().trim(),
                 optionalValue(request.pinyin()),
                 level,
                 normalizeWordTypes(request.wordTypes()),
-                request.example().trim(),
-                request.exampleTranslation().trim());
+                request.examples() == null ? List.of() : request.examples().stream()
+                        .map(example -> new WordExample(example.text().trim(),
+                                example.englishTranslation().trim()))
+                        .distinct().toList());
         if (repository.exists(entry.language(), entry.word(), entry.pinyin())) {
             throw new IllegalStateException("Word already exists: " + entry.word());
         }
@@ -78,7 +80,8 @@ public class WordCatalogService {
                         || word.word().toLowerCase(Locale.ROOT).contains(query)
                         || word.pinyin().toLowerCase(Locale.ROOT).contains(query)
                         || word.pronunciation().toLowerCase(Locale.ROOT).contains(query)
-                        || word.englishTranslation().toLowerCase(Locale.ROOT).contains(query))
+                        || word.englishTranslation().stream()
+                                .anyMatch(translation -> translation.toLowerCase(Locale.ROOT).contains(query)))
                 .sorted(Comparator.comparing(WordEntry::level).thenComparing(WordEntry::word))
                 .skip(offset)
                 .limit(limit)

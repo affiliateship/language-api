@@ -14,6 +14,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestHeader;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.RequestParam;
 
 @RestController
 @RequestMapping("/api/me")
@@ -34,7 +35,14 @@ public class FriendController {
     @PostMapping("/friend-requests")
     FriendRequestResponse request(@RequestHeader(value = "Authorization", required = false) String auth,
             @Valid @RequestBody AddFriendRequest request) {
-        return service.request(authService.currentUserId(auth), request.userId());
+        return service.request(authService.currentUserId(auth), request.username());
+    }
+
+    @GetMapping("/friend-search")
+    List<FriendSearchResult> search(
+            @RequestHeader(value = "Authorization", required = false) String auth,
+            @RequestParam String username) {
+        return service.search(authService.currentUserId(auth), username);
     }
 
     @GetMapping("/friend-requests")

@@ -7,6 +7,7 @@ Usage: generate-spanish-word-files.py FREQUENCY_CSV DICTIONARY_DATA OUTPUT_DIREC
 import csv
 import json
 import pathlib
+import re
 import sys
 
 LEVEL_SIZES = {"A1": 500, "A2": 1000, "B1": 1500, "B2": 2000, "C1": 2500, "C2": 3000}
@@ -38,7 +39,14 @@ def load_dictionary(path):
 def select_definition(definitions, preferred_pos):
     preferred = [item for item in definitions if item[0] == preferred_pos]
     pos, definition = (preferred or definitions)[0]
-    return definition[:1000], POS_NAMES.get(pos, pos.replace("_", " "))
+    translations = [part.strip() for part in definition.split(";") if part.strip()]
+    return translations[:30], POS_NAMES.get(pos, pos.replace("_", " "))
+
+
+def primary_gloss(translation):
+    gloss = translation.split(";")[0].strip()
+    gloss = re.sub(r"^(?:\([^)]*\)\s*)+", "", gloss).strip()
+    return (gloss or translation.strip()).rstrip(".")
 
 
 def main():
@@ -74,8 +82,7 @@ def main():
             "pinyin": None,
             "level": level,
             "wordTypes": [word_type],
-            "example": f"Estoy aprendiendo la palabra «{word}».",
-            "exampleTranslation": f"I am learning the word “{word}”.",
+            "examples": [],
         } for word, translation, word_type in level_words]}
         (destination / f"{level.lower()}.json").write_text(
             json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")

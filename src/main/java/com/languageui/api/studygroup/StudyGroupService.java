@@ -126,7 +126,7 @@ public class StudyGroupService {
             throw new IllegalStateException("User is already a member: " + friendId);
         }
         StudyGroupInvitation invitation = repository.invite(group.id(), inviter.id(), friendId,
-                group.name(), inviter.displayName());
+                group.name(), inviter.username());
         log.info("study_group_invitation_created invitationId={} groupId={} inviteeId={}",
                 invitation.id(), group.id(), friendId);
         return invitation;
@@ -136,13 +136,13 @@ public class StudyGroupService {
         StudyGroup group = requireGroup(row.groupId());
         UserAccount inviter = userService.findById(row.inviterId());
         return new StudyGroupInvitation(row.id(), group.id(), group.name(), inviter.id(),
-                inviter.displayName(), row.status(), group.createdAt());
+                inviter.username(), row.status(), group.createdAt());
     }
 
     private StudyGroupMemberProgress memberProgress(UUID userId, UUID lessonId) {
         UserAccount user = userService.findById(userId);
         LessonProgressStatus status = repositoryStatus(userId, lessonId);
-        return new StudyGroupMemberProgress(userId, user.displayName(), status);
+        return new StudyGroupMemberProgress(userId, user.username(), status);
     }
 
     private LessonProgressStatus repositoryStatus(UUID userId, UUID lessonId) {

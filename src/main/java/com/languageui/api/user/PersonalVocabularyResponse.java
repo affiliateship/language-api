@@ -8,7 +8,7 @@ public record PersonalVocabularyResponse(
         String language,
         String status,
         String term,
-        String translation,
+        List<String> translation,
         String pronunciation,
         String pinyin,
         String level,

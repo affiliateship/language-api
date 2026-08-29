@@ -71,6 +71,8 @@ Override them with:
 - `PORT`—defaults to `8000`
 - `LOG_LEVEL_ROOT`—defaults to `INFO`
 - `LOG_LEVEL_APP`—defaults to `INFO` (`DEBUG` in the local profile)
+- `ADMIN_EMAILS`—comma-separated emails allowed to use `/api/admin/**`
+- `USERNAME_CHANGE_COOLDOWN`—minimum interval between username changes; defaults to `30d`
 
 `DATABASE_URL` must be a JDBC URL, for example:
 
@@ -89,6 +91,10 @@ Flyway applies versioned migrations from
 `V1__initial_schema.sql`; add future changes as `V2__description.sql`, `V3__description.sql`, and
 so on. `baseline-on-migrate` is enabled for PostgreSQL so an existing database created by the old
 `schema.sql` setup can be adopted without recreating its tables.
+
+The `local` Spring profile is intentionally destructive: every application startup runs
+`Flyway clean` followed by `Flyway migrate`, resetting all local database data. Other profiles only
+run normal forward migrations.
 
 ### CORS
 
@@ -127,6 +133,7 @@ Content-Type: application/json
   "firstName": "Maya",
   "lastName": "Chen",
   "email": "maya@example.com",
+  "username": "maya.chen",
   "password": "password123"
 }
 ```
@@ -139,7 +146,9 @@ Authorization: Bearer <accessToken>
 
 Passwords are BCrypt-hashed. Accounts, bearer sessions, enrollments, lessons, and personal
 vocabulary associations are currently held in memory and reset when the application restarts.
-The language word catalog and daily streak activity are persisted in PostgreSQL.
+User accounts, language enrollment, the word catalog, and daily streak activity are persisted in
+PostgreSQL. Passwords are stored as BCrypt hashes. Authentication bearer sessions remain in memory
+and expire when the API process restarts.
 
 ## API summary
 
@@ -152,31 +161,20 @@ The language word catalog and daily streak activity are persisted in PostgreSQL.
 | `GET` | `/api/auth/me` | Get the bearer-token user |
 | `POST` | `/api/auth/sign-out` | End the session |
 | `GET` | `/api/me/profile` | Get the signed-in user's profile |
-| `PATCH` | `/api/me/profile` | Edit profile and selected learning languages |
+| `PATCH` | `/api/me/profile` | Edit profile details |
 | `GET` | `/api/me/streak` | Get the signed-in user's streak |
 | `POST` | `/api/me/streak/check-in` | Record learning activity for today and return the streak |
 | `POST` | `/api/v1/users/{id}/languages/{code}` | Enroll in Chinese (`zh`) or Spanish (`es`) |
 
-The profile includes both the existing `languages` code set and full `learningLanguages` objects:
-
-```json
-{
-  "languages": ["zh"],
-  "learningLanguages": [
-    {"id": "...", "code": "zh", "name": "Chinese"}
-  ]
-}
-```
-
-Users can select either or both supported languages while editing their profile. Omitting
-`learningLanguageCodes` preserves the current selection; sending an empty array clears it.
+The profile API includes full `learningLanguages` objects but does not return the duplicate legacy
+`languages` code set. Language enrollment is managed separately through the language endpoints.
 
 ```json
 {
   "email": "maya@example.com",
+  "username": "maya.chen",
   "firstName": "Maya",
-  "lastName": "Chen",
-  "learningLanguageCodes": ["zh", "es"]
+  "lastName": "Chen"
 }
 ```
 
@@ -193,11 +191,10 @@ Users can select either or both supported languages while editing their profile.
 | `POST` | `/api/v1/lessons/{id}/vocabulary` | Create lesson vocabulary |
 | `GET` | `/api/v1/reading-lessons?language=Chinese` | List reading lessons |
 | `GET` | `/api/v1/reading-lessons/{id}` | Get a passage, English translation, and aligned words |
-| `POST` | `/api/v1/reading-lessons` | Create and persist an aligned reading lesson |
 
 Chinese includes HSK1–HSK6. Spanish includes CEFR A1–C2.
 
-Reading lessons are created through the API and persisted in PostgreSQL. The server calculates
+Reading lessons are managed through the authenticated admin API and persisted in PostgreSQL. The server calculates
 each key word's `startIndex` and `endIndex` from its ordered occurrence in `originalText`.
 Lessons store only curated `keyWords`, not every word in the passage. Tone-marked Chinese pinyin
 uses spaces between syllables, such as `gòu wù lán`.
@@ -211,6 +208,32 @@ Upload the included grocery lesson with:
 
 `lessonType` is required and accepts `CONVERSATION`, `STORY`, `ARTICLE`, `PRACTICAL`, or
 `EXPLANATION`.
+
+### Admin lesson management
+
+Configure one or more administrator account emails before starting the API:
+
+```bash
+export ADMIN_EMAILS=admin@example.com,editor@example.com
+```
+
+Admin requests use the bearer token returned by the normal sign-in endpoint.
+
+| Method | Path | Description |
+| --- | --- | --- |
+| `GET` | `/api/admin/reading-lessons` | List lessons, optionally filtered by `language` |
+| `GET` | `/api/admin/reading-lessons/{id}` | Get one lesson for editing |
+| `POST` | `/api/admin/reading-lessons` | Upload one lesson |
+| `POST` | `/api/admin/reading-lessons/bulk` | Atomically upload up to 100 lessons |
+| `PUT` | `/api/admin/reading-lessons/{id}` | Replace a lesson and its keywords |
+| `DELETE` | `/api/admin/reading-lessons/{id}` | Delete a lesson |
+
+```bash
+curl -X POST http://localhost:8000/api/admin/reading-lessons \
+  -H "Authorization: Bearer $ADMIN_TOKEN" \
+  -H 'Content-Type: application/json' \
+  --data-binary @data/reading/grocery-shopping-chinese.json
+```
 
 ### Lesson progress
 
@@ -230,12 +253,6 @@ PostgreSQL, and updating progress also records learning activity for the user's 
 }
 ```
 
-```bash
-curl -X POST http://localhost:8000/api/v1/reading-lessons \
-  -H 'Content-Type: application/json' \
-  --data-binary @data/reading/grocery-shopping-chinese.json
-```
-
 ### Word catalog
 
 | Method | Path | Description |
@@ -245,25 +262,30 @@ curl -X POST http://localhost:8000/api/v1/reading-lessons \
 | `POST` | `/api/v1/words/initialize` | Idempotently load all packaged HSK words |
 | `GET` | `/api/v1/words/{language}` | Search and filter catalog words |
 
-A word contains its translation, numeric-tone pronunciation, pinyin, level, and grammatical
-types:
+A word contains a list of translation senses, numeric-tone pronunciation, pinyin, level,
+grammatical types, and zero or more paired examples:
 
 ```json
 {
-  "word": "爱",
-  "englishTranslation": "to love; to be fond of; to like",
-  "pronunciation": "ai4",
-  "pinyin": "ài",
+  "word": "学校",
+  "englishTranslation": ["school", "CL:所[suo3]"],
+  "pronunciation": "xue2 xiao4",
+  "pinyin": "xué xiào",
   "level": "HSK1",
-  "wordTypes": ["verb", "nominal verb"],
-  "example": "我正在学习“爱”这个词。",
-  "exampleTranslation": "I am learning the word “爱”."
+  "wordTypes": ["noun"],
+  "examples": [{
+    "text": "今天早上在去学校的路上，我看到了一群外国人。",
+    "englishTranslation": "I saw a group of foreigners on my way to school this morning."
+  }]
 }
 ```
 
-Every packaged Chinese and Spanish vocabulary entry includes an example containing the original
-word and its English translation. These generated fallback examples provide complete coverage and
-can be replaced by curated contextual sentences through the same upload schema.
+Chinese translation senses come from CC-CEDICT for 4,988 of 4,991 entries. The remaining three
+HSK phrases retain the source list's definitions. Practical bilingual examples come from the openly
+licensed Tatoeba corpus where a reliable lemma or segmented-word match exists. Entries without a
+suitable example return an empty `examples` list rather than a fabricated sentence. See the
+language-specific data READMEs for source and license details. The reproducible importers are
+`scripts/import-cc-cedict.py` and `scripts/import-vocabulary-examples.py`.
 
 The `GET /api/v1/words/{language}` endpoint accepts:
 
@@ -329,6 +351,9 @@ days. Repeated requests on the same day return the same words.
 | `GET` | `/api/me/daily-words` | Get today's customized words |
 | `GET` | `/api/me/daily-words/preferences` | Get preferences (defaults to Chinese, 1, no repeats) |
 | `PUT` | `/api/me/daily-words/preferences` | Update preferences and regenerate today's selection |
+| `POST` | `/api/me/daily-words/{wordId}/view` | Mark one of today's words as viewed |
+| `POST` | `/api/me/daily-words/{wordId}/answer` | Record a recall result using `{"correct": true}` |
+| `POST` | `/api/me/daily-words/{wordId}/complete` | Complete a word and credit the streak once the session is complete |
 
 ```json
 {
@@ -340,6 +365,11 @@ days. Repeated requests on the same day return the same words.
 ```
 
 Set `level` to `null` to select from every level in the chosen language.
+
+The daily response keeps the catalog entries in `words` and includes matching `progress` entries
+with `NEW`, `VIEWED`, `PRACTICING`, or `COMPLETED` status. It also reports
+`requestedCount`, `deliveredCount`, `remainingNewWords`, `poolExhausted`, and
+`sessionCompleted`, allowing clients to explain undersized word pools and render daily progress.
 
 ### Topics and interests
 
@@ -372,11 +402,12 @@ All endpoints below require an `Authorization: Bearer <token>` header.
 
 | Method | Path | Description |
 | --- | --- | --- |
-| `PATCH` | `/api/me/profile` | Update the signed-in user's email and display name |
+| `PATCH` | `/api/me/profile` | Update the signed-in user's email, username, and names |
 | `POST` | `/api/me/feedback` | Submit `GENERAL`, `FEATURE`, or `BUG` feedback |
 | `GET` | `/api/me/feedback` | List the signed-in user's feedback |
 | `GET` | `/api/me/friends` | List accepted friends |
-| `POST` | `/api/me/friend-requests` | Send a friend request using `{ "userId": "..." }` |
+| `GET` | `/api/me/friend-search?username={username}` | Find an account by exact username |
+| `POST` | `/api/me/friend-requests` | Send a friend request using `{ "username": "..." }` |
 | `GET` | `/api/me/friend-requests` | List incoming pending requests |
 | `POST` | `/api/me/friend-requests/{requestId}/accept` | Accept a request |
 | `DELETE` | `/api/me/friend-requests/{requestId}` | Decline or cancel a request |
@@ -384,6 +415,10 @@ All endpoints below require an `Authorization: Bearer <token>` header.
 | `GET` | `/api/me/friends/{friendId}/profile` | View an accepted friend's shared profile |
 | `GET` | `/api/me/privacy` | Get friend-sharing preferences |
 | `PUT` | `/api/me/privacy` | Update friend-sharing preferences |
+
+Friend search accepts usernames only; it does not search by email, real name, or partial text.
+Usernames are case-insensitive, normalized to lowercase, and can be changed once
+every 30 days by default. Configure the interval with `USERNAME_CHANGE_COOLDOWN`.
 
 Friend summaries and profiles never expose email addresses. Names and learning languages are
 visible to accepted friends. Streak, completed lessons, topics, vocabulary count, and recent
@@ -456,3 +491,26 @@ running.
 ```bash
 ./gradlew test
 ```
+
+## Docker deployment
+
+Build the production image:
+
+```bash
+docker build -t language-api:latest .
+```
+
+Run it against PostgreSQL:
+
+```bash
+docker run --rm -p 8000:8000 \
+  -e DATABASE_URL=jdbc:postgresql://host.docker.internal:5432/language_api \
+  -e DATABASE_USERNAME=language_api \
+  -e DATABASE_PASSWORD=change-me \
+  -e CORS_ALLOWED_ORIGIN_PATTERNS=https://language-ui.example \
+  language-api:latest
+```
+
+The image uses a multi-stage Java 17 build and runs as the non-root `languageapi` user. Flyway
+applies database migrations when the container starts. Configure the container platform's health
+check to call `GET /actuator/health` on port `8000`.

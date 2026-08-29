@@ -21,13 +21,37 @@ public class ReadingLessonService {
 
     @Transactional
     public ReadingLesson create(CreateReadingLessonRequest request) {
+        ReadingLesson lesson = lesson(UUID.randomUUID(), request);
+        repository.save(lesson);
+        return lesson;
+    }
+
+    @Transactional
+    public List<ReadingLesson> createAll(List<CreateReadingLessonRequest> requests) {
+        return requests.stream().map(this::create).toList();
+    }
+
+    @Transactional
+    public ReadingLesson update(UUID id, CreateReadingLessonRequest request) {
+        findById(id);
+        ReadingLesson lesson = lesson(id, request);
+        repository.update(lesson);
+        return lesson;
+    }
+
+    @Transactional
+    public void delete(UUID id) {
+        if (!repository.delete(id)) {
+            throw new IllegalArgumentException("Reading lesson not found: " + id);
+        }
+    }
+
+    private ReadingLesson lesson(UUID id, CreateReadingLessonRequest request) {
         String originalText = request.originalText().trim();
-        ReadingLesson lesson = new ReadingLesson(UUID.randomUUID(), normalizeLanguage(request.language()),
+        return new ReadingLesson(id, normalizeLanguage(request.language()),
                 request.level().trim().toUpperCase(Locale.ROOT), request.lessonType(),
                 request.title().trim(), originalText, request.englishTranslation().trim(),
                 associate(originalText, request.keyWords()));
-        repository.save(lesson);
-        return lesson;
     }
 
     public List<ReadingLesson> findAll(String language) {

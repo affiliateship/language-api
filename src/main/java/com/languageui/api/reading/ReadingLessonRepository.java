@@ -23,6 +23,27 @@ public class ReadingLessonRepository {
                 """, lesson.id().toString(), lesson.language(), lesson.level(),
                 lesson.lessonType().name(), lesson.title(), lesson.originalText(),
                 lesson.englishTranslation());
+        saveWords(lesson);
+    }
+
+    public void update(ReadingLesson lesson) {
+        int updated = jdbcTemplate.update("""
+                UPDATE reading_lessons
+                SET language = ?, level = ?, lesson_type = ?, title = ?, original_text = ?,
+                    english_translation = ?
+                WHERE id = ?
+                """, lesson.language(), lesson.level(), lesson.lessonType().name(), lesson.title(),
+                lesson.originalText(), lesson.englishTranslation(), lesson.id().toString());
+        if (updated == 0) throw new IllegalArgumentException("Reading lesson not found: " + lesson.id());
+        jdbcTemplate.update("DELETE FROM reading_words WHERE lesson_id = ?", lesson.id().toString());
+        saveWords(lesson);
+    }
+
+    public boolean delete(UUID id) {
+        return jdbcTemplate.update("DELETE FROM reading_lessons WHERE id = ?", id.toString()) > 0;
+    }
+
+    private void saveWords(ReadingLesson lesson) {
         for (int sequence = 0; sequence < lesson.keyWords().size(); sequence++) {
             ReadingWord word = lesson.keyWords().get(sequence);
             jdbcTemplate.update("""

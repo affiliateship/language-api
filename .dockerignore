@@ -1,0 +1,14 @@
+.git
+.gitignore
+.gradle
+.idea
+.vscode
+build
+target
+*.iml
+*.log
+.DS_Store
+README.md
+compose.yaml
+scripts
+data/reading

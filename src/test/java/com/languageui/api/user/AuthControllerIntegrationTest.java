@@ -47,7 +47,7 @@ class AuthControllerIntegrationTest {
                                 """))
                 .andExpect(status().isOk())
                 .andExpect(jsonPath("$.accessToken").isNotEmpty())
-                .andExpect(jsonPath("$.user.displayName").value("Maya Chen"))
+                .andExpect(jsonPath("$.user.displayName").doesNotExist())
                 .andReturn().getResponse().getContentAsString();
 
         String token = JsonPath.read(response, "$.accessToken");
@@ -58,7 +58,7 @@ class AuthControllerIntegrationTest {
 
         mockMvc.perform(get("/api/me/profile").header(HttpHeaders.AUTHORIZATION, "Bearer " + token))
                 .andExpect(status().isOk())
-                .andExpect(jsonPath("$.displayName").value("Maya Chen"));
+                .andExpect(jsonPath("$.displayName").doesNotExist());
         mockMvc.perform(get("/api/me/streak").header(HttpHeaders.AUTHORIZATION, "Bearer " + token))
                 .andExpect(status().isOk())
                 .andExpect(jsonPath("$.currentDays").value(0));
@@ -75,7 +75,7 @@ class AuthControllerIntegrationTest {
                 .andExpect(status().isOk());
         mockMvc.perform(get("/api/me/profile").header(HttpHeaders.AUTHORIZATION, "Bearer " + token))
                 .andExpect(status().isOk())
-                .andExpect(jsonPath("$.languages[0]").value("zh"))
+                .andExpect(jsonPath("$.languages").doesNotExist())
                 .andExpect(jsonPath("$.learningLanguages[0].code").value("zh"))
                 .andExpect(jsonPath("$.learningLanguages[0].name").value("Chinese"));
         WordEntry item = wordCatalogService.create("Chinese",
@@ -126,19 +126,29 @@ class AuthControllerIntegrationTest {
         String firstToken = JsonPath.read(first, "$.accessToken");
         String secondToken = JsonPath.read(second, "$.accessToken");
         String secondId = JsonPath.read(second, "$.user.id");
+        String secondUsername = JsonPath.read(second, "$.user.username");
+
+        mockMvc.perform(get("/api/me/friend-search")
+                        .header(HttpHeaders.AUTHORIZATION, "Bearer " + firstToken)
+                        .queryParam("username", secondUsername.toUpperCase()))
+                .andExpect(status().isOk())
+                .andExpect(jsonPath("$[0].id").value(secondId))
+                .andExpect(jsonPath("$[0].username").value(secondUsername));
+        mockMvc.perform(get("/api/me/friend-search")
+                        .header(HttpHeaders.AUTHORIZATION, "Bearer " + firstToken)
+                        .queryParam("username", "second@example.com"))
+                .andExpect(status().isBadRequest());
 
         mockMvc.perform(patch("/api/me/profile")
                         .header(HttpHeaders.AUTHORIZATION, "Bearer " + firstToken)
                         .contentType(MediaType.APPLICATION_JSON)
                         .content("""
-                                {"firstName":"Updated","lastName":"User","email":"updated-%s@example.com",
-                                 "learningLanguageCodes":["zh","es"]}
+                                {"firstName":"Updated","lastName":"User","email":"updated-%s@example.com"}
                                 """.formatted(suffix)))
                 .andExpect(status().isOk())
-                .andExpect(jsonPath("$.displayName").value("Updated User"))
-                .andExpect(jsonPath("$.learningLanguages.length()").value(2))
-                .andExpect(jsonPath("$.learningLanguages[0].code").value("zh"))
-                .andExpect(jsonPath("$.learningLanguages[1].code").value("es"));
+                .andExpect(jsonPath("$.displayName").doesNotExist())
+                .andExpect(jsonPath("$.languages").doesNotExist())
+                .andExpect(jsonPath("$.learningLanguages").isEmpty());
 
         mockMvc.perform(post("/api/me/feedback")
                         .header(HttpHeaders.AUTHORIZATION, "Bearer " + firstToken)
@@ -152,9 +162,9 @@ class AuthControllerIntegrationTest {
         String requestResponse = mockMvc.perform(post("/api/me/friend-requests")
                         .header(HttpHeaders.AUTHORIZATION, "Bearer " + firstToken)
                         .contentType(MediaType.APPLICATION_JSON)
-                        .content("{\"userId\":\"" + secondId + "\"}"))
+                        .content("{\"username\":\"" + secondUsername + "\"}"))
                 .andExpect(status().isOk())
-                .andExpect(jsonPath("$.requester.displayName").value("Updated User"))
+                .andExpect(jsonPath("$.requester.username").isNotEmpty())
                 .andExpect(jsonPath("$.requester.email").doesNotExist())
                 .andReturn().getResponse().getContentAsString();
         String requestId = JsonPath.read(requestResponse, "$.id");
@@ -162,7 +172,7 @@ class AuthControllerIntegrationTest {
         mockMvc.perform(post("/api/me/friend-requests/{id}/accept", requestId)
                         .header(HttpHeaders.AUTHORIZATION, "Bearer " + secondToken))
                 .andExpect(status().isOk())
-                .andExpect(jsonPath("$[0].displayName").value("Updated User"));
+                .andExpect(jsonPath("$[0].displayName").doesNotExist());
 
         mockMvc.perform(put("/api/me/privacy")
                         .header(HttpHeaders.AUTHORIZATION, "Bearer " + secondToken)
@@ -178,7 +188,7 @@ class AuthControllerIntegrationTest {
         mockMvc.perform(get("/api/me/friends/{id}/profile", secondId)
                         .header(HttpHeaders.AUTHORIZATION, "Bearer " + firstToken))
                 .andExpect(status().isOk())
-                .andExpect(jsonPath("$.displayName").value("Second User"))
+                .andExpect(jsonPath("$.displayName").doesNotExist())
                 .andExpect(jsonPath("$.email").doesNotExist())
                 .andExpect(jsonPath("$.completedLessons").value(0))
                 .andExpect(jsonPath("$.vocabularyCount").value(0));
@@ -191,6 +201,50 @@ class AuthControllerIntegrationTest {
                 .andExpect(status().isForbidden());
     }
 
+    @Test
+    void enforcesUniqueUsernamesAndChangeCooldown() throws Exception {
+        String suffix = UUID.randomUUID().toString();
+        String response = mockMvc.perform(post("/api/auth/sign-up")
+                        .contentType(MediaType.APPLICATION_JSON)
+                        .content("""
+                                {"firstName":"Name","lastName":"Owner","email":"owner-%s@example.com",
+                                 "password":"password123"}
+                                """.formatted(suffix)))
+                .andExpect(status().isOk())
+                .andExpect(jsonPath("$.user.username").isNotEmpty())
+                .andReturn().getResponse().getContentAsString();
+        String token = JsonPath.read(response, "$.accessToken");
+
+        mockMvc.perform(patch("/api/me/profile")
+                        .header(HttpHeaders.AUTHORIZATION, bearer(token))
+                        .contentType(MediaType.APPLICATION_JSON)
+                        .content("""
+                                {"email":"owner-%s@example.com","username":"New_Name",
+                                 "firstName":"Name","lastName":"Owner"}
+                                """.formatted(suffix)))
+                .andExpect(status().isOk())
+                .andExpect(jsonPath("$.username").value("new_name"));
+
+        mockMvc.perform(post("/api/auth/sign-up")
+                        .contentType(MediaType.APPLICATION_JSON)
+                        .content("""
+                                {"firstName":"Other","lastName":"User","email":"other-%s@example.com",
+                                 "username":"NEW_NAME","password":"password123"}
+                                """.formatted(suffix)))
+                .andExpect(status().isConflict());
+
+        mockMvc.perform(patch("/api/me/profile")
+                        .header(HttpHeaders.AUTHORIZATION, bearer(token))
+                        .contentType(MediaType.APPLICATION_JSON)
+                        .content("""
+                                {"email":"owner-%s@example.com","username":"another_name",
+                                 "firstName":"Name","lastName":"Owner"}
+                                """.formatted(suffix)))
+                .andExpect(status().isConflict())
+                .andExpect(jsonPath("$.detail").value(
+                        org.hamcrest.Matchers.startsWith("Username can be changed again after")));
+    }
+
     private String signUp(String name, String email) throws Exception {
         return mockMvc.perform(post("/api/auth/sign-up")
                         .contentType(MediaType.APPLICATION_JSON)
@@ -200,4 +254,6 @@ class AuthControllerIntegrationTest {
                 .andExpect(status().isOk())
                 .andReturn().getResponse().getContentAsString();
     }
+
+    private String bearer(String token) { return "Bearer " + token; }
 }

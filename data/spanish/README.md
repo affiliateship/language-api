@@ -3,7 +3,8 @@
 These are practical, frequency-banded Spanish vocabulary lists—not official CEFR inventories.
 CEFR describes language ability and does not define a canonical exhaustive vocabulary for each
 level.
-Every entry includes an example sentence containing its original lemma and an English translation.
+8,789 entries include compact, practical Spanish–English Tatoeba sentence pairs selected using the
+source's lemma annotations. Entries without a suitable reliable match have an empty `examples` list.
 
 | File | Entries | Frequency band |
 | --- | ---: | ---: |
@@ -34,3 +35,8 @@ The source repository is distributed under CC BY 4.0 and attributes underlying W
 frequency data as described in its README. Changes made here include filtering to unique alphabetic
 lemmas, choosing the matching part-of-speech definition, converting POS labels, and assigning
 frequency bands.
+
+Examples come from `sentences.tsv` in the same source repository. Those sentences originate from
+[Tatoeba](https://tatoeba.org/) and are distributed under CC BY 2.0 FR; the source file retains the
+sentence IDs and contributor attribution. The importer prioritizes short, highly reviewed pairs and
+supports inflected forms through the supplied lemma annotations.

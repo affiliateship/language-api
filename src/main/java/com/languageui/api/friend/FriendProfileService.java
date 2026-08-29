@@ -62,7 +62,7 @@ public class FriendProfileService {
         if (privacy.shareRecentActivity()) {
             recent = completed.stream().limit(5).toList();
         }
-        return new FriendProfile(friend.id(), friend.firstName(), friend.lastName(), friend.displayName(),
+        return new FriendProfile(friend.id(), friend.firstName(), friend.lastName(),
                 userService.learningLanguages(friendId),
                 privacy.shareStreak() ? streakService.get(friendId) : null,
                 privacy.shareCompletedLessons() ? completed.size() : null,

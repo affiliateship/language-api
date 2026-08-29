@@ -1,13 +1,38 @@
 -- Initial language-api schema managed by Flyway.
+CREATE TABLE IF NOT EXISTS users (
+    id VARCHAR(36) PRIMARY KEY,
+    email VARCHAR(320) NOT NULL,
+    username VARCHAR(30) NOT NULL,
+    username_changed_at TIMESTAMP,
+    first_name VARCHAR(50) NOT NULL,
+    last_name VARCHAR(50) NOT NULL,
+    password_hash VARCHAR(100) NOT NULL,
+    created_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
+    updated_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
+    CONSTRAINT uq_users_email UNIQUE (email),
+    CONSTRAINT uq_users_username UNIQUE (username)
+);
+
+CREATE TABLE IF NOT EXISTS user_languages (
+    user_id VARCHAR(36) NOT NULL REFERENCES users(id) ON DELETE CASCADE,
+    language_code VARCHAR(10) NOT NULL,
+    enrolled_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP,
+    PRIMARY KEY (user_id, language_code)
+);
+
+CREATE INDEX IF NOT EXISTS idx_users_email ON users(email);
+CREATE INDEX IF NOT EXISTS idx_users_username ON users(username);
+
 CREATE TABLE IF NOT EXISTS word_entries (
     id VARCHAR(36) PRIMARY KEY,
     language VARCHAR(20) NOT NULL,
     word VARCHAR(200) NOT NULL,
-    english_translation VARCHAR(1000) NOT NULL,
+    english_translations VARCHAR(12000) NOT NULL,
     pronunciation VARCHAR(200) NOT NULL,
     pinyin VARCHAR(200) NOT NULL,
     level VARCHAR(10) NOT NULL,
     word_types VARCHAR(1000) NOT NULL,
+    examples VARCHAR(24000) NOT NULL,
     CONSTRAINT uq_word_entry UNIQUE (language, word, pinyin)
 );
 
@@ -91,9 +116,6 @@ CREATE TABLE IF NOT EXISTS reading_lessons (
     created_at TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP
 );
 
-ALTER TABLE reading_lessons
-    ADD COLUMN IF NOT EXISTS lesson_type VARCHAR(20) NOT NULL DEFAULT 'ARTICLE';
-
 CREATE TABLE IF NOT EXISTS reading_words (
     id VARCHAR(36) PRIMARY KEY,
     lesson_id VARCHAR(36) NOT NULL REFERENCES reading_lessons(id) ON DELETE CASCADE,
@@ -123,6 +145,10 @@ CREATE TABLE IF NOT EXISTS daily_word_deliveries (
     delivery_date DATE NOT NULL,
     word_id VARCHAR(36) NOT NULL REFERENCES word_entries(id) ON DELETE CASCADE,
     sequence_number INTEGER NOT NULL,
+    viewed_at TIMESTAMP,
+    answer_count INTEGER NOT NULL DEFAULT 0,
+    correct_answer_count INTEGER NOT NULL DEFAULT 0,
+    completed_at TIMESTAMP,
     PRIMARY KEY (user_id, delivery_date, word_id),
     CONSTRAINT uq_daily_word_sequence UNIQUE (user_id, delivery_date, sequence_number)
 );

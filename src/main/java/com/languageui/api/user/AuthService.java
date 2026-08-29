@@ -19,7 +19,7 @@ public class AuthService {
     public AuthResponse signUp(SignUpRequest request) {
         UserAccount user = userService.create(
                 new CreateUserRequest(request.email(), request.firstName(), request.lastName(),
-                        request.password()));
+                        request.password()), request.username());
         return createSession(user);
     }
 

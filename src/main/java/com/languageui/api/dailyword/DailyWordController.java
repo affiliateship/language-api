@@ -8,6 +8,10 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestHeader;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.PostMapping;
+
+import java.util.UUID;
 
 @RestController
 @RequestMapping("/api/me/daily-words")
@@ -37,5 +41,27 @@ public class DailyWordController {
             @RequestHeader(value = "Authorization", required = false) String authorization,
             @Valid @RequestBody UpdateDailyWordPreferencesRequest request) {
         return service.update(authService.currentUserId(authorization), request);
+    }
+
+    @PostMapping("/{wordId}/view")
+    DailyWordProgress markViewed(
+            @RequestHeader(value = "Authorization", required = false) String authorization,
+            @PathVariable UUID wordId) {
+        return service.markViewed(authService.currentUserId(authorization), wordId);
+    }
+
+    @PostMapping("/{wordId}/answer")
+    DailyWordProgress answer(
+            @RequestHeader(value = "Authorization", required = false) String authorization,
+            @PathVariable UUID wordId,
+            @RequestBody AnswerDailyWordRequest request) {
+        return service.answer(authService.currentUserId(authorization), wordId, request.correct());
+    }
+
+    @PostMapping("/{wordId}/complete")
+    DailyWordsResponse complete(
+            @RequestHeader(value = "Authorization", required = false) String authorization,
+            @PathVariable UUID wordId) {
+        return service.complete(authService.currentUserId(authorization), wordId);
     }
 }
