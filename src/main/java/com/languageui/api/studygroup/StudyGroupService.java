@@ -13,14 +13,13 @@ import com.languageui.api.reading.ReadingLessonService;
 import com.languageui.api.user.AuthorizationException;
 import com.languageui.api.user.UserAccount;
 import com.languageui.api.user.UserService;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
+import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
 @Service
+@Slf4j
 public class StudyGroupService {
-    private static final Logger log = LoggerFactory.getLogger(StudyGroupService.class);
 
     private final StudyGroupRepository repository;
     private final FriendRepository friendRepository;

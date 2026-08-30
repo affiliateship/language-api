@@ -6,17 +6,16 @@ import java.util.stream.Collectors;
 import com.languageui.api.language.LanguageNotFoundException;
 import com.languageui.api.user.AuthenticationException;
 import com.languageui.api.user.AuthorizationException;
+import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ProblemDetail;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
 import org.springframework.web.bind.MethodArgumentNotValidException;
 import org.springframework.web.bind.annotation.ExceptionHandler;
 import org.springframework.web.bind.annotation.RestControllerAdvice;
 
 @RestControllerAdvice
+@Slf4j
 public class ApiExceptionHandler {
-    private static final Logger log = LoggerFactory.getLogger(ApiExceptionHandler.class);
 
     @ExceptionHandler(LanguageNotFoundException.class)
     ProblemDetail handleNotFound(LanguageNotFoundException exception) {

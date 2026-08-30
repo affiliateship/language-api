@@ -2,6 +2,7 @@ package com.languageui.api.word;
 
 import java.io.IOException;
 
+import lombok.extern.slf4j.Slf4j;
 import org.springframework.core.io.Resource;
 import org.springframework.core.io.ResourceLoader;
 import org.springframework.stereotype.Service;
@@ -9,6 +10,7 @@ import org.springframework.transaction.annotation.Transactional;
 import tools.jackson.databind.json.JsonMapper;
 
 @Service
+@Slf4j
 public class WordCatalogInitializer {
 
     private final WordCatalogService wordCatalogService;
@@ -42,10 +44,14 @@ public class WordCatalogInitializer {
                 else skippedSpanish++;
             }
         }
-        return new WordInitializationResponse(insertedChinese + insertedSpanish,
+        WordInitializationResponse response = new WordInitializationResponse(insertedChinese + insertedSpanish,
                 skippedChinese + skippedSpanish, insertedChinese, skippedChinese,
                 insertedSpanish, skippedSpanish,
                 wordCatalogService.count("Chinese"), wordCatalogService.count("Spanish"));
+        log.info("word_catalog_initialized inserted={} skipped={} chineseTotal={} spanishTotal={}",
+                response.inserted(), response.skipped(), response.totalChineseWords(),
+                response.totalSpanishWords());
+        return response;
     }
 
     private BulkWordUploadRequest read(String location, String label) {

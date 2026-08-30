@@ -2,9 +2,9 @@ spring:
   application:
     name: language-api
   datasource:
-    url: ${DATABASE_URL:jdbc:postgresql://localhost:5432/language_api}
-    username: ${DATABASE_USERNAME:language_api}
-    password: ${DATABASE_PASSWORD:language_api}
+    url: ${DATABASE_URL}
+    username: ${DATABASE_USERNAME}
+    password: ${DATABASE_PASSWORD}
     driver-class-name: org.postgresql.Driver
   flyway:
     enabled: true

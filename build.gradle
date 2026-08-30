@@ -26,10 +26,14 @@ dependencies {
     runtimeOnly 'org.flywaydb:flyway-database-postgresql'
     implementation 'org.springframework.security:spring-security-crypto'
     implementation 'org.springdoc:springdoc-openapi-starter-webmvc-ui:3.0.3'
+    compileOnly 'org.projectlombok:lombok:1.18.46'
+    annotationProcessor 'org.projectlombok:lombok:1.18.46'
     runtimeOnly 'org.postgresql:postgresql'
 
     testImplementation 'org.springframework.boot:spring-boot-starter-test'
     testImplementation 'org.springframework.boot:spring-boot-starter-webmvc-test'
+    testCompileOnly 'org.projectlombok:lombok:1.18.46'
+    testAnnotationProcessor 'org.projectlombok:lombok:1.18.46'
     testRuntimeOnly 'com.h2database:h2'
     testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
 }

@@ -10,10 +10,12 @@ import java.time.LocalDateTime;
 import com.languageui.api.user.UserService;
 import com.languageui.api.streak.StreakService;
 import com.languageui.api.word.WordEntry;
+import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
 @Service
+@Slf4j
 public class DailyWordService {
     private static final Set<String> HSK_LEVELS = Set.of("HSK1", "HSK2", "HSK3", "HSK4", "HSK5", "HSK6");
     private static final Set<String> CEFR_LEVELS = Set.of("A1", "A2", "B1", "B2", "C1", "C2");
@@ -45,6 +47,8 @@ public class DailyWordService {
                 language, request.numberOfWords(), request.doNotRepeat(), level);
         repository.savePreferences(userId, preferences);
         repository.deleteDeliveries(userId, LocalDate.now());
+        log.info("daily_word_preferences_updated userId={} language={} level={} count={} noRepeat={}",
+                userId, language, level, preferences.numberOfWords(), preferences.doNotRepeat());
         return preferences;
     }
 
@@ -56,6 +60,8 @@ public class DailyWordService {
         if (words.isEmpty()) {
             words = repository.candidates(userId, preferences, preferences.numberOfWords());
             repository.saveDeliveries(userId, today, words);
+            log.info("daily_words_generated userId={} date={} requested={} delivered={}",
+                    userId, today, preferences.numberOfWords(), words.size());
         }
         return response(userId, today, preferences, words);
     }
@@ -83,6 +89,8 @@ public class DailyWordService {
         boolean newlyCompleted = repository.complete(userId, today, wordId, LocalDateTime.now());
         if (newlyCompleted && repository.sessionCompleted(userId, today)) {
             streakService.record(userId);
+            log.info("daily_word_session_completed userId={} date={} wordCount={}",
+                    userId, today, current.words().size());
         }
         return response(userId, today, current.preferences(), current.words());
     }

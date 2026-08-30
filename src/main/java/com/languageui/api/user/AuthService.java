@@ -4,9 +4,11 @@ import java.util.Map;
 import java.util.UUID;
 import java.util.concurrent.ConcurrentHashMap;
 
+import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
 
 @Service
+@Slf4j
 public class AuthService {
 
     private final Map<String, UUID> sessions = new ConcurrentHashMap<>();
@@ -20,11 +22,14 @@ public class AuthService {
         UserAccount user = userService.create(
                 new CreateUserRequest(request.email(), request.firstName(), request.lastName(),
                         request.password()), request.username());
+        log.info("user_signed_up userId={}", user.id());
         return createSession(user);
     }
 
     public AuthResponse signIn(SignInRequest request) {
-        return createSession(userService.authenticate(request.email(), request.password()));
+        UserAccount user = userService.authenticate(request.email(), request.password());
+        log.info("user_signed_in userId={}", user.id());
+        return createSession(user);
     }
 
     public UserAccount currentUser(String authorization) {
@@ -40,7 +45,10 @@ public class AuthService {
     }
 
     public void signOut(String authorization) {
-        sessions.remove(bearerToken(authorization));
+        UUID userId = sessions.remove(bearerToken(authorization));
+        if (userId != null) {
+            log.info("user_signed_out userId={}", userId);
+        }
     }
 
     private AuthResponse createSession(UserAccount user) {
