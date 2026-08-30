@@ -13,7 +13,8 @@ spring:
     locations: classpath:db/migration
 
 server:
-  port: ${PORT:8000}
+  port: ${PORT:8080}
+  forward-headers-strategy: framework
 
 app:
   username:
